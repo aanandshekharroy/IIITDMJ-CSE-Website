@@ -18,7 +18,7 @@ class StudentsController extends Controller
         //
         $phdStudents=Student::where('programme','Phd')->get();
         $mtechStudents=Student::where('programme','M.tech')->get();
-        return $mtechStudents;
+        return view('students')->with(['mtechStudents'=>$mtechStudents,'phdStudents'=>$phdStudents]);
     }
 
     /**
