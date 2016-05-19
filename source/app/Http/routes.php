@@ -14,7 +14,12 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
 Route::resource('news-and-events', 'NewsAndEventsController');
+
 Route::auth();
 
 Route::get('/home', 'HomeController@index');
+
+Route::get('/staff', 'StaffController@index');
+
