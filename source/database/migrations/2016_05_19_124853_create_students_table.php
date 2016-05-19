@@ -12,8 +12,16 @@ class CreateStudentsTable extends Migration
      */
     public function up()
     {
-        Schema::table('students', function (Blueprint $table) {
+        Schema::create('students', function (Blueprint $table) {
             //
+            $table->increments('id');
+            $table->string('name');
+            $table->enum('programme', ['M.tech', 'Phd','B.tech']);
+            $table->string('research-area');
+            $table->string('guide');
+            $table->date('completion-date');
+            $table->string('picture');
+            $table->timestamps();
         });
     }
 
@@ -26,6 +34,7 @@ class CreateStudentsTable extends Migration
     {
         Schema::table('students', function (Blueprint $table) {
             //
+            Schema::dropIfExists('students');
         });
     }
 }

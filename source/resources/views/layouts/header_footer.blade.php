@@ -1,9 +1,3 @@
-
-
-<!-- Header section -->
-
-<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
-<!--[if IE 9 ]><html class="ie ie9" lang="en"> <![endif]-->
 <html lang="en">
 
 <head>
@@ -50,13 +44,6 @@
 			<ul class="sf-menu">
 				<li class="normal_drop_down">
 				<a href="index.php">Home</a>
-				<!--<div class="mobnav-subarrow"></div>
-				<ul>
-					<li><a href="index.php">Revolution version</a></li>
-					<li><a href="index_2.html">Subscription version</a></li>
-					<li><a href="index_3.html">With Ajax Search bar</a></li>
-                    <li><a href="index_4.html">With Video</a></li>
-				</ul>-->
 				</li>
 				<li class="normal_drop_down">
 				<a href="program.php">Programs</a>
@@ -65,13 +52,6 @@
                 	<li><a href="btech.php">B.Tech.</a></li>
                     <li><a href="mtech.php">M.Tech.</a></li>
                     <li><a href="phd.php">Ph.D.</a></li>
-                    <!--<li><a href="course_detail_page_video.html ">Course page Video</a></li>
-                    <li><a href="course_details_4.html">Course details v1</a></li>
-                    <li><a href="course_details_5.html">Course details v2</a></li>
-                    <li><a href="course_details_2.html">Course details v3</a></li>
-					<li><a href="course_details_1.html">Course details v4</a></li>
-                    <li><a href="course_details_3.html">Course details v5</a></li>
-                    <li><a href="course_timeline.html">Seminar timeline</a></li>-->
 				</ul>
 				</li>
 				<li class="normal_drop_down">
@@ -79,7 +59,7 @@
 				<div class="mobnav-subarrow"></div>
 				<ul>
                 	<li><a href="courses_grid.html">Faculty</a></li>
-                    <li><a href="courses_list.html">Student</a></li>
+                    <li><a href="students">Student</a></li>
                     <li><a href="course_detail_page_txt.html ">Staff</a></li>
 				</ul>
 				</li>
@@ -126,15 +106,6 @@
 				<li><a href="contacts.html">Contacts</a></li>
 			</ul>
             
-            <!--<div class="col-md-3 pull-right hidden-sm hidden-xs">
-                    <div id="sb-search" class="sb-search">
-						<form>
-							<input class="sb-search-input" placeholder="Enter your search term..." type="text" value="" name="search" id="search">
-							<input class="sb-search-submit" type="submit" value="">
-							<span class="sb-icon-search"></span>
-						</form>
-					</div>
-              </div><!-- End search -->
               
 		</div>
 	</div><!-- End row -->
@@ -148,22 +119,7 @@
 
 <!-- Footer section -->
 <footer>
-<!--<div class="container">
-	<div class="row">
-		<div class="col-md-8 col-md-offset-2">
-			<h3>Subscribe to our Newsletter for latest news.</h3>
-			<div id="message-newsletter">
-			</div>
-			<form method="post" action="assets/newsletter.php" name="newsletter" id="newsletter" class="form-inline">
-				<input name="email_newsletter" id="email_newsletter" type="email" value="" placeholder="Your Email" class="form-control">
-				<button id="submit-newsletter" class=" button_outline"> Subscribe</button>
-			</form>
-		</div>
-	</div>
-</div>
 
-<hr>
--->
 <div class="container" id="nav-footer">
 	<div class="row text-left">
 		<div class="col-md-3 col-sm-3">
