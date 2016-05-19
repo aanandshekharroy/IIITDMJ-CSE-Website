@@ -25,45 +25,8 @@
     </ol>
     
 	 <div class="row"> 
-     
-     <aside class="col-md-4">
-     	<div class=" box_style_1">
-				<div class="widget" style="margin-top:15px;">
-					<div class="input-group">
-						<input type="text" class="form-control" placeholder="Search...">
-						<span class="input-group-btn">
-						<button class="btn btn-default" type="button" style="margin-left:0;"><i class="icon-search"></i></button>
-						</span>
-					</div><!-- /input-group -->
-				</div><!-- End Search -->
-                
-				<div class="widget">
-					<h4>Featured Events</h4>
-                    
-					<ul class="recent_post">
-						<li>
-						<i class="icon-calendar-empty"></i> 16th July, 2020
-						<div><a href="#">It is a long established fact that a reader will be distracted </a></div>
-						</li>
-						<li>
-						<i class="icon-calendar-empty"></i> 16th July, 2020
-						<div><a href="#">It is a long established fact that a reader will be distracted </a></div>
-						</li>
-						<li>
-						<i class="icon-calendar-empty"></i> 16th July, 2020
-						<div><a href="#">It is a long established fact that a reader will be distracted </a></div>
-						</li>
-                        <li>
-						<i class="icon-calendar-empty"></i> 16th July, 2020
-						<div><a href="#">It is a long established fact that a reader will be distracted </a></div>
-						</li>
-					</ul>
-				</div><!-- End widget -->
-				
-			</div><!-- End box-sidebar -->
-     </aside><!-- End aside -->    
+     	@include('notices')  
      <div class="col-md-8">
- 			
             <h2>{!!$detail->title!!}</h2>
              <p>{!!$detail->description!!}</p> 
      </div><!-- End col-md-8-->   

@@ -6,6 +6,8 @@ use Illuminate\Http\Request;
 
 use App\Http\Requests;
 use App\NewsEvents;
+use App\Notice;
+
 class NewsAndEventsController extends Controller
 {
     /**
@@ -17,10 +19,15 @@ class NewsAndEventsController extends Controller
     {
         //
         $newsData=NewsEvents::orderBy('created_at','DESC')->paginate(10);
-        $notices="";
+        $notices=NewsAndEventsController::getNotices();
+        //return $notices;
         return view('events_news_list')->with(['newsData'=>$newsData,'notices'=>$notices]);
     }
 
+    public function getNotices() {
+        $notices = Notice::orderBy('created_at','DESC')->get();
+        return $notices;
+    }
     /**
      * Show the form for creating a new resource.
      *
