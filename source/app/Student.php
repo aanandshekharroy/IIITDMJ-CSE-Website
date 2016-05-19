@@ -4,11 +4,10 @@ namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 
-class NewsEvents extends Model
+class Student extends Model
 {
     //
-    protected $table='newsEvents';
     protected $fillable = [
-       'title', 'description',
+       'name', 'programme','research-area','guide','completion-date','picture',
     ];
 }

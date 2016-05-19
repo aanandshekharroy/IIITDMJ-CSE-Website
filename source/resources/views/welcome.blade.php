@@ -5,7 +5,7 @@
             <ul class="sliderwrapper">  <!-- SLIDE  -->
                 <li data-transition="fade" data-slotamount="4" data-masterspeed="1500" >
                     <!-- MAIN IMAGE -->
-                    <img src="sliderimages/slide_5.jpg" alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                    <img src="/assets/sliderimages/slide_5.jpg" alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                     <!-- LAYERS -->
 
                     <!-- LAYER NR. 1 -->
@@ -19,7 +19,7 @@
                         data-endspeed="500"
                         data-endeasing="Power4.easeIn"
                         data-captionhidden="on"
-                        style="z-index: 2"><img src="sliderimages/logo.png" alt="">
+                        style="z-index: 2"><img src="/assets/sliderimages/logo.png" alt="">
                     </div>
                     
                     <!-- LAYER NR. 2 -->
@@ -115,7 +115,7 @@
                 <!-- SLIDE  -->
                 <li data-transition="zoomout" data-slotamount="4" data-masterspeed="1000" >
                     <!-- MAIN IMAGE -->
-                    <img src="sliderimages/slide_6.jpg" alt="slidebg2"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                    <img src="/assets/sliderimages/slide_6.jpg" alt="slidebg2"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                     <!-- LAYERS -->
 
                     <!-- LAYER NR. 1 -->
@@ -179,7 +179,7 @@
                 <!-- SLIDE  -->
                 <li data-transition="cube-horizontal" data-slotamount="4" data-masterspeed="1000" >
                     <!-- MAIN IMAGE -->
-                    <img src="sliderimages/slide_1.jpg" alt="slidebg3"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                    <img src="/assets/sliderimages/slide_1.jpg" alt="slidebg3"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                     <!-- LAYERS -->
 
                     <!-- LAYER NR. 1 -->
@@ -243,7 +243,7 @@
                  <!-- SLIDE  -->
                 <li data-transition="zoomin" data-slotamount="4" data-masterspeed="1000" >
                     <!-- MAIN IMAGE -->
-                    <img src="sliderimages/slide_7.jpg" alt="slidebg4"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                    <img src="/assets/sliderimages/slide_7.jpg" alt="slidebg4"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                     <!-- LAYERS -->
 
                     <!-- LAYER NR. 10 -->
@@ -348,7 +348,7 @@
                             <div class="col-item">
                             <span class="ribbon_course"></span>
                                 <div class="photo">
-                                    <a href="#"><img src="img/poetry.jpg" alt="" /></a>
+                                    <a href="#"><img src="/assets/img/poetry.jpg" alt="" /></a>
                                     <div class="cat_row"><a href="#">LITERATURE</a><span class="pull-right"><i class=" icon-clock"></i>6 Days</span></div>
                                 </div>
                                 <div class="info">
@@ -373,7 +373,7 @@
                         <div class="col-lg-3 col-md-6 col-sm-6">
                             <div class="col-item">
                                 <div class="photo">
-                                    <a href="#"><img src="img/business.jpg" alt="" /></a>
+                                    <a href="#"><img src="/assets/img/business.jpg" alt="" /></a>
                                     <div class="cat_row"><a href="#">MANAGEMENT</a><span class="pull-right"><i class=" icon-clock"></i>6 Days</span></div>
                                 </div>
                                 <div class="info">
@@ -651,7 +651,7 @@
         <hr class="add_bottom_30">
         <div class="row">
             <div class="col-md-12">
-                <p><img src="img/sponsors.jpg" alt="Pic" class="img-responsive"></p>
+                <p><img src="/assets/img/sponsors.jpg" alt="Pic" class="img-responsive"></p>
            </div>
         </div>
         </div><!-- End container -->
@@ -680,7 +680,7 @@
                                 <blockquote>
                                     <div class="row">
                                         <div class="col-sm-3 text-center">
-                                            <img class="img-circle" src="img/testimonial_1.jpg" alt="">
+                                            <img class="img-circle" src="/assets/img/testimonial_1.jpg" alt="">
                                         </div>
                                         <div class="col-sm-9">
                                             <p>
@@ -696,7 +696,7 @@
                                 <blockquote>
                                     <div class="row">
                                         <div class="col-sm-3 text-center">
-                                            <img class="img-circle" src="img/testimonial_2.jpg" alt="">
+                                            <img class="img-circle" src="/assets/img/testimonial_2.jpg" alt="">
                                         </div>
                                         <div class="col-sm-9">
                                             <p>
@@ -712,7 +712,7 @@
                                 <blockquote>
                                     <div class="row">
                                         <div class="col-sm-3 text-center">
-                                            <img class="img-circle" src="img/testimonial_1.jpg" alt="">
+                                            <img class="img-circle" src="/assets/img/testimonial_1.jpg" alt="">
                                         </div>
                                         <div class="col-sm-9">
                                             <p>

@@ -17,6 +17,8 @@ Route::get('/', function () {
 
 Route::resource('news-and-events', 'NewsAndEventsController');
 
+Route::resource('students', 'StudentsController');
+
 Route::auth();
 
 Route::get('/home', 'HomeController@index');

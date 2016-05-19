@@ -1,9 +1,3 @@
-
-
-<!-- Header section -->
-
-<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
-<!--[if IE 9 ]><html class="ie ie9" lang="en"> <![endif]-->
 <html lang="en">
 
 <head>
@@ -35,16 +29,8 @@
   <header>
   	<div class="container">
 	<div class="row">
-		<div class="col-md-3 col-sm-3 col-xs-3">
-			<a href="index.html" id="logo">Learn</a>
-		</div>
-		<div class="col-md-9 col-sm-9 col-xs-9">
-			<div class="pull-right"><a href="login.html" class="button_top" id="login_top">Sign in</a> <a href="apply_2.html" class="button_top hidden-xs" id="apply">Apply now</a></div>
-            <ul id="top_nav" class="hidden-xs">
-                <li><a href="about_us.html">About</a></li>
-                <li><a href="apply.html">Wizard Apply</a></li>
-                <li><a href="register.html">Register</a></li>
-            </ul>
+		<div class="col-md-12 col-sm-12 col-xs-12">
+			<a href="/" id="logo">Department of Computer Science & Engineering</a>
 		</div>
 	</div>
 </div>
@@ -57,33 +43,29 @@
 			<div id="mobnav-btn"></div>
 			<ul class="sf-menu">
 				<li class="normal_drop_down">
-				<a href="#">Home</a>
+				<a href="index.php">Home</a>
+				</li>
+				<li class="normal_drop_down">
+				<a href="program.php">Programs</a>
 				<div class="mobnav-subarrow"></div>
 				<ul>
-					<li><a href="index.html">Revolution version</a></li>
-					<li><a href="index_2.html">Subscription version</a></li>
-					<li><a href="index_3.html">With Ajax Search bar</a></li>
-                    <li><a href="index_4.html">With Video</a></li>
+                	<li><a href="btech.php">B.Tech.</a></li>
+                    <li><a href="mtech.php">M.Tech.</a></li>
+                    <li><a href="phd.php">Ph.D.</a></li>
 				</ul>
 				</li>
 				<li class="normal_drop_down">
-				<a href="#">Course</a>
+				<a href="#">People</a>
 				<div class="mobnav-subarrow"></div>
 				<ul>
-                	<li><a href="courses_grid.html">Courses grid</a></li>
-                    <li><a href="courses_list.html">Courses list</a></li>
-                    <li><a href="course_detail_page_txt.html ">Course page Txt</a></li>
-                    <li><a href="course_detail_page_video.html ">Course page Video</a></li>
-                    <li><a href="course_details_4.html">Course details v1</a></li>
-                    <li><a href="course_details_5.html">Course details v2</a></li>
-                    <li><a href="course_details_2.html">Course details v3</a></li>
-					<li><a href="course_details_1.html">Course details v4</a></li>
-                    <li><a href="course_details_3.html">Course details v5</a></li>
-                    <li><a href="course_timeline.html">Seminar timeline</a></li>
+                	<li><a href="courses_grid.html">Faculty</a></li>
+                    <li><a href="students">Student</a></li>
+                    <li><a href="course_detail_page_txt.html ">Staff</a></li>
 				</ul>
 				</li>
-				<li><a href="prices_plans.html">Prices &amp; Plans</a></li>
 				<li><a href="blog.html">Blog</a></li>
+				<li><a href="blog.html">Facilities</a></li>
+				<li><a href="blog.html">Gallery</a></li>
                 <li class="mega_drop_down">
 				<a href="#">Pages (Megamenu)</a>
                 <div class="mobnav-subarrow"></div>
@@ -107,7 +89,7 @@
                               <li><a href="login.html">Login</a></li>
                               <li><a href="register.html">Register</a></li>
                               <li><a href="shortcodes.html">Shortcodes</a></li>
-                              <li><a href="gallery.html">Photo &amp; video gallery <img src="/assets/img/new.png" alt=""></a></li>
+                              <li><a href="gallery.html">Photo &amp; video gallery <img src="img/new.png" alt=""></a></li>
                           </ul>
                     </div>
                     <div class="col-md-4 col-sm-6">
@@ -124,15 +106,6 @@
 				<li><a href="contacts.html">Contacts</a></li>
 			</ul>
             
-            <div class="col-md-3 pull-right hidden-sm hidden-xs">
-                    <div id="sb-search" class="sb-search">
-						<form>
-							<input class="sb-search-input" placeholder="Enter your search term..." type="text" value="" name="search" id="search">
-							<input class="sb-search-submit" type="submit" value="">
-							<span class="sb-icon-search"></span>
-						</form>
-					</div>
-              </div><!-- End search -->
               
 		</div>
 	</div><!-- End row -->
@@ -146,47 +119,36 @@
 
 <!-- Footer section -->
 <footer>
-<div class="container">
-	<div class="row">
-		<div class="col-md-8 col-md-offset-2">
-			<h3>Subscribe to our Newsletter for latest news.</h3>
-			<div id="message-newsletter">
-			</div>
-			<form method="post" action="assets/newsletter.php" name="newsletter" id="newsletter" class="form-inline">
-				<input name="email_newsletter" id="email_newsletter" type="email" value="" placeholder="Your Email" class="form-control">
-				<button id="submit-newsletter" class=" button_outline"> Subscribe</button>
-			</form>
-		</div>
-	</div>
-</div>
-
-<hr>
 
 <div class="container" id="nav-footer">
 	<div class="row text-left">
 		<div class="col-md-3 col-sm-3">
-			<h4>Browse</h4>
+			<h4>FACULTIES</h4>
 			<ul>
-				<li><a href="prices_plans.html">Prices</a></li>
-				<li><a href="courses_grid.html">Courses</a></li>
-				<li><a href="blog.html">Blog</a></li>
-				<li><a href="contacts.html">Contacts</a></li>
+				<li><a href="prices_plans.html">Prof. Aprajita Ojha</a></li>
+				<li><a href="courses_grid.html">Dr. Pritee Khanna</a></li>
+				<li><a href="blog.html">Dr. Atul Gupta</a></li>
+				<li><a href="contacts.html">Dr. Sraban Mohanty</a></li>
+				<li><a href="courses_grid.html">Dr. Vinod Kumar Jain</a></li>
+				<li><a href="blog.html">Dr. Manish Kumar Bajpai</a></li>
+				<li><a href="contacts.html">Dr. Ruchir Gupta</a></li>
+				<li><a href="blog.html">Mr. Ayan Seal</a></li>
 			</ul>
 		</div><!-- End col-md-4 -->
 		<div class="col-md-3 col-sm-3">
-			<h4>Next Courses</h4>
+			<h4>RESEARCH GROUP</h4>
 			<ul>
-				<li><a href="course_details_1.html">Biology</a></li>
-				<li><a href="course_details_2.html">Management</a></li>
-				<li><a href="course_details_2.html">History</a></li>
-				<li><a href="course_details_3.html">Litterature</a></li>
+				<li><a href="course_details_1.html">IMAGE AND VISION ENGINEERING GROUP</a></li>
+				<li><a href="course_details_2.html">ROBOTICS, AUTOMATION AND CONTROL ENGINEERING</a></li>
+				<li><a href="course_details_2.html">SOFTWARE ENGINEERING RESEARCH GROUP</a></li>
+				<li><a href="course_details_3.html">SECURITY RESEARCH GROUP</a></li>
 			</ul>
 		</div><!-- End col-md-4 -->
 		<div class="col-md-3 col-sm-3">
-			<h4>About Learn</h4>
+			<h4>About IIITDM</h4>
 			<ul>
 				<li><a href="about_us.html">About Us</a></li>
-				<li><a href="apply_2.html">Apply</a></li>
+				<li><a href="apply_2.html">Web Team</a></li>
 				<li><a href="#">Terms and conditions</a></li>
 				<li><a href="register.html">Register</a></li>
 			</ul>
@@ -198,8 +160,8 @@
 				<li><a href="#"><i class=" icon-google"></i></a></li>
 			</ul>
 			<ul>
-				<li><strong class="phone">+0034 43244 44</strong><br><small>Mon - Fri / 9.00AM - 06.00PM</small></li>
-				<li>Questions? <a href="#">questions@domain.com</a></li>
+				<li><strong class="phone">+91-761-2632273</strong><br><small>Mon - Fri / 9.00AM - 05.00PM</small></li>
+				<li>Questions? <a href="#">question@iiitdmj.ac.in</a></li>
 			</ul>
 		</div><!-- End col-md-4 -->
 	</div><!-- End row -->
@@ -210,6 +172,29 @@
 <div id="toTop">Back to top</div>
 <!-- JQUERY -->
 <script src="/assets/js/jquery-1.10.2.min.js"></script>
+<!-- jQuery REVOLUTION Slider  -->
+<script type="text/javascript" src="/assets/rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
+<script type="text/javascript" src="/assets/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+<script type="text/javascript">
+
+		var revapi;
+
+		jQuery(document).ready(function() {
+
+			   revapi = jQuery('.tp-banner').revolution(
+				{
+					delay:9000,
+					startwidth:1700,
+					startheight:600,
+					hideThumbs:true,
+					navigationType:"none",
+					fullWidth:"on",
+					forceFullWidth:"on"
+				});
+
+		});	//ready
+
+	</script>
 
 <!-- OTHER JS --> 
 <script src="/assets/js/superfish.js"></script>
