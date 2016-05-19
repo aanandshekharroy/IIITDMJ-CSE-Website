@@ -19,6 +19,7 @@ class NewsAndEventsController extends Controller
     {
         //
         $newsData=NewsEvents::orderBy('created_at','DESC')->paginate(10);
+
         $notices=NewsAndEventsController::getNotices();
         //return $notices;
         return view('events_news_list')->with(['newsData'=>$newsData,'notices'=>$notices]);
