@@ -27,8 +27,18 @@ class NewsAndEventsController extends Controller
 
     public function getNotices() {
         $notices = Notice::orderBy('created_at','DESC')->get();
+
         return $notices;
     }
+    public function show($id)
+    {
+        //
+
+        $detail=NewsEvents::where('id',$id)->first();
+        $notices=NewsAndEventsController::getNotices();
+        return view('news_details')->with(['detail'=>$detail,'notices'=>$notices]);
+    }
+
     /**
      * Show the form for creating a new resource.
      *
@@ -56,13 +66,7 @@ class NewsAndEventsController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function show($id)
-    {
-        //
-        $detail=NewsEvents::where('id',$id)->first();
-        return view('news_details')->with('detail',$detail);
-    }
-
+    
     /**
      * Show the form for editing the specified resource.
      *
