@@ -5,10 +5,7 @@
 	<div class="row">
 		<div class="col-md-10 col-md-offset-1 text-center">
 			<h1>News page</h1>
-			<p class="lead boxed ">Ex utamur fierent tacimates duis choro an</p>
-			<p class="lead">
-				Lorem ipsum dolor sit amet, ius minim gubergren ad. At mei sumo sonet audiam, ad mutat elitr platonem vix. Ne nisl idque fierent vix. 
-			</p>
+			
 		</div>
 	</div><!-- End row -->
 </div><!-- End container -->

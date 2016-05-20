@@ -5,10 +5,8 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 
 use App\Http\Requests;
-use App\NewsEvents;
-use App\Notice;
-
-class NewsAndEventsController extends Controller
+use App\Research;
+class ResearchController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -18,25 +16,8 @@ class NewsAndEventsController extends Controller
     public function index()
     {
         //
-        $newsData=NewsEvents::orderBy('created_at','DESC')->paginate(20);
-
-        $notices=NewsAndEventsController::getNotices();
-        //return $notices;
-        return view('events_news_list')->with(['newsData'=>$newsData,'notices'=>$notices]);
-    }
-
-    public function getNotices() {
-        $notices = Notice::orderBy('created_at','DESC')->get();
-
-        return $notices;
-    }
-    public function show($id)
-    {
-        //
-
-        $detail=NewsEvents::where('id',$id)->first();
-        $notices=NewsAndEventsController::getNotices();
-        return view('news_details')->with(['detail'=>$detail,'notices'=>$notices]);
+        $research=Research::orderBy('created_at','DESC')->paginate(20);
+        return view('research')->with('research',$research);
     }
 
     /**
@@ -66,7 +47,11 @@ class NewsAndEventsController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    
+    public function show($id)
+    {
+        //
+    }
+
     /**
      * Show the form for editing the specified resource.
      *

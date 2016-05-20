@@ -60,10 +60,10 @@
 				<ul>
                 	<li><a href="courses_grid.html">Faculty</a></li>
                     <li><a href="students">Student</a></li>
-                    <li><a href="course_detail_page_txt.html ">Staff</a></li>
+                    <li><a href="staff">Staff</a></li>
 				</ul>
 				</li>
-				<li><a href="blog.html">Blog</a></li>
+				<li><a href="research">Research</a></li>
 				<li><a href="blog.html">Facilities</a></li>
 				<li><a href="blog.html">Gallery</a></li>
                 <li class="mega_drop_down">
@@ -78,7 +78,7 @@
                                 <li><a href="teacher_profile.html">Teacher profile</a></li>
                                 <li><a href="member_profile.html">Member profile</a></li>
                                 <li><a href="blog.html">Blog</a></li>
-                                <li><a href="/news-and-events">News &amp; Events</a></li>
+                                <li><a href="news-and-events">News &amp; Events</a></li>
                             </ul>
                     </div>
                   <div class="col-md-4 col-sm-6">

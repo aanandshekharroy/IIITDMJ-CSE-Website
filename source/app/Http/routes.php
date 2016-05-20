@@ -19,6 +19,9 @@ Route::resource('news-and-events', 'NewsAndEventsController');
 
 Route::resource('students', 'StudentsController');
 
+Route::resource('research','ResearchController');
+
+Route::resource('research-group','ResearchGroupController');
 Route::auth();
 
 Route::get('/home', 'HomeController@index');
