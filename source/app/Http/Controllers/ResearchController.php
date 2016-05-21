@@ -17,6 +17,7 @@ class ResearchController extends Controller
     {
         //
         $research=Research::orderBy('created_at','DESC')->paginate(20);
+       // return $research;
         return view('research')->with('research',$research);
     }
 
@@ -50,6 +51,8 @@ class ResearchController extends Controller
     public function show($id)
     {
         //
+        $research=Research::where('rId',$id)->first();
+        return view('research')->with('researchDetail',$research);
     }
 
     /**

@@ -63,7 +63,7 @@
                     <li><a href="staff">Staff</a></li>
 				</ul>
 				</li>
-				<li><a href="research">Research</a></li>
+				<li><a href="/research">Research</a></li>
 				<li><a href="blog.html">Facilities</a></li>
 				<li><a href="blog.html">Gallery</a></li>
                 <li class="mega_drop_down">
@@ -125,23 +125,22 @@
 		<div class="col-md-3 col-sm-3">
 			<h4>FACULTIES</h4>
 			<ul>
-				<li><a href="prices_plans.html">Prof. Aprajita Ojha</a></li>
-				<li><a href="courses_grid.html">Dr. Pritee Khanna</a></li>
-				<li><a href="blog.html">Dr. Atul Gupta</a></li>
-				<li><a href="contacts.html">Dr. Sraban Mohanty</a></li>
-				<li><a href="courses_grid.html">Dr. Vinod Kumar Jain</a></li>
-				<li><a href="blog.html">Dr. Manish Kumar Bajpai</a></li>
-				<li><a href="contacts.html">Dr. Ruchir Gupta</a></li>
-				<li><a href="blog.html">Mr. Ayan Seal</a></li>
+				@if(isset($faculty))
+					@foreach ( $faculty as $item)
+						<li><a href="/faculty/{{$item->fId}}">{{$item->name}}</a></li>
+					@endforeach
+				@endif
+				
 			</ul>
 		</div><!-- End col-md-4 -->
 		<div class="col-md-3 col-sm-3">
 			<h4>RESEARCH GROUP</h4>
 			<ul>
-				<li><a href="course_details_1.html">IMAGE AND VISION ENGINEERING GROUP</a></li>
-				<li><a href="course_details_2.html">ROBOTICS, AUTOMATION AND CONTROL ENGINEERING</a></li>
-				<li><a href="course_details_2.html">SOFTWARE ENGINEERING RESEARCH GROUP</a></li>
-				<li><a href="course_details_3.html">SECURITY RESEARCH GROUP</a></li>
+				@if(isset($researchGroup))
+					@foreach ($researchGroup as $group)
+						<li><a href="research-group/{{$group->rgId}}">{{$group->name}}</a></li>		
+					@endforeach
+				@endif
 			</ul>
 		</div><!-- End col-md-4 -->
 		<div class="col-md-3 col-sm-3">

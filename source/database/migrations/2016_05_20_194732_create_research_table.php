@@ -16,10 +16,13 @@ class CreateResearchTable extends Migration
         Schema::create('research', function (Blueprint $table) {
             //
             $table->increments('rId');
+            $table->integer('sId')->unsigned()->nullable(false);
             $table->integer('rgId')->unsigned()->nullable(false);
             $table->string('title');
             $table->longText('content');
-            $table->string('guide');
+            $table->integer('fId')->unsigned()->nullable(false);
+            $table->foreign('fId')->references('fId')->on('faculty');
+            $table->foreign('sId')->references('sId')->on('students');
             $table->foreign('rgId')->references('rgId')->on('research-group');
             $table->timestamps();
         });

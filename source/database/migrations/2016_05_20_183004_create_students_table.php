@@ -1,3 +1,4 @@
+
 <?php
 
 use Illuminate\Database\Schema\Blueprint;
@@ -14,11 +15,13 @@ class CreateStudentsTable extends Migration
     {
         Schema::create('students', function (Blueprint $table) {
             //
-            $table->increments('id');
+            $table->increments('sId');
             $table->string('name');
             $table->enum('programme', ['M.tech', 'Phd','B.tech']);
             $table->string('research-area');
-            $table->string('guide');
+
+            $table->integer('fId')->unsigned()->nullable(false);
+            $table->foreign('fId')->references('fId')->on('faculty');
             $table->date('completion-date');
             $table->string('picture');
             $table->timestamps();

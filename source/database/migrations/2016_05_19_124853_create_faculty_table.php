@@ -3,7 +3,7 @@
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateResearchDevGroupTable extends Migration
+class CreateFacultyTable extends Migration
 {
     /**
      * Run the migrations.
@@ -12,10 +12,11 @@ class CreateResearchDevGroupTable extends Migration
      */
     public function up()
     {
-        Schema::create('research-group', function (Blueprint $table) {
-            
-            $table->increments('rgId');
+        Schema::create('faculty', function (Blueprint $table) {
+            //
+            $table->increments('fId');
             $table->string('name');
+            $table->string('webpage');
         });
     }
 
@@ -26,9 +27,9 @@ class CreateResearchDevGroupTable extends Migration
      */
     public function down()
     {
-        Schema::table('research-group', function (Blueprint $table) {
+        Schema::table('faculty', function (Blueprint $table) {
             //
-            Schema::dropIfExists('research-group');
+            Schema::dropIfExists('faculty');
         });
     }
 }

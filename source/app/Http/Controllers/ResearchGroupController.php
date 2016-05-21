@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 
 use App\Http\Requests;
-
+use App\Research;
 class ResearchGroupController extends Controller
 {
     /**
@@ -48,7 +48,8 @@ class ResearchGroupController extends Controller
     public function show($id)
     {
         //
-        
+        $research=Research::where('rId',$id)->orderBy('created_at','DESC')->get();
+        return view('research')->with('research',$research);
     }
 
     /**

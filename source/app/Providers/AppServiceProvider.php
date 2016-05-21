@@ -3,7 +3,8 @@
 namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
-
+use App\ResearchGroup;
+use App\Faculty;
 class AppServiceProvider extends ServiceProvider
 {
     /**
@@ -14,6 +15,10 @@ class AppServiceProvider extends ServiceProvider
     public function boot()
     {
         //
+        // if(isset($researchGroup)&&)
+        $researchGroup=ResearchGroup::orderBy('name')->get();
+        $faculty=Faculty::orderBy('name')->get();
+        view()->share(['researchGroup'=>$researchGroup,'faculty'=>$faculty]);
     }
 
     /**
