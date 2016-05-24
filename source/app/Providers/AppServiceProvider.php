@@ -16,9 +16,9 @@ class AppServiceProvider extends ServiceProvider
     {
         //
         // if(isset($researchGroup)&&)
-        $researchGroup=ResearchGroup::orderBy('name')->get();
-        $faculty=Faculty::orderBy('name')->get();
-        view()->share(['researchGroup'=>$researchGroup,'faculty'=>$faculty]);
+        // $researchGroup=ResearchGroup::orderBy('name')->get();
+        // $faculty=Faculty::orderBy('name')->get();
+        // view()->share(['researchGroup'=>$researchGroup,'faculty'=>$faculty]);
     }
 
     /**

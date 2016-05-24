@@ -6,13 +6,16 @@ use Illuminate\Http\Request;
 
 use App\Http\Requests;
 use App\Student;
-class StudentsController extends Controller
+class StudentsController extends BaseController
 {
     /**
      * Display a listing of the resource.
      *
      * @return \Illuminate\Http\Response
      */
+    public function __construct(){
+        parent::__construct();;
+    }
     public function index()
     {
         //

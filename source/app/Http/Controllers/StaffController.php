@@ -8,13 +8,16 @@ use App\Http\Requests;
 
 use App\Staff;
 
-class StaffController extends Controller
+class StaffController extends BaseController
 {
     /**
      * Display a listing of the resource.
      *
      * @return \Illuminate\Http\Response
      */
+    public function __construct(){
+        parent::__construct();;
+    }
     public function index()
     {
          
