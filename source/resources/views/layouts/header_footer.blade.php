@@ -43,24 +43,24 @@
 			<div id="mobnav-btn"></div>
 			<ul class="sf-menu">
 				<li class="normal_drop_down">
-				<a href="index.php">Home</a>
+				<a href="/">Home</a>
 				</li>
 				<li class="normal_drop_down">
 				<a href="program.php">Programs</a>
 				<div class="mobnav-subarrow"></div>
 				<ul>
-                	<li><a href="btech.php">B.Tech.</a></li>
-                    <li><a href="mtech.php">M.Tech.</a></li>
-                    <li><a href="phd.php">Ph.D.</a></li>
+                	<li><a href="/programme/btech">B.Tech.</a></li>
+                    <li><a href="/programme/mtech">M.Tech.</a></li>
+                    <li><a href="/programme/phd">Ph.D.</a></li>
 				</ul>
 				</li>
 				<li class="normal_drop_down">
 				<a href="#">People</a>
 				<div class="mobnav-subarrow"></div>
 				<ul>
-                	<li><a href="courses_grid.html">Faculty</a></li>
-                    <li><a href="students">Student</a></li>
-                    <li><a href="staff">Staff</a></li>
+                	<li><a href="/faculty">Faculty</a></li>
+                    <li><a href="/students">Student</a></li>
+                    <li><a href="/staff">Staff</a></li>
 				</ul>
 				</li>
 				<li><a href="/research">Research</a></li>
@@ -78,7 +78,7 @@
                                 <li><a href="teacher_profile.html">Teacher profile</a></li>
                                 <li><a href="member_profile.html">Member profile</a></li>
                                 <li><a href="blog.html">Blog</a></li>
-                                <li><a href="news-and-events">News &amp; Events</a></li>
+                                <li><a href="/news-and-events">News &amp; Events</a></li>
                             </ul>
                     </div>
                   <div class="col-md-4 col-sm-6">
@@ -125,9 +125,10 @@
 		<div class="col-md-3 col-sm-3">
 			<h4>FACULTIES</h4>
 			<ul>
+			
 				@if(isset($faculty))
 					@foreach ( $faculty as $item)
-						<li><a href="/faculty/{{$item->fId}}">{{$item->name}}</a></li>
+						<li><a href="/faculty/{{$item->webpage}}">{{$item->name}}</a></li>
 					@endforeach
 				@endif
 				
@@ -138,7 +139,7 @@
 			<ul>
 				@if(isset($researchGroup))
 					@foreach ($researchGroup as $group)
-						<li><a href="research-group/{{$group->rgId}}">{{$group->name}}</a></li>		
+						<li><a href="/research-group/{{$group->rgId}}">{{$group->name}}</a></li>		
 					@endforeach
 				@endif
 			</ul>

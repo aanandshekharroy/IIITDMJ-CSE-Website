@@ -32,7 +32,7 @@
                    <div class="circ-wrapper pull-left">
                    <h3>{{$data->created_at->day}}<br>{{date("F", mktime(0, 0, 0, $data->created_at->month, 10))}}</h3></div>
                       <div class="media-body">
-                        <h4 class="media-heading"><a href="news-and-events/{{$data->id}}">{!!$data->title!!}</a></h4>
+                        <h4 class="media-heading"><a href="/news-and-events/{{$data->id}}">{!!$data->title!!}</a></h4>
                          {{--*/ $description = str_limit($data->description, 350, '...') /*--}}
                          <p>{!!$description!!}</p>
                       	<!-- <small><em>Posted By Admin</em></small> -->
