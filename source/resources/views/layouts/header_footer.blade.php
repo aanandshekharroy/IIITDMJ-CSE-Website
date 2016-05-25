@@ -63,7 +63,21 @@
                     <li><a href="/staff">Staff</a></li>
 				</ul>
 				</li>
-				<li><a href="/research">Research</a></li>
+				<li class="normal_drop_down">
+				<a href="/research">Research</a>
+				<div class="mobnav-subarrow"></div>
+				<ul>
+                	<li><a href="/projects">Projects</a></li>
+                	@if(isset($researchGroup))
+                	@foreach ($researchGroup as $group)
+						<li><a href="/research-group/{{$group->rgId}}">{{$group->name}}</a></li>		
+					@endforeach
+					@endif
+                    <!-- <li><a href="/programme/mtech">M.Tech.</a></li> -->
+                    <!-- <li><a href="/programme/phd">Ph.D.</a></li> -->
+				</ul>
+
+				</li>
 				<li><a href="blog.html">Facilities</a></li>
 				<li><a href="blog.html">Gallery</a></li>
                 <li class="mega_drop_down">

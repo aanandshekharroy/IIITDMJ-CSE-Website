@@ -24,6 +24,8 @@ Route::resource('research-group','ResearchGroupController');
 Route::resource('programme','ProgrammeController');
 
 Route::resource('faculty', 'FacultyController');
+
+Route::resource('projects','FacultyProjectsController');
 Route::auth();
 
 Route::get('/home', 'HomeController@index');
