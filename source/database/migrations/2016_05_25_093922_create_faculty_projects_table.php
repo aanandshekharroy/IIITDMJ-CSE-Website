@@ -18,10 +18,11 @@ class CreateFacultyProjectsTable extends Migration
             $table->integer('fId')->unsigned()->nullable(false);
             $table->foreign('fId')->references('fId')->on('faculty');
             $table->string('pName');
-            $table->longText('description');
+            //$table->longText('description');
             $table->date('start_date');
             $table->date('end_date');
             $table->string('funding_agency');
+            $table->integer('funding_amount');
             $table->string('PI');
             $table->string('co_PI');
             $table->enum('status',['active','ongoing','delayed','completed']);

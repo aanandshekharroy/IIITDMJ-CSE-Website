@@ -16,6 +16,8 @@ class CreateResearchDevGroupTable extends Migration
             
             $table->increments('rgId');
             $table->string('name');
+            $table->string('faculty_list');
+            $table->string('student_list');
         });
     }
 

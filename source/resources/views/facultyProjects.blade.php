@@ -5,10 +5,11 @@
     <tr>
       <th>Faculty</th>
       <th>Project</th>
-      <th>Description</th>
-      <th>Start date</th>
-      <th>End date</th>
+      <!-- <th>Description</th> -->
+      <th>Starting</th>
+      <th>Ending</th>
       <th>Funding agency</th>
+      <th>Funding amount</th>
       <th>Principle Investigator</th>
       <th>Co-Principle Investigator</th>
       <th>Status</th>
@@ -21,10 +22,11 @@
 	      <!-- <th scope="row">{{$project->pName}}</th> -->
 	      <td>{{$project->faculty->name}}</td>
 	      <td>{{$project->pName}}</td>
-	      <td>{{$project->description}}</td>
+	      
 	      <td>{{$project->start_date}}</td>
 	      <td>{{$project->end_date}}</td>
 	      <td>{{$project->funding_agency}}</td>
+        <td>{{$project->funding_amount}}</td>
 	      <td>{{$project->PI}}</td>
 	      <td>{{$project->co_PI}}</td>
 	      <td>{{$project->status}}</td>
