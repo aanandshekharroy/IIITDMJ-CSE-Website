@@ -30,114 +30,114 @@ include 'header.html';
                     	<div class="col-md-6 col-sm-6">
                         	<div class=" box_style_3">
                             	<p><img src="img/faculty/aojha.jpg" alt="Teacher" class="img-circle styled"></p>
-                                <h4 class="p-title">Patricia Doe <small>Biologist</small></h4>
-             					<p> When an unknown printer took a galley of type and <strong>scrambled it to make</strong> a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+                                <h4 class="p-title">Prof. Aparajita Ojha <small>Professor </small></h4>
+             					<p>Geometric Modelling, Computer Aided Geometric Design, Finite Elements, Spline Theory, Approximation Theory, Wavelet Analysis, Reconstruction of signals and Noise. Object Oriented Modelling, Design Patterns.</p>
                                 <ul class="social_team">
                                     <li><a href="#"><i class="icon-facebook"></i></a></li>
                                     <li><a href="#"><i class="icon-twitter"></i></a></li>
                                     <li><a href="#"><i class=" icon-google"></i></a></li>
 							</ul>    
                             <hr>
-                             <a href="teacher_profile.html" class="button_medium_outline">Profile</a>           
+                             <a href="aojha.php" class="button_medium_outline">Profile</a>           
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-6">
                         	<div class=" box_style_3">
                             	<p><img src="img/faculty/P.Khanna_pkhanna.jpg" alt="Teacher" class="img-circle styled"></p>
-                                <h4 class="p-title">Megan Fox <small>Engineer</small></h4>
-             					<p> When an unknown printer took a galley of type and <strong>scrambled it to make</strong> a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+                                <h4 class="p-title">Dr. Pritee Khanna <small>Associate Professor</small></h4>
+             					<p>Computer Graphics, Computer Aided Design, Biometrics, Image Retrieval and Indexing, etc.<br><br></p>
                                 <ul class="social_team">
                                     <li><a href="#"><i class="icon-facebook"></i></a></li>
                                     <li><a href="#"><i class="icon-twitter"></i></a></li>
                                     <li><a href="#"><i class=" icon-google"></i></a></li>
 							</ul>    
                             <hr>
-                             <a href="teacher_profile.html" class="button_medium_outline">Profile</a>                                  
+                             <a href="pkhanna.php" class="button_medium_outline">Profile</a>                                  
                             </div>
                         </div>
                         
                         <div class="col-md-6 col-sm-6">
                         	<div class=" box_style_3">
                             	<p><img src="img/faculty/atul.jpg" alt="Teacher" class="img-circle styled"></p>
-                                <h4 class="p-title">Silvia Doe <small>Biologist</small></h4>
-             					<p> When an unknown printer took a galley of type and <strong>scrambled it to make</strong> a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+                                <h4 class="p-title">Dr. Atul Gupta <small>Associate Professor & Head</small></h4>
+             					<p>Software Engineering, Object-oriented Systems, Empirical Software Engineering, Software Testing, Software Engineering Education.<br><br></p>
                                 <ul class="social_team">
                                     <li><a href="#"><i class="icon-facebook"></i></a></li>
                                     <li><a href="#"><i class="icon-twitter"></i></a></li>
                                     <li><a href="#"><i class=" icon-google"></i></a></li>
 							</ul>    
                             <hr>
-                             <a href="teacher_profile.html" class="button_medium_outline">Profile</a>                 
+                             <a href="atul.php" class="button_medium_outline">Profile</a>                 
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-6">
                         	<div class=" box_style_3">
                             	<p><img src="img/faculty/sarban - Copy.jpg" alt="Teacher" class="img-circle styled"></p>
-                                <h4 class="p-title">Roberta Twain <small>Engineer</small></h4>
-             					<p> When an unknown printer took a galley of type and <strong>scrambled it to make</strong> a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+                                <h4 class="p-title">Dr.Sraban Kumar Mohanty <small>Assistant Professor </small></h4>
+             					<p> I/O Efficient Algorithms, Cryptography, Scinctific Computing. <br><br><br></p>
                                 <ul class="social_team">
                                     <li><a href="#"><i class="icon-facebook"></i></a></li>
                                     <li><a href="#"><i class="icon-twitter"></i></a></li>
                                     <li><a href="#"><i class=" icon-google"></i></a></li>
 							</ul>    
                             <hr>
-                            <a href="teacher_profile.html" class="button_medium_outline">Profile</a>                      
+                            <a href="sraban.php" class="button_medium_outline">Profile</a>                      
                             </div>
                         </div>
 						<div class="col-md-6 col-sm-6">
                         	<div class=" box_style_3">
                             	<p><img src="img/faculty/vkjain.jpg" alt="Teacher" class="img-circle styled"></p>
-                                <h4 class="p-title">Silvia Doe <small>Biologist</small></h4>
-             					<p> When an unknown printer took a galley of type and <strong>scrambled it to make</strong> a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+                                <h4 class="p-title">Dr. Vinod Kumar Jain <small>Assistant Professor </small></h4>
+             					<p> Wireless Networks, Location Estimation in Indoor Wireless Networks, Security Issues of Location Estimation in Indoor Wireless Networks, Machine Learning, Pattern Recognition<br><br></p>
                                 <ul class="social_team">
                                     <li><a href="#"><i class="icon-facebook"></i></a></li>
                                     <li><a href="#"><i class="icon-twitter"></i></a></li>
                                     <li><a href="#"><i class=" icon-google"></i></a></li>
 							</ul>    
                             <hr>
-                             <a href="teacher_profile.html" class="button_medium_outline">Profile</a>                 
+                             <a href="vkjain.php" class="button_medium_outline">Profile</a>                 
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-6">
                         	<div class=" box_style_3">
-                            	<p><img src="img/teacher_4_small.jpg" alt="Teacher" class="img-circle styled"></p>
-                                <h4 class="p-title">Roberta Twain <small>Engineer</small></h4>
-             					<p> When an unknown printer took a galley of type and <strong>scrambled it to make</strong> a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+                            	<p><img src="img/faculty/mkbajpai.jpg" alt="Teacher" class="img-circle styled"></p>
+                                <h4 class="p-title">Dr. Manish Kumar Bajpai <small>Assistant Professor </small></h4>
+             					<p> High Performance Computing, Image Reconstruction, Climate Change, Non-destructive Evaluation. <br><br><br></p>
                                 <ul class="social_team">
                                     <li><a href="#"><i class="icon-facebook"></i></a></li>
                                     <li><a href="#"><i class="icon-twitter"></i></a></li>
                                     <li><a href="#"><i class=" icon-google"></i></a></li>
 							</ul>    
                             <hr>
-                            <a href="teacher_profile.html" class="button_medium_outline">Profile</a>                      
+                            <a href="mkbajpai.php" class="button_medium_outline">Profile</a>                      
                             </div>
                         </div>
 						<div class="col-md-6 col-sm-6">
                         	<div class=" box_style_3">
-                            	<p><img src="img/teacher_3_small.jpg" alt="Teacher" class="img-circle styled"></p>
-                                <h4 class="p-title">Silvia Doe <small>Biologist</small></h4>
-             					<p> When an unknown printer took a galley of type and <strong>scrambled it to make</strong> a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+                            	<p><img src="img/faculty/rgupta.jpg" alt="Teacher" class="img-circle styled"></p>
+                                <h4 class="p-title">Dr. Ruchir Gupta <small>Assistant Professor </small></h4>
+             					<p> Peer-to-Peer Networks, Information diffusion Algorithms, Reputation Management Systems, Cloud Computing.<br><br><br></p>
                                 <ul class="social_team">
                                     <li><a href="#"><i class="icon-facebook"></i></a></li>
                                     <li><a href="#"><i class="icon-twitter"></i></a></li>
                                     <li><a href="#"><i class=" icon-google"></i></a></li>
 							</ul>    
                             <hr>
-                             <a href="teacher_profile.html" class="button_medium_outline">Profile</a>                 
+                             <a href="rgupta.php" class="button_medium_outline">Profile</a>                 
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-6">
                         	<div class=" box_style_3">
-                            	<p><img src="img/teacher_4_small.jpg" alt="Teacher" class="img-circle styled"></p>
-                                <h4 class="p-title">Roberta Twain <small>Engineer</small></h4>
-             					<p> When an unknown printer took a galley of type and <strong>scrambled it to make</strong> a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+                            	<p><img src="img/faculty/ayan.jpg" alt="Teacher" class="img-circle styled"></p>
+                                <h4 class="p-title">Mr. Ayan Seal <small>Visiting Faculty </small></h4>
+             					<p> Image Processing and Pattern Recognition<br><br><br><br></p>
                                 <ul class="social_team">
                                     <li><a href="#"><i class="icon-facebook"></i></a></li>
                                     <li><a href="#"><i class="icon-twitter"></i></a></li>
                                     <li><a href="#"><i class=" icon-google"></i></a></li>
 							</ul>    
                             <hr>
-                            <a href="teacher_profile.html" class="button_medium_outline">Profile</a>                      
+                            <a href="ayan.php" class="button_medium_outline">Profile</a>                      
                             </div>
                         </div>
                         

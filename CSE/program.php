@@ -54,14 +54,14 @@ include 'header.html';
                             <div class="col-item">
                             <!--<span class="ribbon_course"></span>-->
                                 <div class="photo">
-                                    <a href="#"><img src="img/poetry.jpg" alt="" /></a>
+                                    <a href="#"><img src="img/poetry.JPG" alt="" /></a>
                                     <div class="cat_row"><a href="#"> B.Tech </a><span class="pull-right"><i class=" icon-clock"></i>4 Years</span></div>
                                 </div>
                                 <div class="info">
                                     <div class="row">
                                         <div class="course_info col-md-12 col-sm-12">
                                             <h4>Bachelor of Technology (B.Tech) Programme</h4>
-                                            <p >Institute offers four year undergraduate degree (B.Tech) programme in Computer Science & Engineering. The course curriculum for the undergraduate program gives the.. <!--flexibility to the students to prepare for advanced specializations. The department commits to offer a set of electives so that students can plan their academic program in advance. The course structure provides a right mix of compulsory and elective courses.--></p>
+                                            <p class="text-justify">Institute offers four year undergraduate degree (B.Tech) programme in Computer Science & Engineering. The course curriculum for the undergraduate program gives the.. <!--flexibility to the students to prepare for advanced specializations. The department commits to offer a set of electives so that students can plan their academic program in advance. The course structure provides a right mix of compulsory and elective courses.--></p>
                                             <div class="rating">
                                             <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class=" icon-star-empty"></i>
                                         </div>
@@ -79,14 +79,14 @@ include 'header.html';
                         <div class="col-lg-4 col-md-6">
                             <div class="col-item">
                                 <div class="photo">
-                                    <a href="#"><img src="img/business.jpg" alt="" /></a>
+                                    <a href="#"><img src="img/business.JPG" alt="" /></a>
                                     <div class="cat_row"><a href="#">M.Tech</a><span class="pull-right"><i class=" icon-clock"></i>2 Years</span></div>
                                 </div>
                                 <div class="info">
                                     <div class="row">
                                         <div class="course_info col-md-12 col-sm-12">
                                             <h4>Master of Technology (M.Tech) Programme</h4>
-                                            <p >Institute offers two year post graduate degree (M.Tech) programme in Computer Science & Engineering. The minimum residential requirement for the program is four.. <!--semesters. The program requires completion of 70 credits of which at least 28 units shall be through course work and 32 units through thesis work. Non-sponsored candidates who are Indian Nationals admitted to the regular full-time M.Tech Program through GATE are eligible for financial assistance. A teaching assistant can be asked to conduct labs, help an instructor in grading, and other course-related tasks. Currently the assistantship amount is Rs. 8000 per month.--></p>
+                                            <p class="text-justify">Institute offers two year post graduate degree (M.Tech) programme in Computer Science & Engineering. The minimum residential requirement for the program is four.. <!--semesters. The program requires completion of 70 credits of which at least 28 units shall be through course work and 32 units through thesis work. Non-sponsored candidates who are Indian Nationals admitted to the regular full-time M.Tech Program through GATE are eligible for financial assistance. A teaching assistant can be asked to conduct labs, help an instructor in grading, and other course-related tasks. Currently the assistantship amount is Rs. 8000 per month.--></p>
                                             <div class="rating">
                                             <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class=" icon-star-empty"></i>
                                         </div>
@@ -104,14 +104,14 @@ include 'header.html';
                         <div class="col-lg-4 col-md-6">
                             <div class="col-item">
                                 <div class="photo">
-                                    <a href="#"><img src="img/art.jpg" alt="" /></a>
+                                    <a href="#"><img src="img/art.JPG" alt="" /></a>
                                     <div class="cat_row"><a href="#">PhD</a><span class="pull-right"><i class=" icon-clock"></i>As Needed</span></div>
                                 </div>
                                 <div class="info">
                                     <div class="row">
                                         <div class="course_info col-md-12 col-sm-12">
                                             <h4>Doctor of Philosophy (PhD) Programme</h4>
-                                            <p > Institute offers doctoral degree (PhD) programme in Computer Science & Engineering.
+                                            <p class="text-justify"> Institute offers doctoral degree (PhD) programme in Computer Science & Engineering.
 											<br><br><br><br> </p>
                                             <div class="rating">
                                             <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class=" icon-star-empty"></i>

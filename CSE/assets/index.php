@@ -287,7 +287,7 @@ include 'header.html';
         <div class="row">
             <div class=" col-md-10 col-md-offset-1 text-center">
                 <h2>Why Join CSE</h2>
-                <p class="lead">
+                <p class="lead" >
                      To be recognized for distinctive excellence in education and research,<br>
                     An institution of choice for students and scholars and a catalyst for the sustainable socio-economic development of country.
                 </p>
@@ -349,14 +349,14 @@ include 'header.html';
                             <div class="col-item">
                             <!--<span class="ribbon_course"></span>-->
                                 <div class="photo">
-                                    <a href="#"><img src="img/poetry.JPG" alt="" /></a>
+                                    <a href="#"><img src="img/poetry.jpg" alt="" /></a>
                                     <div class="cat_row"><a href="#">B.Tech</a><span class="pull-right"><i class=" icon-clock"></i>4 Years</span></div>
                                 </div>
                                 <div class="info">
                                     <div class="row">
                                         <div class="course_info col-md-12 col-sm-12">
                                             <h4>Bachelor of Technology (B.Tech) Programme</h4>
-                                            <p >Institute offers four year undergraduate degree (B.Tech) programme in Computer Science & Engineering. The course curriculum for the undergraduate program gives the.. </p>
+                                            <p align="justify">Institute offers four year undergraduate degree (B.Tech) programme in Computer Science & Engineering. The course curriculum for the undergraduate program gives the.. </p>
                                             <div class="rating">
                                             <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class=" icon-star-empty"></i>
                                         	</div>
@@ -364,7 +364,7 @@ include 'header.html';
                                         </div>
                                     </div>
                                     <div class="separator clearfix">
-                                        <p class="btn-add"> <a href="apply_2.html"> </a></p>
+                                        <p class="btn-add"> <a href="apply_2.html"><i class="icon-export-4"></i> </a></p>
                                         <p class="btn-details"> <a href="btech.php"><i class=" icon-list"></i> Details</a></p>
                                     </div>
                                 </div>
@@ -374,14 +374,14 @@ include 'header.html';
                         <div class="col-lg-4 col-md-6 col-sm-6">
                             <div class="col-item">
                                 <div class="photo">
-                                    <a href="#"><img src="img/business.JPG" alt="" /></a>
+                                    <a href="#"><img src="img/business.jpg" alt="" /></a>
                                     <div class="cat_row"><a href="#">M.Tech</a><span class="pull-right"><i class=" icon-clock"></i>2 Years</span></div>
                                 </div>
                                 <div class="info">
                                     <div class="row">
                                         <div class="course_info col-md-12 col-sm-12">
                                             <h4>Master of Technology (M.Tech) Programme</h4>
-                                            <p > Institute offers two year post graduate degree (M.Tech) programme in Computer Science & Engineering. The minimum residential requirement for the program is four.. </p>
+                                            <p align="justify"> Institute offers two year post graduate degree (M.Tech) programme in Computer Science & Engineering. The minimum residential requirement for the program is four.. </p>
                                             <div class="rating">
                                             <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class=" icon-star-empty"></i><i class=" icon-star-empty"></i>
                                         </div>
@@ -389,7 +389,7 @@ include 'header.html';
                                         </div>
                                     </div>
                                     <div class="separator clearfix">
-                                        <p class="btn-add"> <a href="apply_2.html"> </a></p>
+                                        <p class="btn-add"> <a href="apply_2.html"><i class="icon-export-4"></i> </a></p>
                                         <p class="btn-details"> <a href="mtech.php"><i class=" icon-list"></i> Details</a></p>
                                     </div>
                                 </div>
@@ -399,14 +399,14 @@ include 'header.html';
                         <div class="col-lg-4 col-md-6 col-sm-6">
                             <div class="col-item">
                                 <div class="photo">
-                                    <a href="#"><img src="img/art.JPG" alt="" /></a>
+                                    <a href="#"><img src="img/art.jpg" alt="" /></a>
                                     <div class="cat_row"><a href="#">PhD</a><span class="pull-right"><i class=" icon-clock"></i>As Needed</span></div>
                                 </div>
                                 <div class="info">
                                     <div class="row">
                                         <div class="course_info col-md-12 col-sm-12">
                                             <h4>Doctor of Philosophy (PhD) Programme</h4>
-                                            <p > Institute offers doctoral degree (PhD) programme in Computer Science & Engineering. <br><br><br><br></p>
+                                            <p align="justify"> Institute offers doctoral degree (PhD) programme in Computer Science & Engineering. <br><br><br><br></p>
                                             <div class="rating">
                                             <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>
                                         </div>
@@ -414,7 +414,7 @@ include 'header.html';
                                         </div>
                                     </div>
                                     <div class="separator clearfix">
-                                        <p class="btn-add"> <a href="apply_2.html"> </a></p>
+                                        <p class="btn-add"> <a href="apply_2.html"><i class="icon-export-4"></i> </a></p>
                                         <p class="btn-details"> <a href="phd.php"><i class=" icon-list"></i> Details</a></p>
                                     </div>
                                 </div>
@@ -458,483 +458,135 @@ include 'header.html';
 <div class="container">
 	<div class="row">
 		<div class="span12" >
-			<div class="card col-md-3 card-style m-15" style="height:446.67px;overflow:hidden;">
+			<div class="card col-md-3 card-style m-15">
 				<header class="nav-style">
 					<div class="container-fluid">
 						<a class="navbar-" href="#"><h4>Faculties</h4></a>
 					</div>
 				</header>
-				<div id="scroll" style="height:374px; overflow:hidden;">
-				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/faculty/aojha.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-					<div class="card-block">
-						<h4 class="card-title">Aparajita Ojha</h4>
-						<p class="card-text">Professor</p>
-					</div>
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><strong>Phone:</strong></td>
-								<td>+91-761-2632 044(EX-103)</td>
-							</tr>
-							<tr>
-								<td><strong>Email:</strong></td>
-								<td>aojha@iiitdmj.ac.in</td>
-							</tr>
-							<tr>
-								<td><strong>Intranet Link:</strong></td>
-								<td><a href="http://web.iiitdmj.ac.in/~aojha">Click here..</a></td>
-							</tr>
-						<tbody>
-					</table>
-					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-					</div>
+				
+				<div class="card-content">
+				<img class="img-circle img-thumbnail" src="img/faculty/aojha.jpg" style="margin-bottom: 20px;" align="right" data-src="..." alt="Card image cap">
+				<div class="card-block" >
+					<h4 class="card-title">Aparajita Ojha</h4>
+					<p class="card-text">Professor</p>
 				</div>
-				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/faculty/P.Khanna_pkhanna.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-					<div class="card-block">
-						<h4 class="card-title">Pritee Khanna</h4>
-						<p class="card-text">Associate Professor</p>
-					</div>
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><strong>Phone:</strong></td>
-								<td>+91-761-2632 044(EX-103)</td>
-							</tr>
-							<tr>
-								<td><strong>Email:</strong></td>
-								<td>aojha@iiitdmj.ac.in</td>
-							</tr>
-							<tr>
-								<td><strong>Intranet Link:</strong></td>
-								<td><a href="http://web.iiitdmj.ac.in/~pkhanna">Click here..</a></td>
-							</tr>
-						<tbody>
-					</table>
-					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-					</div>
-				</div>
-				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/faculty/atul.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-					<div class="card-block">
-						<h4 class="card-title">Atul Gupta</h4>
-						<p class="card-text">Associate Professor</p>
-					</div>
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><strong>Phone:</strong></td>
-								<td>+91-761-2632 044(EX-103)</td>
-							</tr>
-							<tr>
-								<td><strong>Email:</strong></td>
-								<td>aojha@iiitdmj.ac.in</td>
-							</tr>
-							<tr>
-								<td><strong>Intranet Link:</strong></td>
-								<td><a href="http://web.iiitdmj.ac.in/~atul">Click here..</a></td>
-							</tr>
-						<tbody>
-					</table>
-					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-					</div>
-				</div>
-				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/faculty/sarban - Copy.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-					<div class="card-block">
-						<h4 class="card-title">Sraban Kumar Mohanty</h4>
-						<p class="card-text">Assistant Professor</p>
-					</div>
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><strong>Phone:</strong></td>
-								<td>+91-761-2632 044(EX-103)</td>
-							</tr>
-							<tr>
-								<td><strong>Email:</strong></td>
-								<td>aojha@iiitdmj.ac.in</td>
-							</tr>
-							<tr>
-								<td><strong>Intranet Link:</strong></td>
-								<td><a href="http://web.iiitdmj.ac.in/~sraban">Click here..</a></td>
-							</tr>
-						<tbody>
-					</table>
-					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-					</div>
-				</div>
-				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/faculty/vkjain.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-					<div class="card-block">
-						<h4 class="card-title">Vinod Kumar Jain</h4>
-						<p class="card-text">Assistant Professor</p>
-					</div>
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><strong>Phone:</strong></td>
-								<td>+91-761-2632 044(EX-103)</td>
-							</tr>
-							<tr>
-								<td><strong>Email:</strong></td>
-								<td>aojha@iiitdmj.ac.in</td>
-							</tr>
-							<tr>
-								<td><strong>Intranet Link:</strong></td>
-								<td><a href="http://web.iiitdmj.ac.in/~aojha">Click here..</a></td>
-							</tr>
-						<tbody>
-					</table>
-					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-					</div>
-				</div>
-				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/faculty/mkbajpai.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-					<div class="card-block">
-						<h4 class="card-title">Manish Kumar Bajpai</h4>
-						<p class="card-text">Assistant Professor</p>
-					</div>
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><strong>Phone:</strong></td>
-								<td>+91-761-2632 044(EX-103)</td>
-							</tr>
-							<tr>
-								<td><strong>Email:</strong></td>
-								<td>aojha@iiitdmj.ac.in</td>
-							</tr>
-							<tr>
-								<td><strong>Intranet Link:</strong></td>
-								<td><a href="http://web.iiitdmj.ac.in/~mkbajpai">Click here..</a></td>
-							</tr>
-						<tbody>
-					</table>
-					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-					</div>
-				</div>
-				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/faculty/rgupta.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-					<div class="card-block">
-						<h4 class="card-title">Ruchir Gupta</h4>
-						<p class="card-text">Assistant Professor</p>
-					</div>
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><strong>Phone:</strong></td>
-								<td>+91-761-2632 044(EX-103)</td>
-							</tr>
-							<tr>
-								<td><strong>Email:</strong></td>
-								<td>aojha@iiitdmj.ac.in</td>
-							</tr>
-							<tr>
-								<td><strong>Intranet Link:</strong></td>
-								<td><a href="http://web.iiitdmj.ac.in/~rgupta">Click here..</a></td>
-							</tr>
-						<tbody>
-					</table>
-					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-					</div>
-				</div>
-				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/faculty/ayan.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-					<div class="card-block">
-						<h4 class="card-title">Ayan Seal</h4>
-						<p class="card-text">Visiting Faculty</p>
-					</div>
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><strong>Phone:</strong></td>
-								<td>+91-761-2632 044(EX-103)</td>
-							</tr>
-							<tr>
-								<td><strong>Email:</strong></td>
-								<td>aojha@iiitdmj.ac.in</td>
-							</tr>
-							<tr>
-								<td><strong>Intranet Link:</strong></td>
-								<td><a href="http://web.iiitdmj.ac.in/~aojha">Click here..</a></td>
-							</tr>
-						<tbody>
-					</table>
-					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-					</div>
+				<table class="table">
+					<tbody>
+						<tr>
+							<td><strong>Phone:</strong></td>
+							<td>+91-761-2632 044(EX-103)</td>
+						<tr>
+						<tr>
+							<td><strong>Email:</strong></td>
+							<td>aojha@iiitdmj.ac.in</td>
+						<tr>
+						<tr>
+							<td><strong>Intranet Link:</strong></td>
+							<td><a href="http://web.iiitdmj.ac.in/~aojha">Click here..</a></td>
+						<tr>
+					<tbody>
+				</table>
+				
+				<div class="card-block" align="right">
+					<a href="aojha.php" class="button_medium_outline">Profile</a> 
 				</div>
 				</div>
 			</div>
-			<div class="card col-md-3 card-style m-15" style="height:446.67px;overflow:hidden;">
+			<div class="card col-md-3 card-style m-15">
+				
 				<header class="nav-style">
 					<div class="container-fluid">
 						<a class="navbar-" href="#"><h4>Students</h4></a>
 					</div>
 				</header>
-				<div id="scroll1" style="height:374px; overflow:hidden;">
-				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/akhil-1510102.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-					<div class="card-block">
-						<h4 class="card-title">Akhil</h4>
-						<p class="card-text">MTech</p>
-					</div>
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><strong>Research Topic:</strong></td>
-								<td>Buffer Tree</td>
-							<tr>
-							<tr>
-								<td><strong>Email:</strong></td>
-								<td>akhilaishwarya@iiitdmj.ac.in</td>
-							<tr>
-							<tr>
-								<td><strong>Guide:</strong></td>
-								<td><a href="sraban.php">Sraban Kr. Mohanty</a></td>
-							<tr>
-						<tbody>
-					</table>
-					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-					</div>
+				<div class="card-content">
+				<img class="img-circle img-thumbnail" src="img/faculty/aojha.jpg" style="margin-bottom: 20px;" align="right" data-src="..." alt="Card image cap">
+				<div class="card-block" >
+					<h4 class="card-title">Aparajita Ojha</h4>
+					<p class="card-text">Professor</p>
 				</div>
-				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/akhil-1510102.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-					<div class="card-block">
-						<h4 class="card-title">Akhil1</h4>
-						<p class="card-text">MTech</p>
-					</div>
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><strong>Research Topic:</strong></td>
-								<td>Buffer Tree</td>
-							<tr>
-							<tr>
-								<td><strong>Email:</strong></td>
-								<td>akhilaishwarya@iiitdmj.ac.in</td>
-							<tr>
-							<tr>
-								<td><strong>Guide:</strong></td>
-								<td><a href="sraban.php">Sraban Kr. Mohanty</a></td>
-							<tr>
-						<tbody>
-					</table>
-					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-					</div>
-				</div>
-				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/akhil-1510102.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-					<div class="card-block">
-						<h4 class="card-title">Akhil2</h4>
-						<p class="card-text">MTech</p>
-					</div>
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><strong>Research Topic:</strong></td>
-								<td>Buffer Tree</td>
-							<tr>
-							<tr>
-								<td><strong>Email:</strong></td>
-								<td>akhilaishwarya@iiitdmj.ac.in</td>
-							<tr>
-							<tr>
-								<td><strong>Guide:</strong></td>
-								<td><a href="sraban.php">Sraban Kr. Mohanty</a></td>
-							<tr>
-						<tbody>
-					</table>
-					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-					</div>
-				</div>
-				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/akhil-1510102.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-					<div class="card-block">
-						<h4 class="card-title">Akhil3</h4>
-						<p class="card-text">MTech</p>
-					</div>
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><strong>Research Topic:</strong></td>
-								<td>Buffer Tree</td>
-							<tr>
-							<tr>
-								<td><strong>Email:</strong></td>
-								<td>akhilaishwarya@iiitdmj.ac.in</td>
-							<tr>
-							<tr>
-								<td><strong>Guide:</strong></td>
-								<td><a href="sraban.php">Sraban Kr. Mohanty</a></td>
-							<tr>
-						<tbody>
-					</table>
-					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-					</div>
-				</div>
-				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/akhil-1510102.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-					<div class="card-block">
-						<h4 class="card-title">Akhil4</h4>
-						<p class="card-text">MTech</p>
-					</div>
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><strong>Research Topic:</strong></td>
-								<td>Buffer Tree</td>
-							<tr>
-							<tr>
-								<td><strong>Email:</strong></td>
-								<td>akhilaishwarya@iiitdmj.ac.in</td>
-							<tr>
-							<tr>
-								<td><strong>Guide:</strong></td>
-								<td><a href="sraban.php">Sraban Kr. Mohanty</a></td>
-							<tr>
-						<tbody>
-					</table>
-					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-					</div>
-				</div>
-				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/akhil-1510102.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-					<div class="card-block">
-						<h4 class="card-title">Akhil5</h4>
-						<p class="card-text">MTech</p>
-					</div>
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><strong>Research Topic:</strong></td>
-								<td>Buffer Tree</td>
-							<tr>
-							<tr>
-								<td><strong>Email:</strong></td>
-								<td>akhilaishwarya@iiitdmj.ac.in</td>
-							<tr>
-							<tr>
-								<td><strong>Guide:</strong></td>
-								<td><a href="sraban.php">Sraban Kr. Mohanty</a></td>
-							<tr>
-						<tbody>
-					</table>
-					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-					</div>
-				</div>
-				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/akhil-1510102.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-					<div class="card-block">
-						<h4 class="card-title">Akhil6</h4>
-						<p class="card-text">MTech</p>
-					</div>
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><strong>Research Topic:</strong></td>
-								<td>Buffer Tree</td>
-							<tr>
-							<tr>
-								<td><strong>Email:</strong></td>
-								<td>akhilaishwarya@iiitdmj.ac.in</td>
-							<tr>
-							<tr>
-								<td><strong>Guide:</strong></td>
-								<td><a href="sraban.php">Sraban Kr. Mohanty</a></td>
-							<tr>
-						<tbody>
-					</table>
-					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-					</div>
-				</div>
-				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/akhil-1510102.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-					<div class="card-block">
-						<h4 class="card-title">Akhil7</h4>
-						<p class="card-text">MTech</p>
-					</div>
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><strong>Research Topic:</strong></td>
-								<td>Buffer Tree</td>
-							<tr>
-							<tr>
-								<td><strong>Email:</strong></td>
-								<td>akhilaishwarya@iiitdmj.ac.in</td>
-							<tr>
-							<tr>
-								<td><strong>Guide:</strong></td>
-								<td><a href="sraban.php">Sraban Kr. Mohanty</a></td>
-							<tr>
-						<tbody>
-					</table>
-					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-					</div>
+				<table class="table">
+					<tbody>
+						<tr>
+							<td><strong>Phone:</strong></td>
+							<td>+91-761-2632 044(EX-103)</td>
+						<tr>
+						<tr>
+							<td><strong>Email:</strong></td>
+							<td>aojha@iiitdmj.ac.in</td>
+						<tr>
+						<tr>
+							<td><strong>Intranet Link:</strong></td>
+							<td><a href="http://web.iiitdmj.ac.in/~aojha">Click here..</a></td>
+						<tr>
+					<tbody>
+				</table>
+				
+				<div class="card-block" align="right">
+					<a href="aojha.php" class="button_medium_outline">Profile</a> 
 				</div>
 				</div>
 			</div>
-			<div class="card col-md-3 card-style m-15" style="height: 448px;
-    overflow-y: hidden;">
+			<div class="card col-md-3 card-style m-15">
 				
 				<header class="nav-style">
 					<div class="container-fluid">
 						<a class="navbar-" href="#"><h4>Notice</h4></a>
 					</div>
 				</header>
-				<marquee class="" behavior="scroll" direction="up" loop="infinite" scrollamount="5" onmouseover="this.stop();" onmouseout="this.start();">
-					<ul class="notice">
-						<li><a href="#" ><span align="justify"><i class="fa fa-info-circle" aria-hidden="true"></i>Symposium on Next Generation Networks during 12-15 March 2015</span></a></li>
-						<li><a href="#" align="justify"><span align="justify"><i class="fa fa-info-circle" aria-hidden="true"></i>14th National workshop on Cryptology -2014 (September 25-27, 2014)</span></a></li>
-						<li><a href="#" align="justify"><span align="justify"><i class="fa fa-info-circle" aria-hidden="true"></i>Workshop on Complex Networks (May 19-23, 2014)</a></span></li>
-						<li><a href="#" align="justify"><span align="justify"><i class="fa fa-info-circle" aria-hidden="true"></i>16th International Conference of International Academy of Physical Sciences on Physical sciences and Technology for sustainable Development-2014 (CONIAPS-XVI) (March 22-24, 2014)</a></span></li>
-						<li><a href="#" align="justify"><span align="justify"><i class="fa fa-info-circle" aria-hidden="true"></i>Workshop on "Emerging Trends in Information Technology in University Management" (September 09-13, 2013)</span></a></li>
-					</ul>
-				</marquee>
+				<div class="card-content">
+				<img class="img-circle img-thumbnail" src="img/faculty/aojha.jpg" style="margin-bottom: 20px;" align="right" data-src="..." alt="Card image cap">
+				<div class="card-block" >
+					<h4 class="card-title">Aparajita Ojha</h4>
+					<p class="card-text">Professor</p>
+				</div>
+				<table class="table">
+					<tbody>
+						<tr>
+							<td><strong>Phone:</strong></td>
+							<td>+91-761-2632 044(EX-103)</td>
+						<tr>
+						<tr>
+							<td><strong>Email:</strong></td>
+							<td>aojha@iiitdmj.ac.in</td>
+						<tr>
+						<tr>
+							<td><strong>Intranet Link:</strong></td>
+							<td><a href="http://web.iiitdmj.ac.in/~aojha">Click here..</a></td>
+						<tr>
+					<tbody>
+				</table>
+				
+				<div class="card-block" align="right">
+					<a href="aojha.php" class="button_medium_outline">Profile</a> 
+				</div>
+				</div>
 			</div>
 			<div class="card col-md-2 m-15">
 				<h4>Links</h4>
                 <ul class="list_1">
-					<li><a href="#">IIITDMJ HOME </a></li>
-                    <li><a href="#">Courses</a></li>
-                    <li><a href="#">Current Semester Timetable</a></li>
-                    <li><a href="#">TA Duty 2014-2015</a></li>
-                    <li><a href="#">Department Calendar</a></li>
-                    <li><a href="#">Other Schedules</a></li>
+                      <li><a href="#">Important PDF</a></li>
+                      <li><a href="#">Important PDF</a></li>
+                      <li><a href="#">Important PDF</a></li>
+                      <li><a href="#">Important PDF</a></li>
+                      <li><a href="#">Important PDF</a></li>
+                       <li><a href="#">Important PDF</a></li>
                  </ul>
-				 <h4>Other Links</h4>
+				 <h4>Links</h4>
                 <ul class="list_1">
-                      <li><a href="#">DOAA</a></li>
-                      <li><a href="#">DOFA</a></li>
-                      <li><a href="#">DOSA</a></li>
-                      <li><a href="#">DORD</a></li>
-                      <li><a href="#">DRPG</a></li>
-                       <li><a href="#">OARS</a></li>
+                      <li><a href="#">Important PDF</a></li>
+                      <li><a href="#">Important PDF</a></li>
+                      <li><a href="#">Important PDF</a></li>
+                      <li><a href="#">Important PDF</a></li>
+                      <li><a href="#">Important PDF</a></li>
+                       <li><a href="#">Important PDF</a></li>
                  </ul>
 			</div>
 			
 		</div>
 	</div>
 </div>
-
 </section>
 
         <section id="main_content">
@@ -1099,14 +751,13 @@ include 'header.html';
 		<hr>
 		<div class="row">
 		<div class="span12" >
-			<div class="card col-md-6 card-style m-15" style="height:526.02px;overflow:hidden;">
+			<div class="card col-md-6 card-style m-15">
 				<header class="nav-style2">
 					<div class="container-fluid">
 						<a class="navbar-" href="#"><h4>Research Activities</h4></a>
 					</div>
 				</header>
-				<div id="scroll3" style="height:439.35px;overflow:hidden;">
-				<div class="post" style="height:439.35px">
+				<div class="post">
 					<a href="blog_post.html" title="single_post.html"><img src="img/blog-3.jpg" alt="" class="img-responsive"></a>
 					<div class="post_info clearfix">
 						<div class="post-left">
@@ -1118,70 +769,15 @@ include 'header.html';
 						</div>
 						<div class="post-right"><i class="icon-comment"></i><a href="#">25 </a>Comments</div>
 					</div>
-					<h2><a href="single_post.html" title="single_post.html">Research1</a></h2>
+					<h2><a href="single_post.html" title="single_post.html">Duis aute irure dolor in reprehenderit</a></h2>
 					<p>
 						Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem.....
 					</p>
 					<a href="single_post.html" class="button_medium" title="single_post.html">Read more</a>
-				</div>
-				<div class="post" style="height:439.35px">
-					<a href="blog_post.html" title="single_post.html"><img src="img/blog-3.jpg" alt="" class="img-responsive"></a>
-					<div class="post_info clearfix">
-						<div class="post-left">
-							<ul>
-								<li><i class="icon-calendar-empty"></i>On <span>12 Nov 2020</span></li>
-								<li><i class="icon-user"></i>By <a href="#">John Smith</a></li>
-								<li><i class="icon-tags"></i>Tags <a href="#">Works</a> <a href="#">Personal</a></li>
-							</ul>
-						</div>
-						<div class="post-right"><i class="icon-comment"></i><a href="#">25 </a>Comments</div>
-					</div>
-					<h2><a href="single_post.html" title="single_post.html">Research2</a></h2>
-					<p>
-						Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem.....
-					</p>
-					<a href="single_post.html" class="button_medium" title="single_post.html">Read more</a>
-				</div>
-				<div class="post" style="height:439.35px">
-					<a href="blog_post.html" title="single_post.html"><img src="img/blog-3.jpg" alt="" class="img-responsive"></a>
-					<div class="post_info clearfix">
-						<div class="post-left">
-							<ul>
-								<li><i class="icon-calendar-empty"></i>On <span>12 Nov 2020</span></li>
-								<li><i class="icon-user"></i>By <a href="#">John Smith</a></li>
-								<li><i class="icon-tags"></i>Tags <a href="#">Works</a> <a href="#">Personal</a></li>
-							</ul>
-						</div>
-						<div class="post-right"><i class="icon-comment"></i><a href="#">25 </a>Comments</div>
-					</div>
-					<h2><a href="single_post.html" title="single_post.html">Research3</a></h2>
-					<p>
-						Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem.....
-					</p>
-					<a href="single_post.html" class="button_medium" title="single_post.html">Read more</a>
-				</div>
-				<div class="post" style="height:439.35px">
-					<a href="blog_post.html" title="single_post.html"><img src="img/blog-3.jpg" alt="" class="img-responsive"></a>
-					<div class="post_info clearfix">
-						<div class="post-left">
-							<ul>
-								<li><i class="icon-calendar-empty"></i>On <span>12 Nov 2020</span></li>
-								<li><i class="icon-user"></i>By <a href="#">John Smith</a></li>
-								<li><i class="icon-tags"></i>Tags <a href="#">Works</a> <a href="#">Personal</a></li>
-							</ul>
-						</div>
-						<div class="post-right"><i class="icon-comment"></i><a href="#">25 </a>Comments</div>
-					</div>
-					<h2><a href="single_post.html" title="single_post.html">Research4</a></h2>
-					<p>
-						Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem.....
-					</p>
-					<a href="single_post.html" class="button_medium" title="single_post.html">Read more</a>
-				</div>
 				</div>
 			</div>
 			<div class="card col-md-5 card-style m-15" >
-				<header class="nav-style3">
+			<header class="nav-style3">
 					<div class="container-fluid">
 						<a class="navbar-" href="#"><h4>News and Evemts</h4></a>
 					</div>
@@ -1195,47 +791,47 @@ include 'header.html';
                       	<small><em>Posted By Admin</em></small>
                       </div>
 				</div>
-				<div class="media list_news">
+				         <div class="media list_news">
                    <div class="circ-wrapper pull-left"><h3>10<br>July</h3></div>
                       <div class="media-body">
                         <h4 class="media-heading"><a href="news_detail.html">Simul appellantur reprehendunt mea an</a></h4>
                          <p>Lorem ipsum dolor sit amet, ius minim gubergren ad. At mei sumo sonet audiam, ad mutat elitr platonem vix. Ne nisl idque fierent vix. Ferri clita ponderum ne duo, simul appellantur reprehendunt mea an. An gloriatur vulputate eos, an sed fuisset vituperatoribus, tation tritani prodesset ex sed. </p>
                       	<small><em>Posted By Mike</em></small>
                       </div>
-				</div>
-				<div class="media list_news">
+         </div>
+         <div class="media list_news">
                    <div class="circ-wrapper pull-left"><h3>27<br>Aug</h3></div>
                       <div class="media-body">
                         <h4 class="media-heading"><a href="news_detail.html">Ne nisl idque fierent vix</a></h4>
                          <p>Lorem ipsum dolor sit amet, ius minim gubergren ad. At mei sumo sonet audiam, ad mutat elitr platonem vix. Ne nisl idque fierent vix. Ferri clita ponderum ne duo, simul appellantur reprehendunt mea an. An gloriatur vulputate eos, an sed fuisset vituperatoribus, tation tritani prodesset ex sed. </p>
                       	<small><em>Posted By Admin</em></small>
                       </div>
-				</div>
-				<div class="media list_news">
+         </div>
+         <div class="media list_news">
                    <div class="circ-wrapper pull-left"><h3>12<br>Aug</h3></div>
                       <div class="media-body">
                         <h4 class="media-heading"><a href="news_detail.html">At mei sumo sonet audiam, ad mutat elitr platonem vix</a></h4>
                          <p>Lorem ipsum dolor sit amet, ius minim gubergren ad. At mei sumo sonet audiam, ad mutat elitr platonem vix. Ne nisl idque fierent vix. Ferri clita ponderum ne duo, simul appellantur reprehendunt mea an. An gloriatur vulputate eos, an sed fuisset vituperatoribus, tation tritani prodesset ex sed. </p>
                       	<small><em>Posted By Mike</em></small>
                       </div>
-				</div>
-				<div class="media list_news">
+         </div>
+         <div class="media list_news">
                    <div class="circ-wrapper pull-left"><h3>05<br>Aug</h3></div>
                       <div class="media-body">
                         <h4 class="media-heading"><a href="news_detail.html">An gloriatur vulputate eos.</a></h4>
                          <p>Lorem ipsum dolor sit amet, ius minim gubergren ad. At mei sumo sonet audiam, ad mutat elitr platonem vix. Ne nisl idque fierent vix. Ferri clita ponderum ne duo, simul appellantur reprehendunt mea an. An gloriatur vulputate eos, an sed fuisset vituperatoribus, tation tritani prodesset ex sed. </p>
                       	<small><em>Posted By Lucas</em></small>
                       </div>
-				</div>
-				<div class="media list_news">
+         </div>
+         <div class="media list_news">
                    <div class="circ-wrapper pull-left"><h3>20<br>June</h3></div>
                       <div class="media-body">
                         <h4 class="media-heading"><a href="news_detail.html">Simul appellantur reprehendunt mea an</a></h4>
                          <p>Lorem ipsum dolor sit amet, ius minim gubergren ad. At mei sumo sonet audiam, ad mutat elitr platonem vix. Ne nisl idque fierent vix. Ferri clita ponderum ne duo, simul appellantur reprehendunt mea an. An gloriatur vulputate eos, an sed fuisset vituperatoribus, tation tritani prodesset ex sed. </p>
                       	<small><em>Posted By Marc</em></small>
                       </div>
-				</div>
-				</div>
+         </div>
+		 </div>
 			</div>
 		</div>
 	</div>
@@ -1278,7 +874,7 @@ include 'header.html';
 		<div class="row add_bottom_30">
         	<div class="col-md-12 text-center">
             <h2>Our Recruiters</h2>
-            <p class="lead"></p>
+            <p class="lead">Lorem ipsum dolor sit amet, ius minim gubergren ad.</p>
             </div>
         </div>
         <div class="row">
@@ -1289,7 +885,78 @@ include 'header.html';
         </div><!-- End container -->
     </section><!-- End main_content -->
     
-    
+    <section id="testimonials">
+        <div class="container">
+            <div class="row">
+                <div class='col-md-offset-2 col-md-8 text-center'>
+                    <h2>What they say</h2>
+                </div>
+            </div>
+            <div class='row'>
+                <div class='col-md-offset-2 col-md-8'>
+                    <div class="carousel slide" data-ride="carousel" id="quote-carousel">
+                        <!-- Bottom Carousel Indicators -->
+                        <ol class="carousel-indicators">
+                            <li data-target="#quote-carousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#quote-carousel" data-slide-to="1"></li>
+                            <li data-target="#quote-carousel" data-slide-to="2"></li>
+                        </ol>
+                        <!-- Carousel Slides / Quotes -->
+                        <div class="carousel-inner">
+                            <!-- Quote 1 -->
+                            <div class="item active">
+                                <blockquote>
+                                    <div class="row">
+                                        <div class="col-sm-3 text-center">
+                                            <img class="img-circle" src="img/testimonial_1.jpg" alt="">
+                                        </div>
+                                        <div class="col-sm-9">
+                                            <p>
+                                                Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit!
+                                            </p>
+                                            <small>Someone famous</small>
+                                        </div>
+                                    </div>
+                                </blockquote>
+                            </div>
+                            <!-- Quote 2 -->
+                            <div class="item">
+                                <blockquote>
+                                    <div class="row">
+                                        <div class="col-sm-3 text-center">
+                                            <img class="img-circle" src="img/testimonial_2.jpg" alt="">
+                                        </div>
+                                        <div class="col-sm-9">
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam auctor nec lacus ut tempor. Mauris.
+                                            </p>
+                                            <small>Someone famous</small>
+                                        </div>
+                                    </div>
+                                </blockquote>
+                            </div>
+                            <!-- Quote 3 -->
+                            <div class="item">
+                                <blockquote>
+                                    <div class="row">
+                                        <div class="col-sm-3 text-center">
+                                            <img class="img-circle" src="img/testimonial_1.jpg" alt="">
+                                        </div>
+                                        <div class="col-sm-9">
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut rutrum elit in arcu blandit, eget pretium nisl accumsan. Sed ultricies commodo tortor, eu pretium mauris.
+                                            </p>
+                                            <small>Someone famous</small>
+                                        </div>
+                                    </div>
+                                </blockquote>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+       </section><!-- End testimonials -->
 <?php
 include 'footer.html';
 ?>
