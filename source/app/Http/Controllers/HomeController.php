@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 use App\Research;
 use App\NewsEvents;
 use App\Notice;
-
+use App\Student;
 class HomeController extends BaseController
 {
     /**
@@ -31,8 +31,12 @@ class HomeController extends BaseController
         $research=Research::orderBy('created_at','DESC')->get();
         $newsData=NewsEvents::orderBy('created_at','DESC')->get();
         $notices=HomeController::getNotices();
+        $students=Student::orderBy('name','ASC')->get();
         //$student
-        return view('welcome')->with(['research'=>$research ,'newsData'=>$newsData, 'notices'=>$notices]);
+        return view('welcome')->with(['research'=>$research ,
+            'newsData'=>$newsData, 
+            'notices'=>$notices
+            ,'students'=>$students]);
     }
 
     public function getNotices() {

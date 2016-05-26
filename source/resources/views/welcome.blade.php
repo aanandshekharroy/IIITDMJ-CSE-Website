@@ -654,215 +654,38 @@
 					</div>
 				</header>
 				<div id="scroll1" style="height:374px; overflow:hidden;">
-
-				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="/assets/img/akhil-1510102.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-					<div class="card-block">
-						<h4 class="card-title">Akhil</h4>
-						<p class="card-text">MTech</p>
-					</div>
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><strong>Research Topic:</strong></td>
-								<td>Buffer Tree</td>
-							<tr>
-							<tr>
-								<td><strong>Email:</strong></td>
-								<td>akhilaishwarya@iiitdmj.ac.in</td>
-							<tr>
-							<tr>
-								<td><strong>Guide:</strong></td>
-								<td><a href="sraban.php">Sraban Kr. Mohanty</a></td>
-							<tr>
-						<tbody>
-					</table>
-					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-					</div>
-				</div>
-				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/akhil-1510102.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-					<div class="card-block">
-						<h4 class="card-title">Akhil1</h4>
-						<p class="card-text">MTech</p>
-					</div>
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><strong>Research Topic:</strong></td>
-								<td>Buffer Tree</td>
-							<tr>
-							<tr>
-								<td><strong>Email:</strong></td>
-								<td>akhilaishwarya@iiitdmj.ac.in</td>
-							<tr>
-							<tr>
-								<td><strong>Guide:</strong></td>
-								<td><a href="sraban.php">Sraban Kr. Mohanty</a></td>
-							<tr>
-						<tbody>
-					</table>
-					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-					</div>
-				</div>
-				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/akhil-1510102.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-					<div class="card-block">
-						<h4 class="card-title">Akhil2</h4>
-						<p class="card-text">MTech</p>
-					</div>
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><strong>Research Topic:</strong></td>
-								<td>Buffer Tree</td>
-							<tr>
-							<tr>
-								<td><strong>Email:</strong></td>
-								<td>akhilaishwarya@iiitdmj.ac.in</td>
-							<tr>
-							<tr>
-								<td><strong>Guide:</strong></td>
-								<td><a href="sraban.php">Sraban Kr. Mohanty</a></td>
-							<tr>
-						<tbody>
-					</table>
-					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-					</div>
-				</div>
-				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/akhil-1510102.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-					<div class="card-block">
-						<h4 class="card-title">Akhil3</h4>
-						<p class="card-text">MTech</p>
-					</div>
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><strong>Research Topic:</strong></td>
-								<td>Buffer Tree</td>
-							<tr>
-							<tr>
-								<td><strong>Email:</strong></td>
-								<td>akhilaishwarya@iiitdmj.ac.in</td>
-							<tr>
-							<tr>
-								<td><strong>Guide:</strong></td>
-								<td><a href="sraban.php">Sraban Kr. Mohanty</a></td>
-							<tr>
-						<tbody>
-					</table>
-					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-					</div>
-				</div>
-				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/akhil-1510102.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-					<div class="card-block">
-						<h4 class="card-title">Akhil4</h4>
-						<p class="card-text">MTech</p>
-					</div>
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><strong>Research Topic:</strong></td>
-								<td>Buffer Tree</td>
-							<tr>
-							<tr>
-								<td><strong>Email:</strong></td>
-								<td>akhilaishwarya@iiitdmj.ac.in</td>
-							<tr>
-							<tr>
-								<td><strong>Guide:</strong></td>
-								<td><a href="sraban.php">Sraban Kr. Mohanty</a></td>
-							<tr>
-						<tbody>
-					</table>
-					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-					</div>
-				</div>
-				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/akhil-1510102.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-					<div class="card-block">
-						<h4 class="card-title">Akhil5</h4>
-						<p class="card-text">MTech</p>
-					</div>
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><strong>Research Topic:</strong></td>
-								<td>Buffer Tree</td>
-							<tr>
-							<tr>
-								<td><strong>Email:</strong></td>
-								<td>akhilaishwarya@iiitdmj.ac.in</td>
-							<tr>
-							<tr>
-								<td><strong>Guide:</strong></td>
-								<td><a href="sraban.php">Sraban Kr. Mohanty</a></td>
-							<tr>
-						<tbody>
-					</table>
-					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-					</div>
-				</div>
-				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/akhil-1510102.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-					<div class="card-block">
-						<h4 class="card-title">Akhil6</h4>
-						<p class="card-text">MTech</p>
-					</div>
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><strong>Research Topic:</strong></td>
-								<td>Buffer Tree</td>
-							<tr>
-							<tr>
-								<td><strong>Email:</strong></td>
-								<td>akhilaishwarya@iiitdmj.ac.in</td>
-							<tr>
-							<tr>
-								<td><strong>Guide:</strong></td>
-								<td><a href="sraban.php">Sraban Kr. Mohanty</a></td>
-							<tr>
-						<tbody>
-					</table>
-					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-					</div>
-				</div>
-				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/akhil-1510102.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-					<div class="card-block">
-						<h4 class="card-title">Akhil7</h4>
-						<p class="card-text">MTech</p>
-					</div>
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><strong>Research Topic:</strong></td>
-								<td>Buffer Tree</td>
-							<tr>
-							<tr>
-								<td><strong>Email:</strong></td>
-								<td>akhilaishwarya@iiitdmj.ac.in</td>
-							<tr>
-							<tr>
-								<td><strong>Guide:</strong></td>
-								<td><a href="sraban.php">Sraban Kr. Mohanty</a></td>
-							<tr>
-						<tbody>
-					</table>
-					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-					</div>
-				</div>
+                @if(isset($students))
+                @foreach($students as $student)
+    				<div class="card-content" style="height:374px;">
+    					<img class="img-circle img-thumbnail" src="{{$student->picture}}"
+                         style="margin-bottom: 20px;width:110px;height:120px;" align="right" 
+                         data-src="..." alt="Card image cap">
+    					<div class="card-block">
+    						<h4 class="card-title">{{$student->name}}</h4>
+    						<p class="card-text">{{$student->programme}}</p>
+    					</div>
+    					<table class="table">
+    						<tbody>
+    							<tr>
+    								<td><strong>Research Topic:</strong></td>
+    								<td>{{$student->research->title}}</td>
+    							<tr>
+    							<tr>
+    								<td><strong>Email:</strong></td>
+    								<td>{{$student->email}}</td>
+    							<tr>
+    							<tr>
+    								<td><strong>Guide:</strong></td>
+    								<td><a href="/faculty/{{$student->research->webpage}}">{{$student->research->faculty->name}}</a></td>
+    							<tr>
+    						<tbody>
+    					</table>
+    					<div class="card-block" align="right">
+    						<a href="aojha.php" class="button_medium_outline">Profile</a> 
+    					</div>
+    				</div>
+    				@endforeach
+                    @endif
 				</div>
 			</div>
 			<div class="card col-md-3 card-style m-15" style="height: 448px;

@@ -19,7 +19,7 @@ class CreateStudentsTable extends Migration
             $table->string('name');
             $table->enum('programme', ['M.tech', 'Phd','B.tech']);
             $table->string('research-area');
-
+            $table->string('email');
             $table->integer('fId')->unsigned()->nullable(false);
             $table->foreign('fId')->references('fId')->on('faculty');
             $table->date('completion-date');
