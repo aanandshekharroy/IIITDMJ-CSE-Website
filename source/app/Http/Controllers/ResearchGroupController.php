@@ -51,7 +51,8 @@ class ResearchGroupController extends BaseController
     public function show($id)
     {
         //
-        $research=Research::where('rId',$id)->orderBy('created_at','DESC')->get();
+        $research=Research::where('rgId',$id)->orderBy('created_at','DESC')->get();
+        //return $research;
         return view('research')->with('research',$research);
     }
 

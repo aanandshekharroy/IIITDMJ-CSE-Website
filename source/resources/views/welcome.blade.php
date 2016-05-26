@@ -364,7 +364,7 @@
                                     </div>
                                     <div class="separator clearfix">
                                         <p class="btn-add"> <a href="apply_2.html"> </a></p>
-                                        <p class="btn-details"> <a href="btech.php"><i class=" icon-list"></i> Details</a></p>
+                                        <p class="btn-details"> <a href="/programme/btech"><i class=" icon-list"></i> Details</a></p>
                                     </div>
                                 </div>
                             </div>
@@ -389,7 +389,7 @@
                                     </div>
                                     <div class="separator clearfix">
                                         <p class="btn-add"> <a href="apply_2.html"> </a></p>
-                                        <p class="btn-details"> <a href="mtech.php"><i class=" icon-list"></i> Details</a></p>
+                                        <p class="btn-details"> <a href="/programme/mtech"><i class=" icon-list"></i> Details</a></p>
                                     </div>
                                 </div>
                             </div>
@@ -414,38 +414,11 @@
                                     </div>
                                     <div class="separator clearfix">
                                         <p class="btn-add"> <a href="apply_2.html"> </a></p>
-                                        <p class="btn-details"> <a href="phd.php"><i class=" icon-list"></i> Details</a></p>
+                                        <p class="btn-details"> <a href="/programme/phd"><i class=" icon-list"></i> Details</a></p>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        
-                        <!--<div class="col-lg-3 col-md-6 col-sm-6">
-                            <div class="col-item">
-                                <div class="photo">
-                                    <a href="#"><img src="img/math.jpg" alt="" /></a>
-                                    <div class="cat_row"><a href="#">MATH</a><span class="pull-right"><i class=" icon-clock"></i>6 Days</span></div>
-                                </div>
-                                <div class="info">
-                                    <div class="row">
-                                        <div class="course_info col-md-12 col-sm-12">
-                                            <h4>12 Principles</h4>
-                                            <p > Lorem ipsum dolor sit amet, no sit sonet corpora indoctum, quo ad fierent insolens. Duo aeterno ancillae ei. </p>
-                                            <div class="rating">
-                                            <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class=" icon-star-empty"></i><i class=" icon-star-empty"></i>
-                                        </div>
-                                        <div class="price pull-right">160$</div>
-                                        </div>
-                                    </div>
-                                    <div class="separator clearfix">
-                                        <p class="btn-add"> <a href="apply_2.html"><i class="icon-export-4"></i> Subscribe</a></p>
-                                        <p class="btn-details"> <a href="course_details_1.html"><i class=" icon-list"></i> Details</a></p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-   
-        </div><!-- End row -->
         <div class="row">
             <div class="col-md-12">
                  <a href="courses_grid.html" class="button_medium_outline pull-right">View all courses</a>
@@ -681,35 +654,33 @@
 					</div>
 				</header>
 				<div id="scroll1" style="height:374px; overflow:hidden;">
-                
-                        <div class="card-content" style="height:374px;">
-                        <img class="img-circle img-thumbnail" src="{{$item->student->picture}}" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-                        <div class="card-block">
-                            <h4 class="card-title">{{$item->student->name}}</h4>
-                            <p class="card-text">{{$item->student->programme}}</p>
-                        </div>
-                        <table class="table">
-                            <tbody>
-                                <tr>
-                                    <td><strong>Research Topic:</strong></td>
-                                    <td>Buffer Tree</td>
-                                <tr>
-                                <tr>
-                                    <td><strong>Email:</strong></td>
-                                    <td>akhilaishwarya@iiitdmj.ac.in</td>
-                                <tr>
-                                <tr>
-                                    <td><strong>Guide:</strong></td>
-                                    <td><a href="sraban.php">Sraban Kr. Mohanty</a></td>
-                                <tr>
-                            <tbody>
-                        </table>
-                        <div class="card-block" align="right">
-                            <a href="aojha.php" class="button_medium_outline">Profile</a> 
-                        </div>
-                    </div>
-                   
-				
+
+				<div class="card-content" style="height:374px;">
+					<img class="img-circle img-thumbnail" src="/assets/img/akhil-1510102.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
+					<div class="card-block">
+						<h4 class="card-title">Akhil</h4>
+						<p class="card-text">MTech</p>
+					</div>
+					<table class="table">
+						<tbody>
+							<tr>
+								<td><strong>Research Topic:</strong></td>
+								<td>Buffer Tree</td>
+							<tr>
+							<tr>
+								<td><strong>Email:</strong></td>
+								<td>akhilaishwarya@iiitdmj.ac.in</td>
+							<tr>
+							<tr>
+								<td><strong>Guide:</strong></td>
+								<td><a href="sraban.php">Sraban Kr. Mohanty</a></td>
+							<tr>
+						<tbody>
+					</table>
+					<div class="card-block" align="right">
+						<a href="aojha.php" class="button_medium_outline">Profile</a> 
+					</div>
+				</div>
 				<div class="card-content" style="height:374px;">
 					<img class="img-circle img-thumbnail" src="img/akhil-1510102.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
 					<div class="card-block">
@@ -948,204 +919,55 @@
 
         <section id="main_content">
         <div class="container">
-        <!--<div class="row add_bottom_30">
-        	<div class="col-md-12 text-center">
-            <h2>NextCourses</h2>
-            <p class="lead">Lorem ipsum dolor sit amet, ius minim gubergren ad.</p>
-            </div>
-        </div>-->
-        
         <div class="row">
-            <!--<div class="col-md-6">
-       			<div class="media">
-                   <div class="circ-wrapper pull-left"><h3>25<br>June</h3></div>
-                      <div class="media-body">
-                      	<h4 class="media-heading"><a href="javascript:void(0)">CSS3 Editable Flat effect</a> <span class="label label-warning">NEW</span></h4>
-                         <p>Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset, doctus volumus explicari qui ex.</p>
-                         <ul class="data-lessons">
-                              <li class="po-markup">
-                                    <a class="po-link" href="javascript:void(0)" ><i class="icon-clock"></i>Duration: 6 hours</a>
-                                    <div class="po-content hidden">
-                                        <div class="po-title"><strong>Duration: 6 hours</strong></div> <!-- ./po-title -->
-                                        <!--<div class="po-body">
-                                            <p class="no_margin">Lorem ipsum dolor sit amet, has at illum dictas definitiones, ei primis indoctum torquatos nec. Vis te velit probatus, natum atomorum tincidunt nec an.</p>
-                                        </div><!-- ./po-body -->
-                                    <!--</div><!-- ./po-content -->
-                                    <!--</li>
-                                    <li class="po-markup">
-                                    <a class="po-link" href="javascript:void(0)" ><i class="icon-video"></i>Video files</a>
-                                    <div class="po-content hidden">
-                                        <div class="po-title"><strong>Video files</strong></div> <!-- ./po-title -->
-                                        <!--<div class="po-body"><ul class="list_po_body"><li><i class="icon-ok"></i> 2 Video lessons</li><li> <i class="icon-ok"></i>1 Video for practice</li><li> <i class="icon-ok"></i>1 Video Quiz</li></ul>
-                                        </div><!-- ./po-body -->
-                                    <!--</div><!-- ./po-content -->
-                                    <!--</li>
-                                    <li class="po-markup">
-                                    <a class="po-link" href="javascript:void(0)" ><i class="icon-mic"></i>Audio files</a>
-                                    <div class="po-content hidden">
-                                        <div class="po-title"><strong>Audio files</strong></div> <!-- ./po-title -->
-                                        <!--<div class="po-body">
-                                            <p class="no_margin">Lorem ipsum dolor sit amet, has at illum dictas definitiones, ei primis indoctum torquatos nec. Vis te velit probatus, natum atomorum tincidunt nec an.</p>
-                                        </div><!-- ./po-body -->
-                                    <!--</div><!-- ./po-content -->
-                                    <!--</li>
-                          </ul>
-                      </div>
-                    </div>
-                    
-                    <div class="media">
-                   <div class="circ-wrapper pull-left"><h3>15<br>July</h3></div>
-                      <div class="media-body">
-                        <h4 class="media-heading"><a href="javascript:void(0)">CSS3 Workshop</a> <span class="label label-warning">NEW</span></h4>
-                         <p>Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset, doctus volumus explicari qui ex.</p> 
-                         <ul class="data-lessons">
-                              <li class="po-markup">
-                                    <a class="po-link" href="javascript:void(0)" ><i class="icon-clock"></i>Duration: 6 hours</a>
-                                    <div class="po-content hidden">
-                                        <div class="po-title"><strong>Duration: 6 hours</strong></div> <!-- ./po-title -->
-                                        <!--<div class="po-body">
-                                            <p class="no_margin">Lorem ipsum dolor sit amet, has at illum dictas definitiones, ei primis indoctum torquatos nec. Vis te velit probatus, natum atomorum tincidunt nec an.</p>
-                                        </div><!-- ./po-body -->
-                                    <!--</div><!-- ./po-content -->
-                                    <!--</li>
-                                    <li class="po-markup">
-                                    <a class="po-link" href="javascript:void(0)" ><i class="icon-video"></i>Video files</a>
-                                    <div class="po-content hidden">
-                                        <div class="po-title"><strong>Video files</strong></div> <!-- ./po-title -->
-                                        <!--<div class="po-body"><ul class="list_po_body"><li><i class="icon-ok"></i> 2 Video lessons</li><li> <i class="icon-ok"></i>1 Video for practice</li><li> <i class="icon-ok"></i>1 Video Quiz</li></ul>
-                                        </div><!-- ./po-body -->
-                                    <!--</div><!-- ./po-content -->
-                                    <!--</li>
-                                    <li class="po-markup">
-                                    <a class="po-link" href="javascript:void(0)" ><i class="icon-doc-text-inv"></i>Text doc</a>
-                                    <div class="po-content hidden">
-                                        <div class="po-title"><strong>Text doc</strong></div> <!-- ./po-title -->
-                                        <!--<div class="po-body">
-                                            <p class="no_margin">Lorem ipsum dolor sit amet, has at illum dictas definitiones, ei primis indoctum torquatos nec. Vis te velit probatus, natum atomorum tincidunt nec an.</p>
-                                        </div><!-- ./po-body -->
-                                    <!--</div><!-- ./po-content -->
-                                    <!--</li>
-                          </ul>
-                      </div>
-                    </div>
-                    
-            </div><!-- End col md 6 -->
-            <!--<div class="col-md-6">
-            <div class="media">
-                   <div class="circ-wrapper pull-left"><h3>12<br>Aug</h3></div>
-                      <div class="media-body">
-                      	<h4 class="media-heading"><a href="javascript:void(0)">CSS3 Editable Flat effect</a></h4>
-                         <p>Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset, doctus volumus explicari qui ex.</p>
-                         <ul class="data-lessons">
-                              <li class="po-markup">
-                                    <a class="po-link" href="javascript:void(0)" ><i class="icon-clock"></i>Duration: 6 hours</a>
-                                    <div class="po-content hidden">
-                                        <div class="po-title"><strong>Duration: 6 hours</strong></div> <!-- ./po-title -->
-                                        <!--<div class="po-body">
-                                            <p class="no_margin">Lorem ipsum dolor sit amet, has at illum dictas definitiones, ei primis indoctum torquatos nec. Vis te velit probatus, natum atomorum tincidunt nec an.</p>
-                                        </div><!-- ./po-body -->
-                                    <!--</div><!-- ./po-content -->
-                                    <!--</li>
-                                    <li class="po-markup">
-                                    <a class="po-link" href="javascript:void(0)" ><i class="icon-video"></i>Video files</a>
-                                    <div class="po-content hidden">
-                                        <div class="po-title"><strong>Video files</strong></div> <!-- ./po-title -->
-                                       <!-- <div class="po-body"><ul class="list_po_body"><li><i class="icon-ok"></i> 2 Video lessons</li><li> <i class="icon-ok"></i>1 Video for practice</li><li> <i class="icon-ok"></i>1 Video Quiz</li></ul>
-                                        </div><!-- ./po-body -->
-                                    <!--</div><!-- ./po-content -->
-                                    <!--</li>
-                                    <li class="po-markup">
-                                    <a class="po-link" href="javascript:void(0)" ><i class="icon-mic"></i>Audio files</a>
-                                    <div class="po-content hidden">
-                                        <div class="po-title"><strong>Audio files</strong></div> <!-- ./po-title -->
-                                        <!--<div class="po-body">
-                                            <p class="no_margin">Lorem ipsum dolor sit amet, has at illum dictas definitiones, ei primis indoctum torquatos nec. Vis te velit probatus, natum atomorum tincidunt nec an.</p>
-                                        </div><!-- ./po-body -->
-                                    <!--</div><!-- ./po-content -->
-                                    <!--</li>
-                          </ul>
-                      </div>
-                    </div>
-                    
-                    <div class="media">
-                   <div class="circ-wrapper pull-left"><h3>25<br>Sept</h3></div>
-                      <div class="media-body" >
-                        <h4 class="media-heading"><a href="javascript:void(0)">CSS3 Workshop</a></h4>
-                         <p>Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset, doctus volumus explicari qui ex.</p>
-                         <ul class="data-lessons">
-                              <li class="po-markup">
-                                    <a class="po-link" href="javascript:void(0)" ><i class="icon-clock"></i>Duration: 6 hours</a>
-                                    <div class="po-content hidden">
-                                        <div class="po-title"><strong>Duration: 6 hours</strong></div> <!-- ./po-title -->
-                                        <!--<div class="po-body">
-                                            <p class="no_margin">Lorem ipsum dolor sit amet, has at illum dictas definitiones, ei primis indoctum torquatos nec. Vis te velit probatus, natum atomorum tincidunt nec an.</p>
-                                        </div><!-- ./po-body -->
-                                    <!--</div><!-- ./po-content -->
-                                    <!--</li>
-                                    <li class="po-markup">
-                                    <a class="po-link" href="javascript:void(0)" ><i class="icon-video"></i>Video files</a>
-                                    <div class="po-content hidden">
-                                        <div class="po-title"><strong>Video files</strong></div> <!-- ./po-title -->
-                                        <!--<div class="po-body"><ul class="list_po_body"><li><i class="icon-ok"></i> 2 Video lessons</li><li> <i class="icon-ok"></i>1 Video for practice</li><li> <i class="icon-ok"></i>1 Video Quiz</li></ul>
-                                        </div><!-- ./po-body -->
-                                    <!--</div><!-- ./po-content -->
-                                    <!--</li>
-                                    <li class="po-markup">
-                                    <a class="po-link" href="javascript:void(0)" ><i class="icon-doc-text-inv"></i>Text doc</a>
-                                    <div class="po-content hidden">
-                                        <div class="po-title"><strong>Text doc</strong></div> <!-- ./po-title -->
-                                        <!--<div class="po-body">
-                                            <p class="no_margin">Lorem ipsum dolor sit amet, has at illum dictas definitiones, ei primis indoctum torquatos nec. Vis te velit probatus, natum atomorum tincidunt nec an.</p>
-                                        </div><!-- ./po-body -->
-                                    <!--</div><!-- ./po-content -->
-                                    <!--</li>
-                          </ul> 
-                      </div>
-                    </div>
-                
-            </div>
-        --></div><!-- End row -->
+       </div><!-- End row -->
 		<hr>
 		<div class="row">
 		<div class="span12" >
-			<div class="card col-md-6 card-style m-15" style="height:526.02px;overflow:hidden;">
+			<div class="card col-md-5 card-style m-15" style="height:526.02px;overflow:hidden;">
 				<header class="nav-style2">
 					<div class="container-fluid">
 						<a class="navbar-" href="#"><h4>Research Activities</h4></a>
 					</div>
 				</header>
 				<div id="scroll3" style="height:439.35px;overflow:hidden;">
-                
-				<div class="post" style="height:439.35px">
-					<a href="blog_post.html" title="single_post.html"><img src="img/blog-3.jpg" alt="" class="img-responsive"></a>
-					<div class="post_info clearfix">
-						<div class="post-left">
-							<ul>
-								<li><i class="icon-calendar-empty"></i>On <span>12 Nov 2020</span></li>
-								<li><i class="icon-user"></i>By <a href="#">John Smith</a></li>
-								<li><i class="icon-tags"></i>Tags <a href="#">Works</a> <a href="#">Personal</a></li>
-							</ul>
-						</div>
-						<div class="post-right"><i class="icon-comment"></i><a href="#">25 </a>Comments</div>
-					</div>
-					<h2><a href="single_post.html" title="single_post.html">Research1</a></h2>
-					<p>
-						Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem.....
-					</p>
-					<a href="single_post.html" class="button_medium" title="single_post.html">Read more</a>
-				</div>
-				
-				
-				
-				</div>
+                 
+                @if(isset($research))
+                    @foreach ($research as $item)
+                   
+                    <div class="post" style="height:439.35px">
+                        <a href="/research/{{$item->rId}}" ></a>
+                        <div class="post_info clearfix">
+                            <div class="post-left">
+                                <ul>
+                                    
+                                    <li><i class="icon-user"></i>By <a href="#">{{$item->student->name}}</a></li>
+                                    <li>Guide:  <a href="/faculty/{{$item->faculty->webpage}}">{{$item->faculty->name}}</a></li>
+                                    <li><i class="icon-tags"></i>Tag: 
+                                        <a href="/research-group/{{$item->researchGroup->rgId}}">{{$item->researchGroup->name}}</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            
+                        </div>
+                        <h2><a href="/research/{{$item->rId}}" title="single_post.html">{{$item->title}}</a></h2>
+                        <p>
+                            {{-- */$description=str_limit($item->content,350,'...')/* --}}
+                            {{$description}}
+                        </p>
+                        <a href="/research/{{$item->rId}}" class="button_medium" >Read more</a>
+                    </div>
+                    @endforeach
+                @endif
 			</div>
-			<div class="card col-md-5 card-style m-15" >
+            </div>
+			<div class="card col-md-4 card-style m-15" >
 				<header class="nav-style3">
 					<div class="container-fluid">
 						<a class="navbar-" href="/news-and-events"><h4>News and Events</h4></a>
 					</div>
 				</header>
-				<div class="Body newevent" style="">
+				<div class="Body newevent" style="display:block;">
                     @if(isset($newsData))
                         @foreach ($newsData as $data)
                             <div class="media list_news">
@@ -1154,7 +976,6 @@
                                     <h4 class="media-heading"><a href="/news-and-events/{{$data->id}}">{!!$data->title!!}</a></h4>
                                      {{--*/ $description = str_limit($data->description, 350, '...') /*--}}
                                     <p>{!!$description!!}</p>
-                                    <!-- <small><em>Posted By Admin</em></small> -->
                                   </div>
                             </div>
                         @endforeach
@@ -1164,41 +985,6 @@
 			</div>
 		</div>
 	</div>
-       	
-                
-         <!-- <div class="row">
-          	<div class="col-md-3 col-sm-6">
-				<h4>Our team</h4>
-                <p><img src="img/pic_1.jpg" alt="Pic" class="img-responsive"></p>
-                <p>Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset, doctus volumus explicari qui ex.</p> 
-            </div>
-            
-            <div class="col-md-3 col-sm-6">
-				<h4>Equiped classrooms</h4>
-                <p><img src="img/pic_2.jpg" alt="Pic" class="img-responsive"></p>
-                <p>Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset, doctus volumus explicari qui ex.</p> 
-            </div>
-            
-            <div class="col-md-3 col-sm-6">
-                <h4>Enjoy classroom mates</h4>
-                <p><img src="img/pic_3.jpg" alt="Pic" class="img-responsive"></p>
-                <p>Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset, doctus volumus explicari qui ex.</p> 
-            </div>
-            
-            <div class="col-md-3 col-sm-6">
-                <h4>Links</h4>
-                <ul class="list_1">
-                      <li><a href="#">Ceteros mediocritatem</a></li>
-                      <li><a href="#">Labore nostrum</a></li>
-                      <li><a href="#">Primis bonorum</a></li>
-                      <li><a href="#">Ceteros mediocritatem</a></li>
-                      <li><a href="#">Labore nostrum</a></li>
-                       <li><a href="#">Primis bonorum</a></li>
-                 </ul>
-            </div>
-            
-        </div><!-- End row -->
-        
         <hr class="add_bottom_30">
 		<div class="row add_bottom_30">
         	<div class="col-md-12 text-center">
