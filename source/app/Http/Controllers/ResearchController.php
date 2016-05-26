@@ -19,7 +19,7 @@ class ResearchController extends BaseController
     public function index()
     {
         //
-        $research=Research::orderBy('created_at','DESC')->paginate(20);
+        $research=Research::orderBy('created_at','DESC')->paginate(50);
        // return $research;
         return view('research')->with('research',$research);
     }

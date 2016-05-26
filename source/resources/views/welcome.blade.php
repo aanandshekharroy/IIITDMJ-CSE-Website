@@ -465,7 +465,7 @@
 				</header>
 				<div id="scroll" style="height:374px; overflow:hidden;">
 				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/faculty/aojha.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
+					<img class="img-circle img-thumbnail" src="/assets/img/faculty/aojha.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
 					<div class="card-block">
 						<h4 class="card-title">Aparajita Ojha</h4>
 						<p class="card-text">Professor</p>
@@ -491,7 +491,7 @@
 					</div>
 				</div>
 				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/faculty/P.Khanna_pkhanna.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
+					<img class="img-circle img-thumbnail" src="/assets/img/faculty/P.Khanna_pkhanna.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
 					<div class="card-block">
 						<h4 class="card-title">Pritee Khanna</h4>
 						<p class="card-text">Associate Professor</p>
@@ -517,7 +517,7 @@
 					</div>
 				</div>
 				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/faculty/atul.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
+					<img class="img-circle img-thumbnail" src="/assets/img/faculty/atul.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
 					<div class="card-block">
 						<h4 class="card-title">Atul Gupta</h4>
 						<p class="card-text">Associate Professor</p>
@@ -543,7 +543,7 @@
 					</div>
 				</div>
 				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/faculty/sarban - Copy.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
+					<img class="img-circle img-thumbnail" src="/assets/img/faculty/sarban - Copy.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
 					<div class="card-block">
 						<h4 class="card-title">Sraban Kumar Mohanty</h4>
 						<p class="card-text">Assistant Professor</p>
@@ -569,7 +569,7 @@
 					</div>
 				</div>
 				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/faculty/vkjain.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
+					<img class="img-circle img-thumbnail" src="/assets/img/faculty/vkjain.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
 					<div class="card-block">
 						<h4 class="card-title">Vinod Kumar Jain</h4>
 						<p class="card-text">Assistant Professor</p>
@@ -595,7 +595,7 @@
 					</div>
 				</div>
 				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/faculty/mkbajpai.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
+					<img class="img-circle img-thumbnail" src="/assets/img/faculty/mkbajpai.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
 					<div class="card-block">
 						<h4 class="card-title">Manish Kumar Bajpai</h4>
 						<p class="card-text">Assistant Professor</p>
@@ -621,7 +621,7 @@
 					</div>
 				</div>
 				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/faculty/rgupta.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
+					<img class="img-circle img-thumbnail" src="/assets/img/faculty/rgupta.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
 					<div class="card-block">
 						<h4 class="card-title">Ruchir Gupta</h4>
 						<p class="card-text">Assistant Professor</p>
@@ -647,7 +647,7 @@
 					</div>
 				</div>
 				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/faculty/ayan.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
+					<img class="img-circle img-thumbnail" src="/assets/img/faculty/ayan.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
 					<div class="card-block">
 						<h4 class="card-title">Ayan Seal</h4>
 						<p class="card-text">Visiting Faculty</p>
@@ -681,32 +681,35 @@
 					</div>
 				</header>
 				<div id="scroll1" style="height:374px; overflow:hidden;">
-				<div class="card-content" style="height:374px;">
-					<img class="img-circle img-thumbnail" src="img/akhil-1510102.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-					<div class="card-block">
-						<h4 class="card-title">Akhil</h4>
-						<p class="card-text">MTech</p>
-					</div>
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><strong>Research Topic:</strong></td>
-								<td>Buffer Tree</td>
-							<tr>
-							<tr>
-								<td><strong>Email:</strong></td>
-								<td>akhilaishwarya@iiitdmj.ac.in</td>
-							<tr>
-							<tr>
-								<td><strong>Guide:</strong></td>
-								<td><a href="sraban.php">Sraban Kr. Mohanty</a></td>
-							<tr>
-						<tbody>
-					</table>
-					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-					</div>
-				</div>
+                
+                        <div class="card-content" style="height:374px;">
+                        <img class="img-circle img-thumbnail" src="{{$item->student->picture}}" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
+                        <div class="card-block">
+                            <h4 class="card-title">{{$item->student->name}}</h4>
+                            <p class="card-text">{{$item->student->programme}}</p>
+                        </div>
+                        <table class="table">
+                            <tbody>
+                                <tr>
+                                    <td><strong>Research Topic:</strong></td>
+                                    <td>Buffer Tree</td>
+                                <tr>
+                                <tr>
+                                    <td><strong>Email:</strong></td>
+                                    <td>akhilaishwarya@iiitdmj.ac.in</td>
+                                <tr>
+                                <tr>
+                                    <td><strong>Guide:</strong></td>
+                                    <td><a href="sraban.php">Sraban Kr. Mohanty</a></td>
+                                <tr>
+                            <tbody>
+                        </table>
+                        <div class="card-block" align="right">
+                            <a href="aojha.php" class="button_medium_outline">Profile</a> 
+                        </div>
+                    </div>
+                   
+				
 				<div class="card-content" style="height:374px;">
 					<img class="img-circle img-thumbnail" src="img/akhil-1510102.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
 					<div class="card-block">
@@ -1105,6 +1108,7 @@
 					</div>
 				</header>
 				<div id="scroll3" style="height:439.35px;overflow:hidden;">
+                
 				<div class="post" style="height:439.35px">
 					<a href="blog_post.html" title="single_post.html"><img src="img/blog-3.jpg" alt="" class="img-responsive"></a>
 					<div class="post_info clearfix">
@@ -1123,60 +1127,9 @@
 					</p>
 					<a href="single_post.html" class="button_medium" title="single_post.html">Read more</a>
 				</div>
-				<div class="post" style="height:439.35px">
-					<a href="blog_post.html" title="single_post.html"><img src="img/blog-3.jpg" alt="" class="img-responsive"></a>
-					<div class="post_info clearfix">
-						<div class="post-left">
-							<ul>
-								<li><i class="icon-calendar-empty"></i>On <span>12 Nov 2020</span></li>
-								<li><i class="icon-user"></i>By <a href="#">John Smith</a></li>
-								<li><i class="icon-tags"></i>Tags <a href="#">Works</a> <a href="#">Personal</a></li>
-							</ul>
-						</div>
-						<div class="post-right"><i class="icon-comment"></i><a href="#">25 </a>Comments</div>
-					</div>
-					<h2><a href="single_post.html" title="single_post.html">Research2</a></h2>
-					<p>
-						Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem.....
-					</p>
-					<a href="single_post.html" class="button_medium" title="single_post.html">Read more</a>
-				</div>
-				<div class="post" style="height:439.35px">
-					<a href="blog_post.html" title="single_post.html"><img src="img/blog-3.jpg" alt="" class="img-responsive"></a>
-					<div class="post_info clearfix">
-						<div class="post-left">
-							<ul>
-								<li><i class="icon-calendar-empty"></i>On <span>12 Nov 2020</span></li>
-								<li><i class="icon-user"></i>By <a href="#">John Smith</a></li>
-								<li><i class="icon-tags"></i>Tags <a href="#">Works</a> <a href="#">Personal</a></li>
-							</ul>
-						</div>
-						<div class="post-right"><i class="icon-comment"></i><a href="#">25 </a>Comments</div>
-					</div>
-					<h2><a href="single_post.html" title="single_post.html">Research3</a></h2>
-					<p>
-						Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem.....
-					</p>
-					<a href="single_post.html" class="button_medium" title="single_post.html">Read more</a>
-				</div>
-				<div class="post" style="height:439.35px">
-					<a href="blog_post.html" title="single_post.html"><img src="img/blog-3.jpg" alt="" class="img-responsive"></a>
-					<div class="post_info clearfix">
-						<div class="post-left">
-							<ul>
-								<li><i class="icon-calendar-empty"></i>On <span>12 Nov 2020</span></li>
-								<li><i class="icon-user"></i>By <a href="#">John Smith</a></li>
-								<li><i class="icon-tags"></i>Tags <a href="#">Works</a> <a href="#">Personal</a></li>
-							</ul>
-						</div>
-						<div class="post-right"><i class="icon-comment"></i><a href="#">25 </a>Comments</div>
-					</div>
-					<h2><a href="single_post.html" title="single_post.html">Research4</a></h2>
-					<p>
-						Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem.....
-					</p>
-					<a href="single_post.html" class="button_medium" title="single_post.html">Read more</a>
-				</div>
+				
+				
+				
 				</div>
 			</div>
 			<div class="card col-md-5 card-style m-15" >
