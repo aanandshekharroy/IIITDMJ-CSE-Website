@@ -899,16 +899,23 @@
 				
 				<header class="nav-style">
 					<div class="container-fluid">
-						<a class="navbar-" href="#"><h4>Notice</h4></a>
+						<a class="navbar-" href="/news-and-events"><h4>Notices</h4></a>
 					</div>
 				</header>
 				<marquee class="" behavior="scroll" direction="up" loop="infinite" scrollamount="5" onmouseover="this.stop();" onmouseout="this.start();">
 					<ul class="notice">
-						<li><a href="#" ><span align="justify"><i class="fa fa-info-circle" aria-hidden="true"></i>Symposium on Next Generation Networks during 12-15 March 2015</span></a></li>
-						<li><a href="#" align="justify"><span align="justify"><i class="fa fa-info-circle" aria-hidden="true"></i>14th National workshop on Cryptology -2014 (September 25-27, 2014)</span></a></li>
-						<li><a href="#" align="justify"><span align="justify"><i class="fa fa-info-circle" aria-hidden="true"></i>Workshop on Complex Networks (May 19-23, 2014)</a></span></li>
-						<li><a href="#" align="justify"><span align="justify"><i class="fa fa-info-circle" aria-hidden="true"></i>16th International Conference of International Academy of Physical Sciences on Physical sciences and Technology for sustainable Development-2014 (CONIAPS-XVI) (March 22-24, 2014)</a></span></li>
-						<li><a href="#" align="justify"><span align="justify"><i class="fa fa-info-circle" aria-hidden="true"></i>Workshop on "Emerging Trends in Information Technology in University Management" (September 09-13, 2013)</span></a></li>
+                        @if( isset($notices))
+                            @foreach($notices as $notice)
+        						<li>
+                                    <a href="{{$notice->url}}" >
+                                        <span align="justify">
+                                        <i class="fa fa-info-circle" aria-hidden="true"></i>
+                                        {{$notice->title}}
+                                        </span>
+                                    </a>
+                                </li>
+                            @endforeach           
+                        @endif
 					</ul>
 				</marquee>
 			</div>
@@ -1135,18 +1142,24 @@
 			<div class="card col-md-5 card-style m-15" >
 				<header class="nav-style3">
 					<div class="container-fluid">
-						<a class="navbar-" href="#"><h4>News and Evemts</h4></a>
+						<a class="navbar-" href="/news-and-events"><h4>News and Events</h4></a>
 					</div>
 				</header>
 				<div class="Body newevent" style="">
-    				<div class="media list_news">
-                       <div class="circ-wrapper pull-left"><h3>15<br>July</h3></div>
-                          <div class="media-body">
-                            <h4 class="media-heading"><a href="news_detail.html">Ne nisl idque fierent vix</a></h4>
-                             <p>Lorem ipsum dolor sit amet, ius minim gubergren ad. At mei sumo sonet audiam, ad mutat elitr platonem vix. Ne nisl idque fierent vix. Ferri clita ponderum ne duo, simul appellantur reprehendunt mea an. An gloriatur vulputate eos, an sed fuisset vituperatoribus, tation tritani prodesset ex sed. </p>
-                          	<small><em>Posted By Admin</em></small>
-                          </div>
-    				</div>
+                    @if(isset($newsData))
+                        @foreach ($newsData as $data)
+                            <div class="media list_news">
+                               <div class="circ-wrapper pull-left"><h3>{{$data->created_at->day}}<br>{{date("F", mktime(0, 0, 0, $data->created_at->month, 10))}}</h3></div>
+                                  <div class="media-body">
+                                    <h4 class="media-heading"><a href="/news-and-events/{{$data->id}}">{!!$data->title!!}</a></h4>
+                                     {{--*/ $description = str_limit($data->description, 350, '...') /*--}}
+                                    <p>{!!$description!!}</p>
+                                    <!-- <small><em>Posted By Admin</em></small> -->
+                                  </div>
+                            </div>
+                        @endforeach
+                    @endif
+                    <p style="padding:20px;"></p>
 				</div>
 			</div>
 		</div>

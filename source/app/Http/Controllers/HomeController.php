@@ -5,6 +5,9 @@ namespace App\Http\Controllers;
 use App\Http\Requests;
 use Illuminate\Http\Request;
 use App\Research;
+use App\NewsEvents;
+use App\Notice;
+
 class HomeController extends BaseController
 {
     /**
@@ -26,7 +29,15 @@ class HomeController extends BaseController
     public function index()
     {
         $research=Research::orderBy('created_at','DESC')->get();
+        $newsData=NewsEvents::orderBy('created_at','DESC')->get();
+        $notices=HomeController::getNotices();
         //$student
-        return view('welcome')->with(['research'=>$research]);
+        return view('welcome')->with(['research'=>$research ,'newsData'=>$newsData, 'notices'=>$notices]);
+    }
+
+    public function getNotices() {
+        $notices = Notice::orderBy('created_at','DESC')->get();
+
+        return $notices;
     }
 }
