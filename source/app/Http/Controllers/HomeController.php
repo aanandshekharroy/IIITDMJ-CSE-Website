@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Http\Requests;
 use Illuminate\Http\Request;
-
+use App\Research;
 class HomeController extends BaseController
 {
     /**
@@ -25,6 +25,8 @@ class HomeController extends BaseController
      */
     public function index()
     {
-        return view('welcome');
+        $research=Research::orderBy('created_at','DESC')->get();
+        //$student
+        return view('welcome')->with(['research'=>$research]);
     }
 }
