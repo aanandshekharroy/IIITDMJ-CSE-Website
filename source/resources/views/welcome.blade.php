@@ -919,11 +919,9 @@
 
         <section id="main_content">
         <div class="container">
-        <div class="row">
-       </div><!-- End row -->
 		<hr>
 		<div class="row">
-		<div class="span12" >
+		  <div class="span12" >
 			<div class="card col-md-5 card-style m-15" style="height:526.02px;overflow:hidden;">
 				<header class="nav-style2">
 					<div class="container-fluid">
@@ -959,7 +957,7 @@
                     </div>
                     @endforeach
                 @endif
-			</div>
+				</div>
             </div>
 			<div class="card col-md-4 card-style m-15" >
 				<header class="nav-style3">
