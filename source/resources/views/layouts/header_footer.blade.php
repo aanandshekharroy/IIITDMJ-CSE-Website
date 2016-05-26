@@ -25,13 +25,21 @@
     
 
   </head>
-  <body>
-  <header>
+  <body class="Body">
+    <header>
   	<div class="container">
 	<div class="row">
 		<div class="col-md-12 col-sm-12 col-xs-12">
 			<a href="/" id="logo">Department of Computer Science & Engineering</a>
 		</div>
+		<!--<div class="col-md-9 col-sm-9 col-xs-9">
+			<div class="pull-right"><a href="login.html" class="button_top" id="login_top">Sign in</a> <a href="apply_2.html" class="button_top hidden-xs" id="apply">Apply now</a></div>
+            <ul id="top_nav" class="hidden-xs">
+                <li><a href="about_us.html">About</a></li>
+                <li><a href="apply.html">Wizard Apply</a></li>
+                <li><a href="register.html">Register</a></li>
+            </ul>
+		</div>-->
 	</div>
 </div>
 </header><!-- End header -->
@@ -45,6 +53,7 @@
 				<li class="normal_drop_down">
 				<a href="/">Home</a>
 				</li>
+				<li><a href="/about-us">About Us</a></li>
 				<li class="normal_drop_down">
 				<a href="program.php">Programs</a>
 				<div class="mobnav-subarrow"></div>
@@ -78,7 +87,7 @@
 				</ul>
 
 				</li>
-				<li><a href="blog.html">Facilities</a></li>
+				<li><a href="/facilities">Facilities</a></li>
 				<li><a href="blog.html">Gallery</a></li>
                 <li class="mega_drop_down">
 				<a href="#">Pages (Megamenu)</a>
@@ -95,29 +104,11 @@
                                 <li><a href="/news-and-events">News &amp; Events</a></li>
                             </ul>
                     </div>
-                  <div class="col-md-4 col-sm-6">
-                   <h5>Other pages</h5>
-                          <ul class="mega_submenu">
-                           	  <li><a href="apply.html">PHP working wizard apply</a></li>
-                              <li><a href="apply_2.html">PHP working apply</a></li>
-                              <li><a href="login.html">Login</a></li>
-                              <li><a href="register.html">Register</a></li>
-                              <li><a href="shortcodes.html">Shortcodes</a></li>
-                              <li><a href="gallery.html">Photo &amp; video gallery <img src="img/new.png" alt=""></a></li>
-                          </ul>
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                    <h5>Submenu with icons</h5>
-                            <ul class="mega_submenu icons">
-                            	<li><a href="#"> Downloads<i class="icon-download"></i></a></li>
-                                <li><a href="#">Video files <i class="icon-video"></i></a></li>
-                                <li><a href="#">Audio files <i class="icon-mic"></i></a></li>
-                                <li><a href="#">Members <i class="icon-user"></i></a></li>
-                            </ul>
-                    </div>
+                  
+                    
                 </div>
                 </li>
-				<li><a href="contacts.html">Contacts</a></li>
+				<li><a href="/contact-us">Contacts</a></li>
 			</ul>
             
               
