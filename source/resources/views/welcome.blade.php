@@ -364,7 +364,7 @@
                                     </div>
                                     <div class="separator clearfix">
                                         <p class="btn-add"> <a href="apply_2.html"> </a></p>
-                                        <p class="btn-details"> <a href="btech.php"><i class=" icon-list"></i> Details</a></p>
+                                        <p class="btn-details"> <a href="/programme/btech"><i class=" icon-list"></i> Details</a></p>
                                     </div>
                                 </div>
                             </div>
@@ -389,7 +389,7 @@
                                     </div>
                                     <div class="separator clearfix">
                                         <p class="btn-add"> <a href="apply_2.html"> </a></p>
-                                        <p class="btn-details"> <a href="mtech.php"><i class=" icon-list"></i> Details</a></p>
+                                        <p class="btn-details"> <a href="/programme/mtech"><i class=" icon-list"></i> Details</a></p>
                                     </div>
                                 </div>
                             </div>
@@ -414,7 +414,7 @@
                                     </div>
                                     <div class="separator clearfix">
                                         <p class="btn-add"> <a href="apply_2.html"> </a></p>
-                                        <p class="btn-details"> <a href="phd.php"><i class=" icon-list"></i> Details</a></p>
+                                        <p class="btn-details"> <a href="/programme/phd"><i class=" icon-list"></i> Details</a></p>
                                     </div>
                                 </div>
                             </div>
@@ -681,35 +681,33 @@
 					</div>
 				</header>
 				<div id="scroll1" style="height:374px; overflow:hidden;">
-                
-                        <div class="card-content" style="height:374px;">
-                        <img class="img-circle img-thumbnail" src="{{$item->student->picture}}" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
-                        <div class="card-block">
-                            <h4 class="card-title">{{$item->student->name}}</h4>
-                            <p class="card-text">{{$item->student->programme}}</p>
-                        </div>
-                        <table class="table">
-                            <tbody>
-                                <tr>
-                                    <td><strong>Research Topic:</strong></td>
-                                    <td>Buffer Tree</td>
-                                <tr>
-                                <tr>
-                                    <td><strong>Email:</strong></td>
-                                    <td>akhilaishwarya@iiitdmj.ac.in</td>
-                                <tr>
-                                <tr>
-                                    <td><strong>Guide:</strong></td>
-                                    <td><a href="sraban.php">Sraban Kr. Mohanty</a></td>
-                                <tr>
-                            <tbody>
-                        </table>
-                        <div class="card-block" align="right">
-                            <a href="aojha.php" class="button_medium_outline">Profile</a> 
-                        </div>
-                    </div>
-                   
-				
+
+				<div class="card-content" style="height:374px;">
+					<img class="img-circle img-thumbnail" src="/assets/img/akhil-1510102.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
+					<div class="card-block">
+						<h4 class="card-title">Akhil</h4>
+						<p class="card-text">MTech</p>
+					</div>
+					<table class="table">
+						<tbody>
+							<tr>
+								<td><strong>Research Topic:</strong></td>
+								<td>Buffer Tree</td>
+							<tr>
+							<tr>
+								<td><strong>Email:</strong></td>
+								<td>akhilaishwarya@iiitdmj.ac.in</td>
+							<tr>
+							<tr>
+								<td><strong>Guide:</strong></td>
+								<td><a href="sraban.php">Sraban Kr. Mohanty</a></td>
+							<tr>
+						<tbody>
+					</table>
+					<div class="card-block" align="right">
+						<a href="aojha.php" class="button_medium_outline">Profile</a> 
+					</div>
+				</div>
 				<div class="card-content" style="height:374px;">
 					<img class="img-circle img-thumbnail" src="img/akhil-1510102.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
 					<div class="card-block">
@@ -1101,41 +1099,46 @@
 		<hr>
 		<div class="row">
 		<div class="span12" >
-			<div class="card col-md-6 card-style m-15" style="height:526.02px;overflow:hidden;">
+			<div class="card col-md-5 card-style m-15" style="height:526.02px;overflow:hidden;">
 				<header class="nav-style2">
 					<div class="container-fluid">
 						<a class="navbar-" href="#"><h4>Research Activities</h4></a>
 					</div>
 				</header>
 				<div id="scroll3" style="height:439.35px;overflow:hidden;">
-                
-				<div class="post" style="height:439.35px">
-					<a href="blog_post.html" title="single_post.html"><img src="img/blog-3.jpg" alt="" class="img-responsive"></a>
-					<div class="post_info clearfix">
-						<div class="post-left">
-							<ul>
-								<li><i class="icon-calendar-empty"></i>On <span>12 Nov 2020</span></li>
-								<li><i class="icon-user"></i>By <a href="#">John Smith</a></li>
-								<li><i class="icon-tags"></i>Tags <a href="#">Works</a> <a href="#">Personal</a></li>
-							</ul>
-						</div>
-						<div class="post-right"><i class="icon-comment"></i><a href="#">25 </a>Comments</div>
-					</div>
-					<h2><a href="single_post.html" title="single_post.html">Research1</a></h2>
-					<p>
-						Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem.....
-					</p>
-					<a href="single_post.html" class="button_medium" title="single_post.html">Read more</a>
-				</div>
+                 
+                @if(isset($research))
+                    @foreach ($research as $item)
+                   
+                    <div class="post" style="height:439.35px">
+                        <a href="/research/{{$item->rId}}" ></a>
+                        <div class="post_info clearfix">
+                            <div class="post-left">
+                                <ul>
+                                    
+                                    <li><i class="icon-user"></i>By <a href="#">{{$item->student->name}}</a></li>
+                                    <li>Guide:  <a href="/faculty/{{$item->faculty->webpage}}">{{$item->faculty->name}}</a></li>
+                                    <li><i class="icon-tags"></i>Tag: 
+                                        <a href="/research-group/{{$item->researchGroup->rgId}}">{{$item->researchGroup->name}}</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            
+                        </div>
+                        <h2><a href="/research/{{$item->rId}}" title="single_post.html">{{$item->title}}</a></h2>
+                        <p>
+                            {{-- */$description=str_limit($item->content,350,'...')/* --}}
+                            {{$description}}
+                        </p>
+                        <a href="/research/{{$item->rId}}" class="button_medium" >Read more</a>
+                    </div>
+                    @endforeach
+                @endif
 				
-				
-				
-				</div>
-			</div>
-			<div class="card col-md-5 card-style m-15" >
+			<div class="card col-md-4 card-style m-15" >
 				<header class="nav-style3">
 					<div class="container-fluid">
-						<a class="navbar-" href="#"><h4>News and Evemts</h4></a>
+						<a class="navbar-" href="#"><h4>News and Events</h4></a>
 					</div>
 				</header>
 				<div class="Body newevent" style="">

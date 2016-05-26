@@ -67,7 +67,7 @@
 						</div>
 						
 					</div>
-					<h2><a href="single_post.html" title="single_post.html">{{$item->title}}</a></h2>
+					<h2><a href="#" title="single_post.html">{{$item->title}}</a></h2>
 					<p>
 						{{-- */$description=str_limit($item->content,350,'...')/* --}}
 						{{$description}}
