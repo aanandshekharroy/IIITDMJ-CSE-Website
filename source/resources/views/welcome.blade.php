@@ -1186,54 +1186,14 @@
 					</div>
 				</header>
 				<div class="Body newevent" style="">
-				<div class="media list_news">
-                   <div class="circ-wrapper pull-left"><h3>15<br>July</h3></div>
-                      <div class="media-body">
-                        <h4 class="media-heading"><a href="news_detail.html">Ne nisl idque fierent vix</a></h4>
-                         <p>Lorem ipsum dolor sit amet, ius minim gubergren ad. At mei sumo sonet audiam, ad mutat elitr platonem vix. Ne nisl idque fierent vix. Ferri clita ponderum ne duo, simul appellantur reprehendunt mea an. An gloriatur vulputate eos, an sed fuisset vituperatoribus, tation tritani prodesset ex sed. </p>
-                      	<small><em>Posted By Admin</em></small>
-                      </div>
-				</div>
-				<div class="media list_news">
-                   <div class="circ-wrapper pull-left"><h3>10<br>July</h3></div>
-                      <div class="media-body">
-                        <h4 class="media-heading"><a href="news_detail.html">Simul appellantur reprehendunt mea an</a></h4>
-                         <p>Lorem ipsum dolor sit amet, ius minim gubergren ad. At mei sumo sonet audiam, ad mutat elitr platonem vix. Ne nisl idque fierent vix. Ferri clita ponderum ne duo, simul appellantur reprehendunt mea an. An gloriatur vulputate eos, an sed fuisset vituperatoribus, tation tritani prodesset ex sed. </p>
-                      	<small><em>Posted By Mike</em></small>
-                      </div>
-				</div>
-				<div class="media list_news">
-                   <div class="circ-wrapper pull-left"><h3>27<br>Aug</h3></div>
-                      <div class="media-body">
-                        <h4 class="media-heading"><a href="news_detail.html">Ne nisl idque fierent vix</a></h4>
-                         <p>Lorem ipsum dolor sit amet, ius minim gubergren ad. At mei sumo sonet audiam, ad mutat elitr platonem vix. Ne nisl idque fierent vix. Ferri clita ponderum ne duo, simul appellantur reprehendunt mea an. An gloriatur vulputate eos, an sed fuisset vituperatoribus, tation tritani prodesset ex sed. </p>
-                      	<small><em>Posted By Admin</em></small>
-                      </div>
-				</div>
-				<div class="media list_news">
-                   <div class="circ-wrapper pull-left"><h3>12<br>Aug</h3></div>
-                      <div class="media-body">
-                        <h4 class="media-heading"><a href="news_detail.html">At mei sumo sonet audiam, ad mutat elitr platonem vix</a></h4>
-                         <p>Lorem ipsum dolor sit amet, ius minim gubergren ad. At mei sumo sonet audiam, ad mutat elitr platonem vix. Ne nisl idque fierent vix. Ferri clita ponderum ne duo, simul appellantur reprehendunt mea an. An gloriatur vulputate eos, an sed fuisset vituperatoribus, tation tritani prodesset ex sed. </p>
-                      	<small><em>Posted By Mike</em></small>
-                      </div>
-				</div>
-				<div class="media list_news">
-                   <div class="circ-wrapper pull-left"><h3>05<br>Aug</h3></div>
-                      <div class="media-body">
-                        <h4 class="media-heading"><a href="news_detail.html">An gloriatur vulputate eos.</a></h4>
-                         <p>Lorem ipsum dolor sit amet, ius minim gubergren ad. At mei sumo sonet audiam, ad mutat elitr platonem vix. Ne nisl idque fierent vix. Ferri clita ponderum ne duo, simul appellantur reprehendunt mea an. An gloriatur vulputate eos, an sed fuisset vituperatoribus, tation tritani prodesset ex sed. </p>
-                      	<small><em>Posted By Lucas</em></small>
-                      </div>
-				</div>
-				<div class="media list_news">
-                   <div class="circ-wrapper pull-left"><h3>20<br>June</h3></div>
-                      <div class="media-body">
-                        <h4 class="media-heading"><a href="news_detail.html">Simul appellantur reprehendunt mea an</a></h4>
-                         <p>Lorem ipsum dolor sit amet, ius minim gubergren ad. At mei sumo sonet audiam, ad mutat elitr platonem vix. Ne nisl idque fierent vix. Ferri clita ponderum ne duo, simul appellantur reprehendunt mea an. An gloriatur vulputate eos, an sed fuisset vituperatoribus, tation tritani prodesset ex sed. </p>
-                      	<small><em>Posted By Marc</em></small>
-                      </div>
-				</div>
+    				<div class="media list_news">
+                       <div class="circ-wrapper pull-left"><h3>15<br>July</h3></div>
+                          <div class="media-body">
+                            <h4 class="media-heading"><a href="news_detail.html">Ne nisl idque fierent vix</a></h4>
+                             <p>Lorem ipsum dolor sit amet, ius minim gubergren ad. At mei sumo sonet audiam, ad mutat elitr platonem vix. Ne nisl idque fierent vix. Ferri clita ponderum ne duo, simul appellantur reprehendunt mea an. An gloriatur vulputate eos, an sed fuisset vituperatoribus, tation tritani prodesset ex sed. </p>
+                          	<small><em>Posted By Admin</em></small>
+                          </div>
+    				</div>
 				</div>
 			</div>
 		</div>
