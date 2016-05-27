@@ -748,7 +748,7 @@
 			<div class="card col-md-5 card-style m-15" style="height:526.02px;overflow:hidden;">
 				<header class="nav-style2">
 					<div class="container-fluid">
-						<a class="navbar-" href="#"><h4>Research Activities</h4></a>
+						<a class="navbar-" href="/research"><h4>Research Activities</h4></a>
 					</div>
 				</header>
 				<div id="scroll3" style="height:439.35px;overflow:hidden;">
@@ -761,7 +761,6 @@
                         <div class="post_info clearfix">
                             <div class="post-left">
                                 <ul>
-                                    
                                     <li><i class="icon-user"></i>By <a href="#">{{$item->student->name}}</a></li>
                                     <li>Guide:  <a href="/faculty/{{$item->faculty->webpage}}">{{$item->faculty->name}}</a></li>
                                     <li><i class="icon-tags"></i>Tag: 
@@ -769,7 +768,6 @@
                                     </li>
                                 </ul>
                             </div>
-                            
                         </div>
                         <h2><a href="/research/{{$item->rId}}" title="single_post.html">{{$item->title}}</a></h2>
                         <p>
@@ -778,6 +776,7 @@
                         </p>
                         <a href="/research/{{$item->rId}}" class="button_medium" >Read more</a>
                     </div>
+
                     @endforeach
                 @endif
 				</div>
@@ -815,7 +814,7 @@
         </div>
         <div class="row">
             <div class="col-md-12">
-                <p><img src="/assets/img/sponsors.jpg" alt="Pic" class="img-responsive"></p>
+                <p><img src="/assets/img/CLOGO.jpg" alt="Pic" class="img-responsive"></p>
            </div>
         </div>
         </div><!-- End container -->
