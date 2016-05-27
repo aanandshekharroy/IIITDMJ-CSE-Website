@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 use App\Http\Requests;
 
-class ProgrammeController extends BaseController
+class ExtrasController extends BaseController
 {
     /**
      * Display a listing of the resource.
@@ -16,9 +16,10 @@ class ProgrammeController extends BaseController
     public function __construct(){
         parent::__construct();
     }
-    public function index()
+    public function about_us()
     {
         //
+        return view('aboutus');
     }
 
     /**
@@ -26,9 +27,10 @@ class ProgrammeController extends BaseController
      *
      * @return \Illuminate\Http\Response
      */
-    public function create()
+    public function facilities()
     {
         //
+        return view('facilities');
     }
 
     /**
@@ -37,9 +39,10 @@ class ProgrammeController extends BaseController
      * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\Response
      */
-    public function store(Request $request)
+    public function contact_us()
     {
         //
+        return view('contactus');
     }
 
     /**
@@ -48,11 +51,9 @@ class ProgrammeController extends BaseController
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function show($programme)
+    public function show($id)
     {
         //
-        $url="programme.".$programme;
-        return view($url);
     }
 
     /**

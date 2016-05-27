@@ -16,12 +16,7 @@
 
 <div class="container">
 
-<ol class="breadcrumb">
-      <li><a href="index.html">Home</a></li>
-      <li class="active">Active page</li>
-    </ol>
-    
-	<div class="row"> 
+<div class="row"> 
      	<div class="col-md-4">
      @include('notices')
      </div>

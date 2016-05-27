@@ -433,7 +433,7 @@
 			<div class="card col-md-3 card-style m-15" style="height:446.67px;overflow:hidden;">
 				<header class="nav-style">
 					<div class="container-fluid">
-						<a class="navbar-" href="#"><h4>Faculties</h4></a>
+						<a class="navbar-" href="/faculty"><h4>Faculties</h4></a>
 					</div>
 				</header>
 				<div id="scroll" style="height:374px; overflow:hidden;">
@@ -460,7 +460,7 @@
 						<tbody>
 					</table>
 					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
+						<a href="/faculty/aojha" class="button_medium_outline">Profile</a> 
 					</div>
 				</div>
 				<div class="card-content" style="height:374px;">
@@ -486,7 +486,7 @@
 						<tbody>
 					</table>
 					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
+						<a href="/faculty/pkhanna" class="button_medium_outline">Profile</a> 
 					</div>
 				</div>
 				<div class="card-content" style="height:374px;">
@@ -512,7 +512,7 @@
 						<tbody>
 					</table>
 					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
+						<a href="/faculty/atul" class="button_medium_outline">Profile</a> 
 					</div>
 				</div>
 				<div class="card-content" style="height:374px;">
@@ -538,7 +538,7 @@
 						<tbody>
 					</table>
 					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
+						<a href="/faculty/sraban" class="button_medium_outline">Profile</a> 
 					</div>
 				</div>
 				<div class="card-content" style="height:374px;">
@@ -564,7 +564,7 @@
 						<tbody>
 					</table>
 					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
+						<a href="/faculty/vkjain" class="button_medium_outline">Profile</a> 
 					</div>
 				</div>
 				<div class="card-content" style="height:374px;">
@@ -616,7 +616,7 @@
 						<tbody>
 					</table>
 					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
+						<a href="/faculty/ruchir" class="button_medium_outline">Profile</a> 
 					</div>
 				</div>
 				<div class="card-content" style="height:374px;">
@@ -642,7 +642,7 @@
 						<tbody>
 					</table>
 					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
+						<a href="/faculty/ayan" class="button_medium_outline">Profile</a> 
 					</div>
 				</div>
 				</div>
