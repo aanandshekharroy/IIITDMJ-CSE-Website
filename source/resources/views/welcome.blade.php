@@ -696,7 +696,7 @@
 						<a class="navbar-" href="/news-and-events"><h4>Notices</h4></a>
 					</div>
 				</header>
-				<marquee class="" behavior="scroll" direction="up" loop="infinite" scrollamount="5" onmouseover="this.stop();" onmouseout="this.start();">
+				<marquee class="" style="height: 448px;" behavior="scroll" direction="up" loop="infinite" scrollamount="5" onmouseover="this.stop();" onmouseout="this.start();">
 					<ul class="notice">
                         @if( isset($notices))
                             @foreach($notices as $notice)
@@ -745,7 +745,7 @@
 		<hr>
 		<div class="row">
 		  <div class="span12" >
-			<div class="card col-md-5 card-style m-15" style="height:526.02px;overflow:hidden;">
+			<div class="card col-md-6 card-style m-15" style="height:526.02px;overflow:hidden;">
 				<header class="nav-style2">
 					<div class="container-fluid">
 						<a class="navbar-" href="/research"><h4>Research Activities</h4></a>
@@ -757,6 +757,7 @@
                     @foreach ($research as $item)
                    
                     <div class="post" style="height:439.35px">
+                    <img class =" img-responsive" src="/assets/img/blog-1.jpg">
                         <a href="/research/{{$item->rId}}" ></a>
                         <div class="post_info clearfix">
                             <div class="post-left">
@@ -781,7 +782,7 @@
                 @endif
 				</div>
             </div>
-			<div class="card col-md-4 card-style m-15" >
+			<div class="card col-md-5 card-style m-15" >
 				<header class="nav-style3">
 					<div class="container-fluid">
 						<a class="navbar-" href="/news-and-events"><h4>News and Events</h4></a>
