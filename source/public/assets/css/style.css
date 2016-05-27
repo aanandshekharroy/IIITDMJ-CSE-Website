@@ -3031,6 +3031,7 @@ width: 108%;
 	    background-color: #1C1C1C;
     border: 2px solid #1C1C1C;
 }
+
 .newevent
 {
 	height: 455.2px;
@@ -3061,3 +3062,11 @@ overflow-y:auto;
 	color:gray;
 	
 }
+
+.feature > [class^="icon-"]:before,.feature> [class*=" icon-"]:before{
+	margin-top: 17px;
+}
+#follow_us [class^="icon-"]:before, #follow_us [class*=" icon-"]:before {
+	margin-top: 7px;
+}
+
