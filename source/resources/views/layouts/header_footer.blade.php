@@ -2,7 +2,7 @@
 
 <head>
   	<meta charset="utf-8">
-    <title>LEARN - Courses, Education site template</title>
+    <title>Computer Science department IIITDM Jabalpur</title>
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no">
     
     <!-- Favicons-->
@@ -18,13 +18,7 @@
     <link href="/assets/css/style.css" rel="stylesheet">
     <link href="/assets/fontello/css/fontello.css" rel="stylesheet">
     
-    <!--[if lt IE 9]>
-      <script src="http://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="http://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
-    
-
-  </head>
+ </head>
   <body class="Body">
     <header>
   	<div class="container">
@@ -32,14 +26,6 @@
 		<div class="col-md-12 col-sm-12 col-xs-12">
 			<a href="/" id="logo">Department of Computer Science & Engineering</a>
 		</div>
-		<!--<div class="col-md-9 col-sm-9 col-xs-9">
-			<div class="pull-right"><a href="login.html" class="button_top" id="login_top">Sign in</a> <a href="apply_2.html" class="button_top hidden-xs" id="apply">Apply now</a></div>
-            <ul id="top_nav" class="hidden-xs">
-                <li><a href="about_us.html">About</a></li>
-                <li><a href="apply.html">Wizard Apply</a></li>
-                <li><a href="register.html">Register</a></li>
-            </ul>
-		</div>-->
 	</div>
 </div>
 </header><!-- End header -->
@@ -91,6 +77,7 @@
 				<li><a href="blog.html">Gallery</a></li>
 				<li><a href="/news-and-events">News &amp; Events</a></li>
                 <li><a href="/contact-us">Contacts</a></li>
+
 			</ul>
             
               
