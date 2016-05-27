@@ -24,6 +24,7 @@ class CreateStudentsTable extends Migration
             $table->foreign('fId')->references('fId')->on('faculty');
             $table->date('completion_date');
             $table->string('picture');
+            $table->string('webpage');
             $table->timestamps();
         });
     }

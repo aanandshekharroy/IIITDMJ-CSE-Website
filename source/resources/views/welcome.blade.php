@@ -668,7 +668,7 @@
     						<tbody>
     							<tr>
     								<td><strong>Research Topic:</strong></td>
-    								<td>{{$student->research->title}}</td>
+    								<td>{{$student->research_area}}</td>
     							<tr>
     							<tr>
     								<td><strong>Email:</strong></td>
@@ -676,7 +676,7 @@
     							<tr>
     							<tr>
     								<td><strong>Guide:</strong></td>
-    								<td><a href="/faculty/{{$student->research->webpage}}">{{$student->research->faculty->name}}</a></td>
+    								<td><a href="/faculty/{{$student->guide->webpage}}">{{$student->guide->name}}</a></td>
     							<tr>
     						<tbody>
     					</table>

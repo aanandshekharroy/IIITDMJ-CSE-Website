@@ -169,7 +169,12 @@
 		});	//ready
 
 	</script>
-
+<script src="/assets/js/autochange.js"></script>
+<script type="text/javascript">
+        autoScroll('scroll');
+		 autoScroll2('scroll1');
+		 autoScroll3('scroll3');
+</script>
 <!-- OTHER JS --> 
 <script src="/assets/js/superfish.js"></script>
 <script src="/assets/js/bootstrap.min.js"></script>

@@ -10,7 +10,7 @@
       <th>Guide</th>
       <th>Completion</th>
       <th>Email</th>
-      
+      <th>Webpage</th>
     </tr>
   </thead>
   <tbody>
@@ -24,7 +24,7 @@
         <td>{{$student->guide->name}}</td>
         <td>{{$student->completion_date}}</td>
         <td>{{$student->email}}</td>
-	      
+	      <td>{{$student->webpage}}</td>
 	      
         
 	      
