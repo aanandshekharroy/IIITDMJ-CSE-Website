@@ -17,6 +17,8 @@
     <link href="/assets/css/superfish.css" rel="stylesheet">
     <link href="/assets/css/style.css" rel="stylesheet">
     <link href="/assets/fontello/css/fontello.css" rel="stylesheet">
+    <link href="/assets/css/dataTables.bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
     
  </head>
   <body class="Body">
@@ -111,11 +113,10 @@
 		<div class="col-md-3 col-sm-3">
 			<h4>RESEARCH GROUP</h4>
 			<ul>
-				@if(isset($researchGroup))
-					@foreach ($researchGroup as $group)
-						<li><a href="/research-group/{{$group->rgId}}">{{$group->name}}</a></li>		
-					@endforeach
-				@endif
+				<li><a href="http://ive.iiitdmj.ac.in/">IMAGE AND VISION ENGINEERING GROUP</a></li>
+				<li><a href="http://race.iiitdmj.ac.in/">ROBOTICS, AUTOMATION AND CONTROL ENGINEERING</a></li>
+				<li><a href="http://serg.iiitdmj.ac.in/">SOFTWARE ENGINEERING RESEARCH GROUP</a></li>
+				<li><a href="http://srg.iiitdmj.ac.in/">SECURITY RESEARCH GROUP</a></li>
 			</ul>
 		</div><!-- End col-md-4 -->
 		<div class="col-md-3 col-sm-3">
@@ -169,6 +170,13 @@
 		});	//ready
 
 	</script>
+
+	<script type="text/javascript">
+	$(document).ready(function() {
+    $('#example').DataTable();
+} );
+	</script>
+
 <script src="/assets/js/autochange.js"></script>
 <script type="text/javascript">
         autoScroll('scroll');
@@ -176,6 +184,8 @@
 		 autoScroll3('scroll3');
 </script>
 <!-- OTHER JS --> 
+<script src="/assets/js/dataTables.bootstrap.min.js"></script>
+<script src="/assets/js/jquery.dataTables.min.js"></script>
 <script src="/assets/js/superfish.js"></script>
 <script src="/assets/js/bootstrap.min.js"></script>
 <script src="/assets/js/retina.min.js"></script>

@@ -5,7 +5,7 @@
 	<div class="row">
 		<div class="col-md-10 col-md-offset-1 text-center">
 			<h1>Prof. Aparajita Ojha</h1>
-			<p class="lead">A Smooth sea never made a skillful. </p>
+			<p class="lead"></p>
 		</div>
 	</div><!-- End row -->
 </div><!-- End container -->
@@ -51,10 +51,10 @@
                     
                         <div class="tab-pane fade in active" id="profile_teacher">
                         <h3>About me</h3>
-                        <p>Geometric Modelling, Complex Analysis- Conformal mappings, Finite Element Methods, Spline Theory and Applications, Wavelet Analysis and Applications. Visual Cryptography, Computer Aided Geometric Design, Computer Visualization and Graphics Robot Motion Planning, Software Engineering - Object Oriented Analysis and Design </p>
+                        <p align="justify">Geometric Modelling, Complex Analysis- Conformal mappings, Finite Element Methods, Spline Theory and Applications, Wavelet Analysis and Applications. Visual Cryptography, Computer Aided Geometric Design, Computer Visualization and Graphics Robot Motion Planning, Software Engineering - Object Oriented Analysis and Design </p>
                         
                      	<h4>Credentials</h4>
-						<p>CSIR Junior Research Fellowship 1984 Gold medals for first rank in the science faculty at M. Sc. level. R.D. University, Jabalpur </p>
+						<p align="justify">CSIR Junior Research Fellowship 1984 Gold medals for first rank in the science faculty at M. Sc. level. R.D. University, Jabalpur </p>
 						<div class="row">
                         	<div class="col-md-6">
                             	<ul class="list_3">
@@ -70,19 +70,19 @@
 					   <div class="tab-pane fade in" id="Courses">
                        			<h3>Active courses</h3>
 								<h4>PG level</h4>
-                        		<p>Real and complex analysis, Functional analysis, Topology, Approximation Theory, Finite Element Method, Wavelet Analysis, Bezier Technique for CAGD, Applied Functional Analysis, Visual Cryptography, Path planning algorithms, Computer Graphics</p>
+                        		<p align="justify">Real and complex analysis, Functional analysis, Topology, Approximation Theory, Finite Element Method, Wavelet Analysis, Bezier Technique for CAGD, Applied Functional Analysis, Visual Cryptography, Path planning algorithms, Computer Graphics</p>
 								<h4>UG level</h4>
-                        		<p>Mathematics for continuous and discrete domains, Computer Graphics Simulation and Visualization, Computer organization and architecture, Operating systems, Object oriented analysis and design, Object oriented programming using Java </p>
+                        		<p align="justify">Mathematics for continuous and discrete domains, Computer Graphics Simulation and Visualization, Computer organization and architecture, Operating systems, Object oriented analysis and design, Object oriented programming using Java </p>
                                 
                        </div><!-- End tab-pane -->
 					   <div class="tab-pane fade in" id="Research_Activities">
                        			<h3>Research Activities</h3>
-                        		<p>6 PhD students are working with me in the following areas - Robot path planning, Visual Cryptography, Video stabilization, Digital watermarking, Clustering algorithms, Software maintainability. Two M. Tech. students are also working with me on visual cryptography and path planning for gaming application. </p>
+                        		<p align="justify">6 PhD students are working with me in the following areas - Robot path planning, Visual Cryptography, Video stabilization, Digital watermarking, Clustering algorithms, Software maintainability. Two M. Tech. students are also working with me on visual cryptography and path planning for gaming application. </p>
                                 
                        </div><!-- End tab-pane -->
 					   <div class="tab-pane fade in" id="Research_Publications">
                        			<h3>Research Publications</h3>
-                        		<p><strong>Path Planning (Mainly for Robots) -</strong> <br>
+                        		<p align="justify"><strong>Path Planning (Mainly for Robots) -</strong> <br>
 1.	A. Kumar and A. Ojha, Anticipated velocity based guidance strategy for wheeled mobile evader amidst stationary and moving obstacles in bounded environment, Computer Animation and Virtual Worlds, accepted, 2014. 
 2.	A. Kumar and A. Ojha, Anticipated velocity based guidance strategy for wheeled mobile evaders amidst moving obstacles in bounded environment, Advances in Intelligent Systems and Computing 248(2014), 789-798. 
 3.	A. Kumar and A. Ojha, Performance evaluation of certain proportional navigation guidance schemes, CARE 2013 - 2013 Proceedings of IEEE International Conference on Control, Automation, Robotics and Embedded Systems, article no. 6733766 (2013). 
@@ -126,7 +126,7 @@
                        </div><!-- End tab-pane -->
 					   <div class="tab-pane fade in" id="Study_Materials">
                        			<h3>Study Materials</h3>
-                        		<p>Cooming Soon...</p>
+                        		<p align="justify">Cooming Soon...</p>
                                 
                        </div><!-- End tab-pane -->
                        

@@ -61,12 +61,6 @@ Madhya Pradesh, India</li>
 			<li><a href="#"><i class="icon-twitter"></i>twitter.com/#username</a></li>
 			<li><a href="#"><i class=" icon-google"></i>googleplus.com/username</a></li>
 		</ul>
-        <hr>
-		<h3>Apply for a course</h3>
-        <p>
-			Cu affert populo neglegentur has, labore nostrum periculis ius in, singulis electram ad vel labore.
-		</p>
-        <a href="#" class="button_medium_outline">Apply</a>
 	</div>
 	<div class="col-md-8">
 		<div class=" box_style_2">

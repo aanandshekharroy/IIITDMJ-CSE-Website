@@ -3031,9 +3031,42 @@ width: 108%;
 	    background-color: #1C1C1C;
     border: 2px solid #1C1C1C;
 }
-.feature > [class^="icon-"]:before,.feature> [class*=" icon-"]:before {
+
+.newevent
+{
+	height: 455.2px;
+	overflow-y:hidden;
+	width: 104%;
+}
+.newevent:hover
+{
+overflow-y:auto;
+}
+.notice
+{
+	list-style:none;
+	font-family: "proxima_novasemibold", Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+	display:inline;
+	font-size:16px;
+	line-height:29px;
+}
+.notice li
+{
+	margin-top:10px;
+	
+}
+.notice li a:hover
+{
+	color:gray;
+	
+}
+
+.feature > [class^="icon-"]:before,.feature> [class*=" icon-"]:before{
 	margin-top: 17px;
 }
-/*.cat_row .pull-right {
-	margin-top: -15px;
-}*/
+#follow_us [class^="icon-"]:before, #follow_us [class*=" icon-"]:before {
+	margin-top: 7px;
+}
+

@@ -5,7 +5,7 @@
 	<div class="row">
 		<div class="col-md-10 col-md-offset-1 text-center">
 			<h1>Dr. Pritee Khanna</h1>
-			<p class="lead">A Smooth sea never made a skillful. </p>
+			<p class="lead">Associate Professor</p>
 		</div>
 	</div><!-- End row -->
 </div><!-- End container -->

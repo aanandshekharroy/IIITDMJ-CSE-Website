@@ -27,10 +27,10 @@
                     <li><a href="#"><i class=" icon-google"></i></a></li>
                 </ul>   
                  <ul>
-                     <li>Name <strong class="pull-right">Aparajita Ojha</strong> </li>
-                     <li>Email <strong class="pull-right">aojha@iiitdmj.ac.in</strong></li>
-                     <li>Telephone  <strong class="pull-right">+91-761-2632 044(EX-103)</strong></li>
-                     <li>Intranet link <strong class="pull-right"><a href="http://web.iiitdmj.ac.in/~aojha">Click here..</a></strong></li>
+                     <li>Name <strong class="pull-right">Ayan Seal</strong> </li>
+                     <li>Email <strong class="pull-right">ayan@iiitdmj.ac.in</strong></li>
+                     <li>Telephone  <strong class="pull-right"></strong></li>
+                     <li>Intranet link <strong class="pull-right"><a href="http://web.iiitdmj.ac.in/~ayan">Click here..</a></strong></li>
                     <!-- <li>Lessons <strong class="pull-right">12</strong></li>
                      <li>Courses <strong class="pull-right">15</strong></li>-->
                 </ul>

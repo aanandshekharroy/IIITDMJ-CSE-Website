@@ -1,7 +1,10 @@
 @extends('layouts.header_footer')
 @section('content')
-<table class="table">
-  <thead>
+<div class="container" style="margin-top:10px;">
+<div class="row">
+<div class="span12">
+<table id="example" class="table table-striped table-bordered" cellspacing="0" width="100%">
+<thead>
     <tr>
       <th>Faculty</th>
       <th>Project</th>
@@ -37,4 +40,7 @@
     
   </tbody>
 </table>
+</div>
+</div>
+</div>
 @endsection
