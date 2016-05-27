@@ -75,26 +75,9 @@
 				</li>
 				<li><a href="/facilities">Facilities</a></li>
 				<li><a href="blog.html">Gallery</a></li>
-                <li class="normal_drop_down">
-				<a href="#">Pages (Megamenu)</a>
-                <div class="mobnav-subarrow"></div>
-                <div class="sf-mega">
-                	<div class="col-md-4 col-sm-6">
-                    	<h5>Communicate</h5>
-                            <ul class="mega_submenu">
-                            	<li><a href="about_us.html">About us</a></li>
-								<li><a href="teachers.html">Teachers</a></li>
-                                <li><a href="teacher_profile.html">Teacher profile</a></li>
-                                <li><a href="member_profile.html">Member profile</a></li>
-                                <li><a href="blog.html">Blog</a></li>
-                                <li><a href="/news-and-events">News &amp; Events</a></li>
-                            </ul>
-                    </div>
-                  
-                    
-                </div>
-                </li>
-				<li><a href="/contact-us">Contacts</a></li>
+				<li><a href="/news-and-events">News &amp; Events</a></li>
+                <li><a href="/contact-us">Contacts</a></li>
+
 			</ul>
             
               
@@ -138,7 +121,7 @@
 		<div class="col-md-3 col-sm-3">
 			<h4>About IIITDM</h4>
 			<ul>
-				<li><a href="about_us.html">About Us</a></li>
+				<li><a href="/about-us">About Us</a></li>
 				<li><a href="apply_2.html">Web Team</a></li>
 				<li><a href="#">Terms and conditions</a></li>
 				<li><a href="register.html">Register</a></li>

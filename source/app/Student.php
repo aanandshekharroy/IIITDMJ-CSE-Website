@@ -13,4 +13,7 @@ class Student extends Model
     public function research(){
     	return $this->hasOne('App\Research','sId','sId');
     }
+    public function guide(){
+    	return $this->hasOne('App\Faculty','fId','fId');
+    }
 }

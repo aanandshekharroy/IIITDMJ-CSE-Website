@@ -21,7 +21,8 @@ class StudentsController extends BaseController
         //
         $phdStudents=Student::where('programme','Phd')->get();
         $mtechStudents=Student::where('programme','M.tech')->get();
-        return view('students')->with(['mtechStudents'=>$mtechStudents,'phdStudents'=>$phdStudents]);
+        $students=Student::orderBy('name','ASC')->get();
+        return view('students')->with(['mtechStudents'=>$mtechStudents,'phdStudents'=>$phdStudents,'students'=>$students]);
     }
 
     /**

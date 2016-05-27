@@ -27,15 +27,9 @@ Route::resource('faculty', 'FacultyController');
 
 Route::resource('projects','FacultyProjectsController');
 
-Route::get("/about-us",function(){
-	return view('aboutus');
-});
-Route::get("/facilities",function(){
-	return view('facilities');
-});
-Route::get("/contact-us",function(){
-	return view('contactus');
-});
+Route::get("/about-us",'ExtrasController@about_us');
+Route::get("/facilities",'ExtrasController@facilities');
+Route::get("/contact-us",'ExtrasController@contact_us');
 Route::auth();
 
 Route::get('/home', 'HomeController@index');

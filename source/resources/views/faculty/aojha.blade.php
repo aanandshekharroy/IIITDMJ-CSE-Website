@@ -15,11 +15,6 @@
 <section id="main_content">
 
 <div class="container">
-
-<ol class="breadcrumb">
-  <li><a href="index.html">Home</a></li>
-  <li class="active">Active page</li>
-</ol>
       <div class="row">
      <aside class="col-md-4">
      	<div class=" box_style_1 profile">
