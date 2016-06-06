@@ -76,7 +76,7 @@
 
 				</li>
 				<li><a href="/facilities">Facilities</a></li>
-				<li><a href="blog.html">Gallery</a></li>
+				<li><a href="/gallery">Gallery</a></li>
 				<li><a href="/news-and-events">News &amp; Events</a></li>
                 <li><a href="/contact-us">Contacts</a></li>
 
@@ -123,9 +123,9 @@
 			<h4>About IIITDM</h4>
 			<ul>
 				<li><a href="/about-us">About Us</a></li>
-				<li><a href="apply_2.html">Web Team</a></li>
+				<li><a href="#">Web Team</a></li>
 				<li><a href="#">Terms and conditions</a></li>
-				<li><a href="register.html">Register</a></li>
+				<li><a href="#">Register</a></li>
 			</ul>
 		</div><!-- End col-md-4 -->
 		<div class="col-md-3 col-sm-3">

@@ -30,6 +30,7 @@ Route::resource('projects','FacultyProjectsController');
 Route::get("/about-us",'ExtrasController@about_us');
 Route::get("/facilities",'ExtrasController@facilities');
 Route::get("/contact-us",'ExtrasController@contact_us');
+Route::get("/gallery",'ExtrasController@gallery');
 Route::auth();
 
 Route::get('/home', 'HomeController@index');

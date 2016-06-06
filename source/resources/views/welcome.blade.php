@@ -333,99 +333,7 @@
         </div><!-- End container-->
     </section><!-- End main-features -->
     
-    <section id="main_content_gray">
-    	<div class="container">
-        	<div class="row">
-            <div class="col-md-12 text-center">
-                <h2>Our Courses</h2>
-                <p class="lead"></p>
-            </div>
-        </div><!-- End row -->
-        
-        <div class="row">
-        
-        			<div class="col-lg-4 col-md-6 col-sm-6">
-                            <div class="col-item">
-                            <!--<span class="ribbon_course"></span>-->
-                                <div class="photo">
-                                    <a href="#"><img src="/assets/img/poetry.JPG" alt="" /></a>
-                                    <div class="cat_row"><a href="#">B.Tech</a><span class="pull-right"><i class=" icon-clock"></i>4 Years</span></div>
-                                </div>
-                                <div class="info">
-                                    <div class="row">
-                                        <div class="course_info col-md-12 col-sm-12">
-                                            <h4>Bachelor of Technology (B.Tech) Programme</h4>
-                                            <p >Institute offers four year undergraduate degree (B.Tech) programme in Computer Science & Engineering. The course curriculum for the undergraduate program gives the.. </p>
-                                            <div class="rating">
-                                            <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class=" icon-star-empty"></i>
-                                        	</div>
-                                            <div class="price pull-right"></div>
-                                        </div>
-                                    </div>
-                                    <div class="separator clearfix">
-                                        <p class="btn-add"> <a href="apply_2.html"> </a></p>
-                                        <p class="btn-details"> <a href="/programme/btech"><i class=" icon-list"></i> Details</a></p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        
-                        <div class="col-lg-4 col-md-6 col-sm-6">
-                            <div class="col-item">
-                                <div class="photo">
-                                    <a href="#"><img src="/assets/img/business.JPG" alt="" /></a>
-                                    <div class="cat_row"><a href="#">M.Tech</a><span class="pull-right"><i class=" icon-clock"></i>2 Years</span></div>
-                                </div>
-                                <div class="info">
-                                    <div class="row">
-                                        <div class="course_info col-md-12 col-sm-12">
-                                            <h4>Master of Technology (M.Tech) Programme</h4>
-                                            <p > Institute offers two year post graduate degree (M.Tech) programme in Computer Science & Engineering. The minimum residential requirement for the program is four.. </p>
-                                            <div class="rating">
-                                            <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class=" icon-star-empty"></i><i class=" icon-star-empty"></i>
-                                        </div>
-                                        <div class="price pull-right"></div>
-                                        </div>
-                                    </div>
-                                    <div class="separator clearfix">
-                                        <p class="btn-add"> <a href="apply_2.html"> </a></p>
-                                        <p class="btn-details"> <a href="/programme/mtech"><i class=" icon-list"></i> Details</a></p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        
-                        <div class="col-lg-4 col-md-6 col-sm-6">
-                            <div class="col-item">
-                                <div class="photo">
-                                    <a href="#"><img src="/assets/img/art.JPG" alt="" /></a>
-                                    <div class="cat_row"><a href="#">PhD</a><span class="pull-right"><i class=" icon-clock"></i>As Needed</span></div>
-                                </div>
-                                <div class="info">
-                                    <div class="row">
-                                        <div class="course_info col-md-12 col-sm-12">
-                                            <h4>Doctor of Philosophy (PhD) Programme</h4>
-                                            <p > Institute offers doctoral degree (PhD) programme in Computer Science & Engineering. <br><br><br><br></p>
-                                            <div class="rating">
-                                            <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>
-                                        </div>
-                                        <div class="price pull-right"></div>
-                                        </div>
-                                    </div>
-                                    <div class="separator clearfix">
-                                        <p class="btn-add"> <a href="apply_2.html"> </a></p>
-                                        <p class="btn-details"> <a href="/programme/phd"><i class=" icon-list"></i> Details</a></p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-        <div class="row">
-            <div class="col-md-12">
-                 <a href="courses_grid.html" class="button_medium_outline pull-right">View all courses</a>
-            </div>
-        </div>
-         </div>   <!-- End container -->
-        </section><!-- End section gray -->
+    
         <section class="Faculty"> 
 <div class="container">
 	<div class="row">
@@ -806,6 +714,97 @@
 			</div>
 		</div>
 	</div>
+        <div class="container">
+            <div class="row">
+            <div class="col-md-12 text-center">
+                <h2>Our Courses</h2>
+                <p class="lead"></p>
+            </div>
+        </div><!-- End row -->
+        
+        <div class="row">
+        
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                            <div class="col-item">
+                            <!--<span class="ribbon_course"></span>-->
+                                <div class="photo">
+                                    <a href="#"><img src="/assets/img/poetry.JPG" alt="" /></a>
+                                    <div class="cat_row"><a href="#">B.Tech</a><span class="pull-right"><i class=" icon-clock"></i>4 Years</span></div>
+                                </div>
+                                <div class="info">
+                                    <div class="row">
+                                        <div class="course_info col-md-12 col-sm-12">
+                                            <h4>Bachelor of Technology (B.Tech) Programme</h4>
+                                            <p >Institute offers four year undergraduate degree (B.Tech) programme in Computer Science & Engineering. The course curriculum for the undergraduate program gives the.. </p>
+                                            <div class="rating">
+                                            <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class=" icon-star-empty"></i>
+                                            </div>
+                                            <div class="price pull-right"></div>
+                                        </div>
+                                    </div>
+                                    <div class="separator clearfix">
+                                        <p class="btn-add"> <a href="apply_2.html"> </a></p>
+                                        <p class="btn-details"> <a href="/programme/btech"><i class=" icon-list"></i> Details</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-lg-4 col-md-6 col-sm-6">
+                            <div class="col-item">
+                                <div class="photo">
+                                    <a href="#"><img src="/assets/img/business.JPG" alt="" /></a>
+                                    <div class="cat_row"><a href="#">M.Tech</a><span class="pull-right"><i class=" icon-clock"></i>2 Years</span></div>
+                                </div>
+                                <div class="info">
+                                    <div class="row">
+                                        <div class="course_info col-md-12 col-sm-12">
+                                            <h4>Master of Technology (M.Tech) Programme</h4>
+                                            <p > Institute offers two year post graduate degree (M.Tech) programme in Computer Science & Engineering. The minimum residential requirement for the program is four.. </p>
+                                            <div class="rating">
+                                            <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class=" icon-star-empty"></i><i class=" icon-star-empty"></i>
+                                        </div>
+                                        <div class="price pull-right"></div>
+                                        </div>
+                                    </div>
+                                    <div class="separator clearfix">
+                                        <p class="btn-add"> <a href="apply_2.html"> </a></p>
+                                        <p class="btn-details"> <a href="/programme/mtech"><i class=" icon-list"></i> Details</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-lg-4 col-md-6 col-sm-6">
+                            <div class="col-item">
+                                <div class="photo">
+                                    <a href="#"><img src="/assets/img/art.JPG" alt="" /></a>
+                                    <div class="cat_row"><a href="#">PhD</a><span class="pull-right"><i class=" icon-clock"></i>As Needed</span></div>
+                                </div>
+                                <div class="info">
+                                    <div class="row">
+                                        <div class="course_info col-md-12 col-sm-12">
+                                            <h4>Doctor of Philosophy (PhD) Programme</h4>
+                                            <p > Institute offers doctoral degree (PhD) programme in Computer Science & Engineering. <br><br><br><br></p>
+                                            <div class="rating">
+                                            <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>
+                                        </div>
+                                        <div class="price pull-right"></div>
+                                        </div>
+                                    </div>
+                                    <div class="separator clearfix">
+                                        <p class="btn-add"> <a href="apply_2.html"> </a></p>
+                                        <p class="btn-details"> <a href="/programme/phd"><i class=" icon-list"></i> Details</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+        <div class="row">
+            <div class="col-md-12">
+                 <a href="courses_grid.html" class="button_medium_outline pull-right">View all courses</a>
+            </div>
+        </div>
+         </div>   <!-- End container -->
         <hr class="add_bottom_30">
 		<div class="row add_bottom_30">
         	<div class="col-md-12 text-center">

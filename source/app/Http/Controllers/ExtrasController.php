@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 
 use App\Http\Requests;
-
+use App\Gallery;
 class ExtrasController extends BaseController
 {
     /**
@@ -31,6 +31,10 @@ class ExtrasController extends BaseController
     {
         //
         return view('facilities');
+    }
+    public function gallery(){
+        $pics=Gallery::orderBy('created_at')->get();
+        return view('gallery')->with('images',$pics);
     }
 
     /**
