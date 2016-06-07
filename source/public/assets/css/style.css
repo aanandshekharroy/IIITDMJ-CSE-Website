@@ -95,7 +95,8 @@ a#logo {
 	z-index:999;
 }
 #sub-header{
-	padding:30px 0 60px 0;
+	padding: 7px 0 60px 0;
+	height: 238px;
 	color:#fff;
 	position:relative;
 	text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.4);
@@ -120,7 +121,7 @@ a#logo {
 }
 
 #main_content{
-	padding:60px 0;
+	padding:0px 0;
 	background-color:#fff;
 }
 #main_content_gray{
@@ -146,7 +147,7 @@ p.lead{
 }
 p.lead.boxed{
 	font-weight:600;
-	font-size:30px;
+	font-size: 23px;
 	background-color: #333;
 	display:inline-block;
 	padding: 3px 12px;
@@ -170,7 +171,7 @@ h1,h2,h3,h4,h5,h6 {
 h1 {
 	text-transform:uppercase;
 	font-weight:700;
-	font-size:60px;
+	font-size: 42px;
 	margin:20px 0 0 0;
 	padding:0;
 }
@@ -289,10 +290,10 @@ ul.latest_news h5{
 
 /* #Site Footer */
 footer {
-	background:#1c1c1c url(../img/logo_footer.png) no-repeat center 60px;
+	background:#1c1c1c;
 	color:#fff;
 	width:100%;
-	padding-top:150px;
+	padding-top:25px;
 	text-align:center;
 	font-size:13px;
 }
@@ -2369,6 +2370,7 @@ ul.list_1 {
 	padding:0;
 	font-weight:700;
 	font-size:14px;
+	line-height: 25px;
 }
 ul.list_1 li a {
 	text-decoration:none;
@@ -3062,11 +3064,20 @@ overflow-y:auto;
 	color:gray;
 	
 }
-
-.feature > [class^="icon-"]:before,.feature> [class*=" icon-"]:before{
-	margin-top: 17px;
+.someDiv {
+    line-height: 1.5em;
+    height: 3.6em;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: 100%;
 }
-#follow_us [class^="icon-"]:before, #follow_us [class*=" icon-"]:before {
-	margin-top: 7px;
+.normal_drop_down > ul > li > ul > li:first-child
+{
+	margin-left: 200px;
+    margin-top: -124px;
 }
-
+.normal_drop_down > ul > li > ul > li
+{
+	margin-left: 200px;
+}

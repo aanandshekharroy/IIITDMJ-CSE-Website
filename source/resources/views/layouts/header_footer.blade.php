@@ -11,7 +11,8 @@
     <link rel="apple-touch-icon" type="image/x-icon" sizes="72x72" href="/assets/img/apple-touch-icon-72x72-precomposed.png">
     <link rel="apple-touch-icon" type="image/x-icon" sizes="114x114" href="/assets/img/apple-touch-icon-114x114-precomposed.png">
     <link rel="apple-touch-icon" type="image/x-icon" sizes="144x144" href="/assets/img/apple-touch-icon-144x144-precomposed.png">
-    
+    <link href="/assets/rs-plugin/css/settings.css" media="screen" rel="stylesheet">
+
     <!-- CSS -->
     <link href="/assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="/assets/css/superfish.css" rel="stylesheet">
@@ -19,7 +20,8 @@
     <link href="/assets/fontello/css/fontello.css" rel="stylesheet">
     <link href="/assets/css/dataTables.bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
-    
+    <link rel="stylesheet" href="/assets/js/fancybox/source/jquery.fancybox.css?v=2.1.4">
+
  </head>
   <body class="Body">
     <header>
@@ -195,6 +197,11 @@
 <script src="/assets/js/classie.js"></script>
 <script src="/assets/js/uisearch.js"></script>
 <script>new UISearch( document.getElementById( 'sb-search' ) );</script>
+
+ <!-- FANCYBOX -->
+<script  src="/assets/js/fancybox/source/jquery.fancybox.pack.js?v=2.1.4" type="text/javascript"></script> 
+<script src="/assets/js/fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.5" type="text/javascript"></script> 
+<script src="/assets/js/fancy_func.js" type="text/javascript"></script> 
 
   </body>
 </html>

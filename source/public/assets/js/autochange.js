@@ -1,4 +1,4 @@
-var distance=384;
+var distance=439;
 var distance3=484.35;
 var speed=5000;
 var f=1;
@@ -7,6 +7,7 @@ var f2=1;
 var animator2;
 var f3=1;
 var animator3;
+var distance1=479;
 function show()
 {
 	alert(this.scrollTop());
@@ -15,7 +16,7 @@ function show()
 function autoScroll(el)
 {
 	var currentY = $("#"+el+"").scrollTop();
-	var yPos = currentY + distance;
+	var yPos = currentY + distance1;
 	
 		var i=currentY;
 		
@@ -31,7 +32,7 @@ function autoScroll(el)
 		},1);*/
 	$("#"+el+"").scrollTop(yPos);
 	var height = $("#"+el+"").children().height();
-	if(yPos > (3062))
+	if(yPos > (3062+479))
 	{
 		currentY=0;
 		yPos=0;
@@ -74,7 +75,7 @@ function autoScroll2(el)
 		},1);*/
 	$("#"+el+"").scrollTop(yPos);
 	var height = $("#"+el+"").children().height();
-	if(yPos > (height+374))
+	if(yPos > 1700)
 	{
 		currentY=0;
 		yPos=0;
@@ -115,7 +116,7 @@ function autoScroll3(el)
 		},1);*/
 	$("#"+el+"").scrollTop(yPos);
 	var height = $("#"+el+"").children().height();
-	if(yPos > 1756)
+	if(yPos > 1730)
 	{
 		currentY=0;
 		yPos=0;

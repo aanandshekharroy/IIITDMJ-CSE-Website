@@ -118,63 +118,63 @@
                     <img src="/assets/sliderimages/slide_6.jpg" alt="slidebg2"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                     <!-- LAYERS -->
 
-                    <!-- LAYER NR. 1 -->
-                    <div class="tp-caption medium_light_white skewfromrightshort customout"
-                        data-x="80"
-                        data-y="96"
-                        data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                        data-speed="500"
-                        data-start="800"
-                        data-easing="Back.easeOut"
-                        data-endspeed="500"
-                        data-endeasing="Power4.easeIn"
-                        data-captionhidden="on"
-                        style="z-index: 4">Enjoy
-                    </div>
+					<!-- LAYER NR. 1 -->
+					<div class="tp-caption medium_light_white skewfromrightshort customout"
+						data-x="80"
+						data-y="96"
+						data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+						data-speed="500"
+						data-start="800"
+						data-easing="Back.easeOut"
+						data-endspeed="500"
+						data-endeasing="Power4.easeIn"
+						data-captionhidden="on"
+						style="z-index: 4;background-color:rgba(230,230,230,0.7)">Enjoy
+					</div>
 
-                    <!-- LAYER NR. 2 -->
-                    <div class="tp-caption medium_thin_white skewfromleftshort customout"
-                        data-x="235"
-                        data-y="110"
-                        data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                        data-speed="500"
-                        data-start="900"
-                        data-easing="Back.easeOut"
-                        data-endspeed="500"
-                        data-endeasing="Power4.easeIn"
-                        data-captionhidden="on"
-                        style="z-index: 5">&
-                    </div>
+					<!-- LAYER NR. 2 -->
+					<div class="tp-caption medium_thin_white skewfromleftshort customout"
+						data-x="235"
+						data-y="110"
+						data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+						data-speed="500"
+						data-start="900"
+						data-easing="Back.easeOut"
+						data-endspeed="500"
+						data-endeasing="Power4.easeIn"
+						data-captionhidden="on"
+						style="z-index: 5;background-color:rgba(230,230,230,0.7)">&
+					</div>
 
-                    <!-- LAYER NR. 3 -->
-                    <div class="tp-caption large_bold_white skewfromleftshort customout"
-                        data-x="80"
-                        data-y="152"
-                        data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                        data-speed="300"
-                        data-start="1100"
-                        data-easing="Back.easeOut"
-                        data-endspeed="500"
-                        data-endeasing="Power4.easeIn"
-                        data-captionhidden="on"
-                        style="z-index: 7">Share your skills
-                    </div>
+					<!-- LAYER NR. 3 -->
+					<div class="tp-caption large_bold_white skewfromleftshort customout"
+						data-x="80"
+						data-y="152"
+						data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+						data-speed="300"
+						data-start="1100"
+						data-easing="Back.easeOut"
+						data-endspeed="500"
+						data-endeasing="Power4.easeIn"
+						data-captionhidden="on"
+						style="z-index: 7;background-color:rgba(230,230,230,0.7)">Share your skills
+					</div>
 
-                    <!-- LAYER NR. 4 -->
-                    <div class="tp-caption small_thin_white  customin customout"
-                        data-x="80"
-                        data-y="240"
-                        data-customin="x:0;y:100;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:3;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;"
-                        data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                        data-speed="500"
-                        data-start="1300"
-                        data-easing="Power4.easeOut"
-                        data-endspeed="500"
-                        data-endeasing="Power4.easeIn"
-                        data-captionhidden="on"
-                        style="z-index: 8">Slider Revolution is the highly acclaimed<br/> slide-based displaying solution, thousands of<br/> businesses, theme developers and everyday<br/> people use and love!
-                    </div>
-                </li>
+					<!-- LAYER NR. 4 -->
+					<div class="tp-caption small_thin_white  customin customout"
+						data-x="80"
+						data-y="240"
+						data-customin="x:0;y:100;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:3;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;"
+						data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+						data-speed="500"
+						data-start="1300"
+						data-easing="Power4.easeOut"
+						data-endspeed="500"
+						data-endeasing="Power4.easeIn"
+						data-captionhidden="on"
+						style="z-index: 8;background-color:rgba(30,30,30,0.7)">Slider Revolution is the highly acclaimed<br/> slide-based displaying solution, thousands of<br/> businesses, theme developers and everyday<br/> people use and love!
+					</div>
+				</li>
                 
                 <!-- SLIDE  -->
                 <li data-transition="cube-horizontal" data-slotamount="4" data-masterspeed="1000" >
@@ -182,63 +182,63 @@
                     <img src="/assets/sliderimages/slide_1.jpg" alt="slidebg3"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                     <!-- LAYERS -->
 
-                    <!-- LAYER NR. 1 -->
-                    <div class="tp-caption medium_light_white skewfromrightshort customout"
-                        data-x="80"
-                        data-y="96"
-                        data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                        data-speed="500"
-                        data-start="800"
-                        data-easing="Back.easeOut"
-                        data-endspeed="500"
-                        data-endeasing="Power4.easeIn"
-                        data-captionhidden="on"
-                        style="z-index: 4">Enjoy
-                    </div>
+					<!-- LAYER NR. 1 -->
+					<div class="tp-caption medium_light_white skewfromrightshort customout"
+						data-x="80"
+						data-y="96"
+						data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+						data-speed="500"
+						data-start="800"
+						data-easing="Back.easeOut"
+						data-endspeed="500"
+						data-endeasing="Power4.easeIn"
+						data-captionhidden="on"
+						style="z-index: 4;background-color:rgba(50,50,50,0.7)">Enjoy
+					</div>
 
-                    <!-- LAYER NR. 2 -->
-                    <div class="tp-caption medium_thin_white skewfromleftshort customout"
-                        data-x="235"
-                        data-y="110"
-                        data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                        data-speed="500"
-                        data-start="900"
-                        data-easing="Back.easeOut"
-                        data-endspeed="500"
-                        data-endeasing="Power4.easeIn"
-                        data-captionhidden="on"
-                        style="z-index: 5">&
-                    </div>
+					<!-- LAYER NR. 2 -->
+					<div class="tp-caption medium_thin_white skewfromleftshort customout"
+						data-x="235"
+						data-y="110"
+						data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+						data-speed="500"
+						data-start="900"
+						data-easing="Back.easeOut"
+						data-endspeed="500"
+						data-endeasing="Power4.easeIn"
+						data-captionhidden="on"
+						style="z-index: 5;background-color:rgba(50,50,50,0.7)">&
+					</div>
 
-                    <!-- LAYER NR. 3 -->
-                    <div class="tp-caption large_bold_white skewfromleftshort customout"
-                        data-x="80"
-                        data-y="152"
-                        data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                        data-speed="300"
-                        data-start="1100"
-                        data-easing="Back.easeOut"
-                        data-endspeed="500"
-                        data-endeasing="Power4.easeIn"
-                        data-captionhidden="on"
-                        style="z-index: 7">Improve your skills
-                    </div>
+					<!-- LAYER NR. 3 -->
+					<div class="tp-caption large_bold_white skewfromleftshort customout"
+						data-x="80"
+						data-y="152"
+						data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+						data-speed="300"
+						data-start="1100"
+						data-easing="Back.easeOut"
+						data-endspeed="500"
+						data-endeasing="Power4.easeIn"
+						data-captionhidden="on"
+						style="z-index: 7;background-color:rgba(50,50,50,0.7)">Improve your skills
+					</div>
 
-                    <!-- LAYER NR. 4 -->
-                    <div class="tp-caption small_thin_white  customin customout"
-                        data-x="80"
-                        data-y="240"
-                        data-customin="x:0;y:100;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:3;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;"
-                        data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                        data-speed="500"
-                        data-start="1300"
-                        data-easing="Power4.easeOut"
-                        data-endspeed="500"
-                        data-endeasing="Power4.easeIn"
-                        data-captionhidden="on"
-                        style="z-index: 8">Slider Revolution is the highly acclaimed<br/> slide-based displaying solution, thousands of<br/> businesses, theme developers and everyday<br/> people use and love!
-                    </div>
-                </li>
+					<!-- LAYER NR. 4 -->
+					<div class="tp-caption small_thin_white  customin customout"
+						data-x="80"
+						data-y="240"
+						data-customin="x:0;y:100;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:3;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;"
+						data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+						data-speed="500"
+						data-start="1300"
+						data-easing="Power4.easeOut"
+						data-endspeed="500"
+						data-endeasing="Power4.easeIn"
+						data-captionhidden="on"
+						style="z-index: 8;background-color:rgba(50,50,50,0.7)">Slider Revolution is the highly acclaimed<br/> slide-based displaying solution, thousands of<br/> businesses, theme developers and everyday<br/> people use and love!
+					</div>
+				</li>
                 
                  <!-- SLIDE  -->
                 <li data-transition="zoomin" data-slotamount="4" data-masterspeed="1000" >
@@ -285,7 +285,7 @@
     <div class="container">
         <div class="row">
             <div class=" col-md-10 col-md-offset-1 text-center">
-                <h2>Why Join CSE</h2>
+                <h2>Why Join CSE@IIITDMJ</h2>
                 <p class="lead">
                      To be recognized for distinctive excellence in education and research,<br>
                     An institution of choice for students and scholars and a catalyst for the sustainable socio-economic development of country.
@@ -338,14 +338,14 @@
 <div class="container">
 	<div class="row">
 		<div class="span12" >
-			<div class="card col-md-3 card-style m-15" style="height:446.67px;overflow:hidden;">
+			<div class="card col-md-3 card-style m-15" style="height: 539.67px;overflow:hidden;">
 				<header class="nav-style">
 					<div class="container-fluid">
 						<a class="navbar-" href="/faculty"><h4>Faculties</h4></a>
 					</div>
 				</header>
-				<div id="scroll" style="height:374px; overflow:hidden;">
-				<div class="card-content" style="height:374px;">
+				<div id="scroll" style="height:469px; overflow:hidden;">
+				<div class="card-content" style="height:469px;">
 					<img class="img-circle img-thumbnail" src="/assets/img/faculty/aojha.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
 					<div class="card-block">
 						<h4 class="card-title">Aparajita Ojha</h4>
@@ -353,6 +353,10 @@
 					</div>
 					<table class="table">
 						<tbody>
+							<tr>
+								<td><strong>Research Interest</strong></td>
+								<td><span class="someDiv">Geometric Modelling, Computer Aided Geometric Design, Finite Elements, Spline Theory, Approximation Theory, Wavelet Analysis, Reconstruction of signals and Noise. Object Oriented Modelling, Design Patterns.<span></td>
+							</tr>
 							<tr>
 								<td><strong>Phone:</strong></td>
 								<td>+91-761-2632 044(EX-103)</td>
@@ -371,7 +375,7 @@
 						<a href="/faculty/aojha" class="button_medium_outline">Profile</a> 
 					</div>
 				</div>
-				<div class="card-content" style="height:374px;">
+				<div class="card-content" style="height:469px;">
 					<img class="img-circle img-thumbnail" src="/assets/img/faculty/P.Khanna_pkhanna.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
 					<div class="card-block">
 						<h4 class="card-title">Pritee Khanna</h4>
@@ -379,6 +383,10 @@
 					</div>
 					<table class="table">
 						<tbody>
+							<tr>
+								<td><strong>Research Interest</strong></td>
+								<td><span class="someDiv">Computer Graphics, Computer Aided Design, Biometrics, Image Retrieval and Indexing, etc.<span></td>
+							</tr>
 							<tr>
 								<td><strong>Phone:</strong></td>
 								<td>+91-761-2632 044(EX-103)</td>
@@ -397,7 +405,7 @@
 						<a href="/faculty/pkhanna" class="button_medium_outline">Profile</a> 
 					</div>
 				</div>
-				<div class="card-content" style="height:374px;">
+				<div class="card-content" style="height:469px;">
 					<img class="img-circle img-thumbnail" src="/assets/img/faculty/atul.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
 					<div class="card-block">
 						<h4 class="card-title">Atul Gupta</h4>
@@ -405,6 +413,10 @@
 					</div>
 					<table class="table">
 						<tbody>
+							<tr>
+								<td><strong>Research Interest</strong></td>
+								<td><span class="someDiv">Software Engineering, Object-oriented Systems, Empirical Software Engineering, Software Testing, Software Engineering Education.<span></td>
+							</tr>
 							<tr>
 								<td><strong>Phone:</strong></td>
 								<td>+91-761-2632 044(EX-103)</td>
@@ -423,7 +435,7 @@
 						<a href="/faculty/atul" class="button_medium_outline">Profile</a> 
 					</div>
 				</div>
-				<div class="card-content" style="height:374px;">
+				<div class="card-content" style="height:469px;">
 					<img class="img-circle img-thumbnail" src="/assets/img/faculty/sarban - Copy.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
 					<div class="card-block">
 						<h4 class="card-title">Sraban Kumar Mohanty</h4>
@@ -431,6 +443,10 @@
 					</div>
 					<table class="table">
 						<tbody>
+							<tr>
+								<td><strong>Research Interest</strong></td>
+								<td><span class="someDiv">I/O Efficient Algorithms, Cryptography, Scinctific Computing<span></td>
+							</tr>
 							<tr>
 								<td><strong>Phone:</strong></td>
 								<td>+91-761-2632 044(EX-103)</td>
@@ -449,7 +465,7 @@
 						<a href="/faculty/sraban" class="button_medium_outline">Profile</a> 
 					</div>
 				</div>
-				<div class="card-content" style="height:374px;">
+				<div class="card-content" style="height:469px;">
 					<img class="img-circle img-thumbnail" src="/assets/img/faculty/vkjain.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
 					<div class="card-block">
 						<h4 class="card-title">Vinod Kumar Jain</h4>
@@ -457,6 +473,10 @@
 					</div>
 					<table class="table">
 						<tbody>
+							<tr>
+								<td><strong>Research Interest</strong></td>
+								<td><span class="someDiv">Wireless Networks, Location Estimation in Indoor Wireless Networks, Security Issues of Location Estimation in Indoor Wireless Networks, Machine Learning, Pattern Recognition<span></td>
+							</tr>
 							<tr>
 								<td><strong>Phone:</strong></td>
 								<td>+91-761-2632 044(EX-103)</td>
@@ -475,7 +495,7 @@
 						<a href="/faculty/vkjain" class="button_medium_outline">Profile</a> 
 					</div>
 				</div>
-				<div class="card-content" style="height:374px;">
+				<div class="card-content" style="height:469px;">
 					<img class="img-circle img-thumbnail" src="/assets/img/faculty/mkbajpai.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
 					<div class="card-block">
 						<h4 class="card-title">Manish Kumar Bajpai</h4>
@@ -483,6 +503,10 @@
 					</div>
 					<table class="table">
 						<tbody>
+							<tr>
+								<td><strong>Research Interest</strong></td>
+								<td><span class="someDiv">High Performance Computing, Image Reconstruction, Climate Change, Non-destructive Evaluation<span></td>
+							</tr>
 							<tr>
 								<td><strong>Phone:</strong></td>
 								<td>+91-761-2632 044(EX-103)</td>
@@ -498,10 +522,10 @@
 						<tbody>
 					</table>
 					<div class="card-block" align="right">
-						<a href="aojha.php" class="button_medium_outline">Profile</a> 
+						<a href="/faculty/mkbajpai" class="button_medium_outline">Profile</a> 
 					</div>
 				</div>
-				<div class="card-content" style="height:374px;">
+				<div class="card-content" style="height:469px;">
 					<img class="img-circle img-thumbnail" src="/assets/img/faculty/rgupta.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
 					<div class="card-block">
 						<h4 class="card-title">Ruchir Gupta</h4>
@@ -509,6 +533,10 @@
 					</div>
 					<table class="table">
 						<tbody>
+							<tr>
+								<td><strong>Research Interest</strong></td>
+								<td><span class="someDiv">Peer-to-Peer Networks, Information diffusion Algorithms, Reputation Management Systems, Cloud Computing<span></td>
+							</tr>
 							<tr>
 								<td><strong>Phone:</strong></td>
 								<td>+91-761-2632 044(EX-103)</td>
@@ -527,7 +555,7 @@
 						<a href="/faculty/ruchir" class="button_medium_outline">Profile</a> 
 					</div>
 				</div>
-				<div class="card-content" style="height:374px;">
+				<div class="card-content" style="height:469px;">
 					<img class="img-circle img-thumbnail" src="/assets/img/faculty/ayan.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
 					<div class="card-block">
 						<h4 class="card-title">Ayan Seal</h4>
@@ -535,6 +563,10 @@
 					</div>
 					<table class="table">
 						<tbody>
+							<tr>
+								<td><strong>Research Interest</strong></td>
+								<td><span class="someDiv">Image Processing and Pattern Recognition<span></td>
+							</tr>
 							<tr>
 								<td><strong>Phone:</strong></td>
 								<td>+91-761-2632 044(EX-103)</td>
@@ -555,72 +587,43 @@
 				</div>
 				</div>
 			</div>
-			<div class="card col-md-3 card-style m-15" style="height:446.67px;overflow:hidden;">
-				<header class="nav-style">
-					<div class="container-fluid">
-						<a class="navbar-" href="#"><h4>Students</h4></a>
-					</div>
-				</header>
-				<div id="scroll1" style="height:374px; overflow:hidden;">
-                @if(isset($students))
-                @foreach($students as $student)
-    				<div class="card-content" style="height:374px;">
-    					<img class="img-circle img-thumbnail" src="{{$student->picture}}"
-                         style="margin-bottom: 20px;width:110px;height:120px;" align="right" 
-                         data-src="..." alt="Card image cap">
-    					<div class="card-block">
-    						<h4 class="card-title">{{$student->name}}</h4>
-    						<p class="card-text">{{$student->programme}}</p>
-    					</div>
-    					<table class="table">
-    						<tbody>
-    							<tr>
-    								<td><strong>Research Topic:</strong></td>
-    								<td>{{$student->research_area}}</td>
-    							<tr>
-    							<tr>
-    								<td><strong>Email:</strong></td>
-    								<td>{{$student->email}}</td>
-    							<tr>
-    							<tr>
-    								<td><strong>Guide:</strong></td>
-    								<td><a href="/faculty/{{$student->guide->webpage}}">{{$student->guide->name}}</a></td>
-    							<tr>
-    						<tbody>
-    					</table>
-    					<div class="card-block" align="right">
-    						<a href="aojha.php" class="button_medium_outline">Profile</a> 
-    					</div>
-    				</div>
-    				@endforeach
-                    @endif
-				</div>
-			</div>
-			<div class="card col-md-3 card-style m-15" style="height: 448px;
-    overflow-y: hidden;">
-				
-				<header class="nav-style">
-					<div class="container-fluid">
-						<a class="navbar-" href="/news-and-events"><h4>Notices</h4></a>
-					</div>
-				</header>
-				<marquee class="" style="height: 448px;" behavior="scroll" direction="up" loop="infinite" scrollamount="5" onmouseover="this.stop();" onmouseout="this.start();">
-					<ul class="notice">
-                        @if( isset($notices))
-                            @foreach($notices as $notice)
-        						<li>
-                                    <a href="{{$notice->url}}" >
-                                        <span align="justify">
-                                        <i class="fa fa-info-circle" aria-hidden="true"></i>
-                                        {{$notice->title}}
-                                        </span>
-                                    </a>
-                                </li>
-                            @endforeach           
-                        @endif
-					</ul>
-				</marquee>
-			</div>
+			<div class="card col-md-6 card-style m-15" style="height:540.02px;overflow:hidden;">
+                <header class="nav-style2">
+                    <div class="container-fluid">
+                        <a class="navbar-" href="/research"><h4>Research Activities</h4></a>
+                    </div>
+                </header>
+                <div id="scroll3" style="height:459.35px;overflow:hidden;">
+                 
+                @if(isset($research))
+                    @foreach ($research as $item)
+                   
+                    <div class="post" style="height:439.35px">
+                    <img class =" img-responsive" src="/assets/img/blog-1.jpg">
+                        <a href="/research/{{$item->rId}}" ></a>
+                        <div class="post_info clearfix">
+                            <div class="post-left">
+                                <ul>
+                                    <li><i class="icon-user"></i>By <a href="#">{{$item->student->name}}</a></li>
+                                    <li>Guide:  <a href="/faculty/{{$item->faculty->webpage}}">{{$item->faculty->name}}</a></li>
+                                    <li><i class="icon-tags"></i>Tag: 
+                                        <a href="/research-group/{{$item->researchGroup->rgId}}">{{$item->researchGroup->name}}</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <h2><a href="/research/{{$item->rId}}" title="single_post.html">{{$item->title}}</a></h2>
+                        <p>
+                            {{-- */$description=str_limit($item->content,350,'...')/* --}}
+                            {{$description}}
+                        </p>
+                        <a href="/research/{{$item->rId}}" class="button_medium" >Read more</a>
+                    </div>
+
+                    @endforeach
+                @endif
+                </div>
+            </div>
 			<div class="card col-md-2 m-15">
 				<h4>Links</h4>
                 <ul class="list_1">
@@ -650,46 +653,133 @@
 
         <section id="main_content">
         <div class="container">
+        <!--<div class="row add_bottom_30">
+        	<div class="col-md-12 text-center">
+            <h2>NextCourses</h2>
+            <p class="lead">Lorem ipsum dolor sit amet, ius minim gubergren ad.</p>
+            </div>
+        </div>-->
 		<hr>
 		<div class="row">
 		  <div class="span12" >
-			<div class="card col-md-6 card-style m-15" style="height:526.02px;overflow:hidden;">
-				<header class="nav-style2">
+			<div class="card col-md-3 card-style m-15" style="height:526.02px;overflow:hidden;">
+				<header class="nav-style">
 					<div class="container-fluid">
-						<a class="navbar-" href="/research"><h4>Research Activities</h4></a>
+						<a class="navbar-" href="#"><h4>Research Group</h4></a>
 					</div>
 				</header>
-				<div id="scroll3" style="height:439.35px;overflow:hidden;">
-                 
-                @if(isset($research))
-                    @foreach ($research as $item)
-                   
-                    <div class="post" style="height:439.35px">
-                    <img class =" img-responsive" src="/assets/img/blog-1.jpg">
-                        <a href="/research/{{$item->rId}}" ></a>
-                        <div class="post_info clearfix">
-                            <div class="post-left">
-                                <ul>
-                                    <li><i class="icon-user"></i>By <a href="#">{{$item->student->name}}</a></li>
-                                    <li>Guide:  <a href="/faculty/{{$item->faculty->webpage}}">{{$item->faculty->name}}</a></li>
-                                    <li><i class="icon-tags"></i>Tag: 
-                                        <a href="/research-group/{{$item->researchGroup->rgId}}">{{$item->researchGroup->name}}</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <h2><a href="/research/{{$item->rId}}" title="single_post.html">{{$item->title}}</a></h2>
-                        <p>
-                            {{-- */$description=str_limit($item->content,350,'...')/* --}}
-                            {{$description}}
-                        </p>
-                        <a href="/research/{{$item->rId}}" class="button_medium" >Read more</a>
-                    </div>
-
-                    @endforeach
-                @endif
+				<div id="scroll1" style="height:429px; overflow:hidden;">
+				
+				<div class="card-content" style="height:429px;">
+					<img class="img-circle img-thumbnail" src="/assets/img/ResearchGroup/imagegroup.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
+					<div class="card-block">
+						<h4 class="card-title">Image and Vision Engineering Group</h4>
+						<p class="card-text"></p>
+					</div>
+					<table class="table">
+						<tbody>
+							<tr>
+								<td style="border:none !important;"><strong>Vision:</strong></td>
+								
+							</tr>
+							<tr>
+								<td style="border:none !important;"><p align="justify">The group aims to discover and realize innovative ideas in computer imaging and vision for the betterment of mankind.<br><strong>Computer vision</strong> is a field ..</p></td>
+							</tr>
+						<tbody>
+					</table>
+					<div class="card-block" align="right">
+						<a href="http://ive.iiitdmj.ac.in/" class="button_medium_outline">Details</a> 
+					</div>
 				</div>
-            </div>
+				<div class="card-content" style="height:429px;">
+					<img class="img-circle img-thumbnail" src="/assets/img/ResearchGroup/robogroup.JPG" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
+					<div class="card-block">
+						<h4 class="card-title">Robotics, Automation and Control Engineering</h4>
+						<p class="card-text"></p>
+					</div>
+					<table class="table">
+						<tbody>
+							<tr>
+								<td style="border:none !important;"><strong>Vision:</strong></td>
+								
+							</tr>
+							<tr>
+								<td style="border:none !important;"><p align="justify">Robotics is a vast field spanned the disciplines from mechanical, electrical, computer to advanced embedded systems, cognitive science. It is co ..</p> </td>
+							</tr>
+						<tbody>
+					</table>
+					<div class="card-block" align="right">
+						<a href="http://race.iiitdmj.ac.in/" class="button_medium_outline">Details</a> 
+					</div>
+				</div>
+				<div class="card-content" style="height:429px;">
+					<img class="img-circle img-thumbnail" src="/assets/img/ResearchGroup/softgroup.JPG" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
+					<div class="card-block">
+						<h4 class="card-title">Software Engineering Research Group</h4>
+						<p class="card-text"></p>
+					</div>
+					<table class="table">
+						<tbody>
+							<tr>
+								<td style="border:none !important;"><strong>Vision:</strong></td>
+								
+							</tr>
+							<tr>
+								<td style="border:none !important;"><p align="justify">"SERG" (Software Engineering Research Group) in the Computer Science & Engineering department at the PDPM Indian Institute of Information Techno ..</p></td>
+							</tr>
+						<tbody>
+					</table>
+					<div class="card-block" align="right">
+						<a href="http://serg.iiitdmj.ac.in/" class="button_medium_outline">Details</a> 
+					</div>
+				</div>
+				<div class="card-content" style="height:429px;">
+					<img class="img-circle img-thumbnail" src="/assets/img/ResearchGroup/securitygroup.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
+					<div class="card-block">
+						<h4 class="card-title">Security Research Group</h4>
+						<p class="card-text"></p>
+					</div>
+					<table class="table">
+						<tbody>
+							
+							<tr>
+								<td style="border:none !important;"><strong>Vision:</strong></td>
+								
+							</tr>
+							<tr>
+								<td style="border:none !important;"><p align="justify">We welcome you to the Security Research Group (SRG) in Indian Institute of Information Technology Design and Manufacturing Jabalpur. This group  ..</p></td>
+							</tr>
+						<tbody>
+					</table>
+					<div class="card-block" align="right">
+						<a href="http://srg.iiitdmj.ac.in/" class="button_medium_outline">Details</a> 
+					</div>
+				</div>
+				
+				
+				
+				
+				</div>
+			</div>
+			<div class="card col-md-3 card-style m-15" style="height: 527px;
+    overflow: hidden;">
+				
+				<header class="nav-style">
+					<div class="container-fluid">
+						<a class="navbar-" href="#"><h4>Notice</h4></a>
+					</div>
+				</header>
+				<marquee class="" behavior="scroll" direction="up" loop="infinite" scrollamount="5" onmouseover="this.stop();" onmouseout="this.start();">
+					<ul class="notice">
+                        @if(isset($notices))
+                            @foreach($notices as $notice)
+                                <li><a href="{{$notice->url}}" ><span align="justify"><i class="fa fa-info-circle" aria-hidden="true"></i>{{$notice->title}}</span></a></li>
+                            @endforeach
+                        @endif
+						
+					</ul>
+				</marquee>
+			</div>
 			<div class="card col-md-5 card-style m-15" >
 				<header class="nav-style3">
 					<div class="container-fluid">
@@ -714,6 +804,7 @@
 			</div>
 		</div>
 	</div>
+    <hr>
         <div class="container">
             <div class="row">
             <div class="col-md-12 text-center">
@@ -737,14 +828,15 @@
                                             <h4>Bachelor of Technology (B.Tech) Programme</h4>
                                             <p >Institute offers four year undergraduate degree (B.Tech) programme in Computer Science & Engineering. The course curriculum for the undergraduate program gives the.. </p>
                                             <div class="rating">
-                                            <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class=" icon-star-empty"></i>
+                                            <!-- <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class=" icon-star-empty"></i> -->
                                             </div>
                                             <div class="price pull-right"></div>
                                         </div>
                                     </div>
                                     <div class="separator clearfix">
                                         <p class="btn-add"> <a href="apply_2.html"> </a></p>
-                                        <p class="btn-details"> <a href="/programme/btech"><i class=" icon-list"></i> Details</a></p>
+                                        <p class="btn-details"> <a href="/programme/btech">
+                                        <i class=" icon-list"></i> Details</a></p>
                                     </div>
                                 </div>
                             </div>
@@ -762,7 +854,7 @@
                                             <h4>Master of Technology (M.Tech) Programme</h4>
                                             <p > Institute offers two year post graduate degree (M.Tech) programme in Computer Science & Engineering. The minimum residential requirement for the program is four.. </p>
                                             <div class="rating">
-                                            <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class=" icon-star-empty"></i><i class=" icon-star-empty"></i>
+                                            <!-- <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class=" icon-star-empty"></i><i class=" icon-star-empty"></i> -->
                                         </div>
                                         <div class="price pull-right"></div>
                                         </div>
@@ -787,7 +879,7 @@
                                             <h4>Doctor of Philosophy (PhD) Programme</h4>
                                             <p > Institute offers doctoral degree (PhD) programme in Computer Science & Engineering. <br><br><br><br></p>
                                             <div class="rating">
-                                            <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>
+                                            <!-- <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i> -->
                                         </div>
                                         <div class="price pull-right"></div>
                                         </div>
@@ -799,11 +891,7 @@
                                 </div>
                             </div>
                         </div>
-        <div class="row">
-            <div class="col-md-12">
-                 <a href="courses_grid.html" class="button_medium_outline pull-right">View all courses</a>
-            </div>
-        </div>
+        
          </div>   <!-- End container -->
         <hr class="add_bottom_30">
 		<div class="row add_bottom_30">
