@@ -19,7 +19,8 @@
    
     @foreach($staffData as $staff)
     	<tr>
-    	<td><img src="{{$staff->picture}}" class="img-thumbnail" style="height:100px;width:100px;"></td>
+    	<td>
+    	<img src="{{$staff->picture}}" class="img-thumbnail" style="height:100px;width:100px;"></td>
 	       <td>{{$staff->name}}</td>
 	      <td>{{$staff->designation}}</td>
 	      
