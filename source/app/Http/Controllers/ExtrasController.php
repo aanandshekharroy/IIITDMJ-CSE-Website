@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 
 use App\Http\Requests;
 use App\Gallery;
+use Redirect;
 use App\ContactUs;
 class ExtrasController extends BaseController
 {
@@ -65,7 +66,8 @@ class ExtrasController extends BaseController
         $contact_us->email=$request->input('email');
         $contact_us->message=$request->input('message');
         $contact_us->save();
-        return view('contactus');
+        //return view('contactus');
+        return Redirect::to('/');
     }
 
     /**

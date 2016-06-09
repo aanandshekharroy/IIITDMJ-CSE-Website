@@ -48,19 +48,11 @@ Dumna Airport Road,<br>
 P.O.: Khamaria,<br>
 Jabalpur - 482 005,<br>
 Madhya Pradesh, India</li>
-<li><i class="icon-phone"></i>Tel: +91-761-2632273 Fax: +91-761-2632524</li>
+<li><i class="icon-phone"></i>Tel: +91-761 2794094 Fax: +91-761-2632524</li>
 			<!--<li><i class=" icon-email"></i> <a href="#">info@domain.com</a></li>-->
 		</ul>
 		<hr>
-		<h3>Follow us</h3>
-		<p>
-			Cu affert populo neglegentur has, labore nostrum periculis ius in, singulis electram ad vel labore.
-		</p>
-		<ul id="follow_us_contacts">
-			<li><a href="#"><i class="icon-facebook"></i>fb.com/username</a></li>
-			<li><a href="#"><i class="icon-twitter"></i>twitter.com/#username</a></li>
-			<li><a href="#"><i class=" icon-google"></i>googleplus.com/username</a></li>
-		</ul>
+		
 	</div>
 	<div class="col-md-8">
 		<div class=" box_style_2">
