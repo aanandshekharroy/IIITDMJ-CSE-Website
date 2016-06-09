@@ -28,7 +28,7 @@ class CreateGalleryTable extends Migration
      */
     public function down()
     {
-        Schema::create('gallery', function (Blueprint $table) {
+        Schema::table('gallery', function (Blueprint $table) {
             //
             Schema::dropIfExists('gallery');
         });

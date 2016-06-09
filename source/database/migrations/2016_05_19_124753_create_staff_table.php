@@ -19,7 +19,7 @@ class CreateStaffTable extends Migration
             $table->string('designation');
             $table->string('department');
             $table->string('contact');
-            $table->string('picture');
+            $table->string('picture')->default('/assets/img/staff/default.jpg');
             $table->timestamps();
         });
     }

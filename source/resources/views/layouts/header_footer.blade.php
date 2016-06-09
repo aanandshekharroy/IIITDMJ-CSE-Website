@@ -45,7 +45,7 @@
 				</li>
 				<li><a href="/about-us">About Us</a></li>
 				<li class="normal_drop_down">
-				<a href="program.php">Programs</a>
+				<a href="/programme">Programs</a>
 				<div class="mobnav-subarrow"></div>
 				<ul>
                 	<li><a href="/programme/btech">B.Tech.</a></li>
@@ -91,8 +91,79 @@
 </nav>
 <!-- End of header -->
 @yield('content')
-
-
+<!-- 
+<section id="testimonials">
+<div class="container">
+	<div class="row">
+		<div class='col-md-offset-2 col-md-8 text-center'>
+			<h2>What they say</h2>
+		</div>
+	</div>
+	<div class='row'>
+		<div class='col-md-offset-2 col-md-8'>
+			<div class="carousel slide" data-ride="carousel" id="quote-carousel"> -->
+				<!-- Bottom Carousel Indicators -->
+		<!-- 		<ol class="carousel-indicators">
+					<li data-target="#quote-carousel" data-slide-to="0" class="active"></li>
+					<li data-target="#quote-carousel" data-slide-to="1"></li>
+					<li data-target="#quote-carousel" data-slide-to="2"></li>
+				</ol> -->
+				<!-- Carousel Slides / Quotes -->
+				<!-- <div class="carousel-inner"> -->
+					<!-- Quote 1 -->
+					<!-- <div class="item active">
+						<blockquote>
+							<div class="row">
+								<div class="col-sm-3 text-center">
+									<img class="img-circle" src="/assets/img/testimonial_1.jpg" alt="">
+								</div>
+								<div class="col-sm-9">
+									<p>
+										Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit!
+									</p>
+									<small>Someone famous</small>
+								</div>
+							</div>
+						</blockquote>
+					</div> -->
+					<!-- Quote 2 -->
+					<!-- <div class="item">
+						<blockquote>
+							<div class="row">
+								<div class="col-sm-3 text-center">
+									<img class="img-circle" src="/assets/img/testimonial_2.jpg" alt="">
+								</div>
+								<div class="col-sm-9">
+									<p>
+										Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam auctor nec lacus ut tempor. Mauris.
+									</p>
+									<small>Someone famous</small>
+								</div>
+							</div>
+						</blockquote>
+					</div> -->
+					<!-- Quote 3 -->
+<!-- 					<div class="item">
+						<blockquote>
+							<div class="row">
+								<div class="col-sm-3 text-center">
+									<img class="img-circle" src="/assets/img/testimonial_1.jpg" alt="">
+								</div>
+								<div class="col-sm-9">
+									<p>
+										Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut rutrum elit in arcu blandit, eget pretium nisl accumsan. Sed ultricies commodo tortor, eu pretium mauris.
+									</p>
+									<small>Someone famous</small>
+								</div>
+							</div>
+						</blockquote>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</section> -->
 
 
 <!-- Footer section -->
@@ -137,13 +208,13 @@
 				<li><a href="#"><i class=" icon-google"></i></a></li>
 			</ul>
 			<ul>
-				<li><strong class="phone">+91-761-2632273</strong><br><small>Mon - Fri / 9.00AM - 05.00PM</small></li>
-				<li>Questions? <a href="#">question@iiitdmj.ac.in</a></li>
+				<li><strong class="phone">+91-761 2794094</strong><br><small>Mon - Fri / 9.00AM - 05.00PM</small></li>
+				<!-- <li>Questions? <a href="#">question@iiitdmj.ac.in</a></li> -->
 			</ul>
 		</div><!-- End col-md-4 -->
 	</div><!-- End row -->
 </div>
-<div id="copy_right">© 1998-2014</div>
+<!-- <div id="copy_right">© 1998-2014</div> -->
 </footer>
 
 <div id="toTop">Back to top</div>

@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 
 use App\Http\Requests;
 use App\Gallery;
+use App\ContactUs;
 class ExtrasController extends BaseController
 {
     /**
@@ -46,6 +47,24 @@ class ExtrasController extends BaseController
     public function contact_us()
     {
         //
+        return view('contactus');
+    }
+    public function post_contact_us(Request $request)
+    {
+        //
+
+        $contact_us=new ContactUs;
+        // ('first_name');
+        //     $table->string('last_name');
+        //     $table->string('phone');
+        //     $table->string('email');
+        //     $table->string('message');
+        $contact_us->first_name=$request->input('first_name');
+        $contact_us->last_name=$request->input('last_name');
+        $contact_us->phone=$request->input('phone');
+        $contact_us->email=$request->input('email');
+        $contact_us->message=$request->input('message');
+        $contact_us->save();
         return view('contactus');
     }
 

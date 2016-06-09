@@ -19,6 +19,7 @@ class ProgrammeController extends BaseController
     public function index()
     {
         //
+        return view('allProgrammes');
     }
 
     /**

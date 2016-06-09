@@ -23,7 +23,7 @@ class CreateStudentsTable extends Migration
             $table->integer('fId')->unsigned()->nullable(false);
             $table->foreign('fId')->references('fId')->on('faculty');
             $table->date('completion_date');
-            $table->string('picture');
+            $table->string('picture')->default('/assets/img/students/default.jpg');
             $table->string('webpage');
             $table->timestamps();
         });

@@ -6,6 +6,7 @@
 <table id="example" class="table table-striped table-bordered" cellspacing="0" width="100%">
   <thead>
     <tr>
+    <th>Photo</th>
       <th>Name</th>
       <th>Programme</th>
       <!-- <th>Description</th> -->
@@ -20,6 +21,9 @@
    
     @foreach($students as $student)
     	<tr>
+      <td>
+      <img src="{{$student->picture}}" class="img-thumbnail" style="height:100px;width:100px;"></td>
+      
 	       <td>{{$student->name}}</td>
 	      <td>{{$student->programme}}</td>
 	      

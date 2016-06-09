@@ -34,7 +34,8 @@
                         data-endspeed="300"
                         data-endeasing="Power1.easeIn"
                         data-captionhidden="on"
-                        style="z-index: 6">PHP Working Subscription
+                        style="z-index: 6">
+                        <!-- PHP Working Subscription -->
                     </div>
 
                     <!-- LAYER NR. 3 -->
@@ -49,7 +50,8 @@
                         data-endspeed="300"
                         data-endeasing="Power1.easeIn"
                         data-captionhidden="on"
-                        style="z-index: 6">PHP Working wizard
+                        style="z-index: 6">
+                        <!-- PHP Working wizard -->
                     </div>
                     
                     <!-- LAYER NR. 3 -->
@@ -64,7 +66,8 @@
                         data-endspeed="300"
                         data-endeasing="Power1.easeIn"
                         data-captionhidden="on"
-                        style="z-index: 6">PHP Working newsletter
+                        style="z-index: 6">
+                        <!-- PHP Working newsletter -->
                     </div>
 
                     <!-- LAYER NR. 4 -->
@@ -79,7 +82,8 @@
                         data-endspeed="300"
                         data-endeasing="Power1.easeIn"
                         data-captionhidden="on"
-                        style="z-index: 8">Four Home pages
+                        style="z-index: 8">
+                        <!-- Four Home pages -->
                     </div>
 
                     <!-- LAYER NR. 5 -->
@@ -94,7 +98,8 @@
                         data-endspeed="300"
                         data-endeasing="Power1.easeIn"
                         data-captionhidden="on"
-                        style="z-index: 8">Course timeline
+                        style="z-index: 8">
+                        <!-- Course timeline -->
                     </div>
                     
                     <!-- LAYER NR. 3 -->
@@ -109,7 +114,8 @@
                         data-endspeed="300"
                         data-endeasing="Power1.easeIn"
                         data-captionhidden="on"
-                        style="z-index: 6">20 HTML pages
+                        style="z-index: 6">
+                        <!-- 20 HTML pages -->
                     </div>
                 </li>
                 <!-- SLIDE  -->
@@ -129,7 +135,8 @@
 						data-endspeed="500"
 						data-endeasing="Power4.easeIn"
 						data-captionhidden="on"
-						style="z-index: 4;background-color:rgba(230,230,230,0.7)">Enjoy
+						style="z-index: 4;background-color:rgba(230,230,230,0.7)">
+                        <!-- Enjoy -->
 					</div>
 
 					<!-- LAYER NR. 2 -->
@@ -143,7 +150,8 @@
 						data-endspeed="500"
 						data-endeasing="Power4.easeIn"
 						data-captionhidden="on"
-						style="z-index: 5;background-color:rgba(230,230,230,0.7)">&
+						style="z-index: 5;background-color:rgba(230,230,230,0.7)">
+                        <!-- & -->
 					</div>
 
 					<!-- LAYER NR. 3 -->
@@ -157,7 +165,8 @@
 						data-endspeed="500"
 						data-endeasing="Power4.easeIn"
 						data-captionhidden="on"
-						style="z-index: 7;background-color:rgba(230,230,230,0.7)">Share your skills
+						style="z-index: 7;background-color:rgba(230,230,230,0.7)">
+                        <!-- Share your skills -->
 					</div>
 
 					<!-- LAYER NR. 4 -->
@@ -172,7 +181,8 @@
 						data-endspeed="500"
 						data-endeasing="Power4.easeIn"
 						data-captionhidden="on"
-						style="z-index: 8;background-color:rgba(30,30,30,0.7)">Slider Revolution is the highly acclaimed<br/> slide-based displaying solution, thousands of<br/> businesses, theme developers and everyday<br/> people use and love!
+						style="z-index: 8;background-color:rgba(30,30,30,0.7)">
+                        <!-- Slider Revolution is the highly acclaimed<br/> slide-based displaying solution, thousands of<br/> businesses, theme developers and everyday<br/> people use and love! -->
 					</div>
 				</li>
                 
@@ -193,7 +203,8 @@
 						data-endspeed="500"
 						data-endeasing="Power4.easeIn"
 						data-captionhidden="on"
-						style="z-index: 4;background-color:rgba(50,50,50,0.7)">Enjoy
+						style="z-index: 4;background-color:rgba(50,50,50,0.7)">
+                        <!-- Enjoy -->
 					</div>
 
 					<!-- LAYER NR. 2 -->
@@ -207,7 +218,8 @@
 						data-endspeed="500"
 						data-endeasing="Power4.easeIn"
 						data-captionhidden="on"
-						style="z-index: 5;background-color:rgba(50,50,50,0.7)">&
+						style="z-index: 5;background-color:rgba(50,50,50,0.7)">
+                        <!-- & -->
 					</div>
 
 					<!-- LAYER NR. 3 -->
@@ -221,7 +233,8 @@
 						data-endspeed="500"
 						data-endeasing="Power4.easeIn"
 						data-captionhidden="on"
-						style="z-index: 7;background-color:rgba(50,50,50,0.7)">Improve your skills
+						style="z-index: 7;background-color:rgba(50,50,50,0.7)">
+                        <!-- Improve your skills -->
 					</div>
 
 					<!-- LAYER NR. 4 -->
@@ -236,7 +249,8 @@
 						data-endspeed="500"
 						data-endeasing="Power4.easeIn"
 						data-captionhidden="on"
-						style="z-index: 8;background-color:rgba(50,50,50,0.7)">Slider Revolution is the highly acclaimed<br/> slide-based displaying solution, thousands of<br/> businesses, theme developers and everyday<br/> people use and love!
+						style="z-index: 8;background-color:rgba(50,50,50,0.7)">
+                        <!-- Slider Revolution is the highly acclaimed<br/> slide-based displaying solution, thousands of<br/> businesses, theme developers and everyday<br/> people use and love! -->
 					</div>
 				</li>
                 
@@ -256,7 +270,8 @@
                         data-start="1700"
                         data-easing="Back.easeInOut"
                         data-endspeed="300"
-                        style="z-index: 11">Single or multi course
+                        style="z-index: 11">
+                        <!-- Single or multi course -->
                     </div>
 
                     <!-- LAYER NR. 11 -->
@@ -269,9 +284,10 @@
                         data-start="1900"
                         data-easing="Back.easeInOut"
                         data-endspeed="300"
-                        style="z-index: 12">Lorem ipsum dolor sit amet,<br/>
+                        style="z-index: 12">
+                        <!-- Lorem ipsum dolor sit amet,<br/>
             civibus efficiantur in<br/>
-            id tempor imperdiet deterruisse.
+            perdiet deterruisse. -->
                     </div>
                 </li>
                 
@@ -393,7 +409,7 @@
 							</tr>
 							<tr>
 								<td><strong>Email:</strong></td>
-								<td>aojha@iiitdmj.ac.in</td>
+								<td>pkhanna@iiitdmj.ac.in</td>
 							</tr>
 							<tr>
 								<td><strong>Intranet Link:</strong></td>
@@ -423,7 +439,7 @@
 							</tr>
 							<tr>
 								<td><strong>Email:</strong></td>
-								<td>aojha@iiitdmj.ac.in</td>
+								<td>atul@iiitdmj.ac.in</td>
 							</tr>
 							<tr>
 								<td><strong>Intranet Link:</strong></td>
@@ -453,7 +469,7 @@
 							</tr>
 							<tr>
 								<td><strong>Email:</strong></td>
-								<td>aojha@iiitdmj.ac.in</td>
+								<td>sraban@iiitdmj.ac.in</td>
 							</tr>
 							<tr>
 								<td><strong>Intranet Link:</strong></td>
@@ -483,11 +499,11 @@
 							</tr>
 							<tr>
 								<td><strong>Email:</strong></td>
-								<td>aojha@iiitdmj.ac.in</td>
+								<td>vkjain@iiitdmj.ac.in</td>
 							</tr>
 							<tr>
 								<td><strong>Intranet Link:</strong></td>
-								<td><a href="http://web.iiitdmj.ac.in/~aojha">Click here..</a></td>
+								<td><a href="http://web.iiitdmj.ac.in/~vkjain">Click here..</a></td>
 							</tr>
 						<tbody>
 					</table>
@@ -513,7 +529,7 @@
 							</tr>
 							<tr>
 								<td><strong>Email:</strong></td>
-								<td>aojha@iiitdmj.ac.in</td>
+								<td>mkbajpai@iiitdmj.ac.in</td>
 							</tr>
 							<tr>
 								<td><strong>Intranet Link:</strong></td>
@@ -543,7 +559,7 @@
 							</tr>
 							<tr>
 								<td><strong>Email:</strong></td>
-								<td>aojha@iiitdmj.ac.in</td>
+								<td>rgupta@iiitdmj.ac.in</td>
 							</tr>
 							<tr>
 								<td><strong>Intranet Link:</strong></td>
@@ -573,11 +589,11 @@
 							</tr>
 							<tr>
 								<td><strong>Email:</strong></td>
-								<td>aojha@iiitdmj.ac.in</td>
+								<td>ayan@iiitdmj.ac.in</td>
 							</tr>
 							<tr>
 								<td><strong>Intranet Link:</strong></td>
-								<td><a href="http://web.iiitdmj.ac.in/~aojha">Click here..</a></td>
+								<td><a href="http://web.iiitdmj.ac.in/~ayan">Click here..</a></td>
 							</tr>
 						<tbody>
 					</table>

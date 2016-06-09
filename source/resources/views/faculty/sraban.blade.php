@@ -1,6 +1,6 @@
 @extends('layouts.header_footer')
 @section('content')
-<section id="sub-header">
+<section id="sub-header" class="faculty">
 <div class="container">
 	<div class="row">
 		<div class="col-md-10 col-md-offset-1 text-center">

@@ -121,7 +121,7 @@ a#logo {
 }
 
 #main_content{
-	padding:0px 0;
+	padding:30px 0;
 	background-color:#fff;
 }
 #main_content_gray{
@@ -3080,4 +3080,7 @@ overflow-y:auto;
 .normal_drop_down > ul > li > ul > li
 {
 	margin-left: 200px;
+}
+.faculty{
+	height:160px !important;
 }

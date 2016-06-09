@@ -6,10 +6,9 @@
 	<div class="row">
 		<div class="col-md-10 col-md-offset-1 text-center">
 			<h1>About Us</h1>
-			<p class="lead boxed ">“Words can be like X-rays if you use them properly -- they’ll go through anything. You read and you’re pierced.” 
-</p>
+			<p class="lead boxed ">Indian Institute of Information Technology, Design and Manufacturing (IIITDM) Jabalpur, one of the premier technical Institutes of the country, established by Ministry of Human Resource Development (MHRD), Government of India.</p>
 			<p class="lead">
-                    ― Aldous Huxley, Brave New World 
+                    
             </p>
 		</div>
 	</div><!-- End row -->

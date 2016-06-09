@@ -71,17 +71,18 @@ Madhya Pradesh, India</li>
 				</div>
 			</div>
 			<div id="message-contact"></div>
-			<form method="post" action="assets/contact.php" id="contactform">
+			<form method="POST" action="{{ url('/contact-us')}}" id="">
+			<input type="hidden" class="_token" name="_token" value="{{{csrf_token()}}}">
 				<div class="row">
 					<div class="col-md-6 col-sm-6">
 						<div class="form-group">
-							<input type="text" class="form-control style_2" id="name_contact" name="name_contact" placeholder="Enter Name">
+							<input type="text" class="form-control style_2" id="name_contact" name="first_name" placeholder="Enter Name">
                             <span class="input-icon"><i class="icon-user"></i></span>
 						</div>
 					</div>
 					<div class="col-md-6 col-sm-6">
 						<div class="form-group">
-							<input type="text" class="form-control style_2" id="lastname_contact" name="lastname_contact" placeholder="Enter Last Name">
+							<input type="text" class="form-control style_2" id="lastname_contact" name="last_name" placeholder="Enter Last Name">
                             <span class="input-icon"><i class="icon-user"></i></span>
 						</div>
 					</div>
@@ -89,13 +90,13 @@ Madhya Pradesh, India</li>
 				<div class="row">
 					<div class="col-md-6 col-sm-6">
 						<div class="form-group">
-							<input type="email" id="email_contact" name="email_contact" class="form-control style_2" placeholder="Enter Email">
+							<input type="email" id="email_contact" name="email" class="form-control style_2" placeholder="Enter Email">
                             <span class="input-icon"><i class="icon-email"></i></span>
 						</div>
 					</div>
 					<div class="col-md-6 col-sm-6">
 						<div class="form-group">
-							<input type="text" id="phone_contact" name="phone_contact" class="form-control style_2" placeholder="Enter Phone number">
+							<input type="text" id="phone_contact" name="phone" class="form-control style_2" placeholder="Enter Phone number">
                             <span class="input-icon"><i class="icon-phone"></i></span>
 						</div>
 					</div>
@@ -103,14 +104,14 @@ Madhya Pradesh, India</li>
 				<div class="row">
 					<div class="col-md-12">
 						<div class="form-group">
-							<textarea rows="5" id="message_contact" name="message_contact" class="form-control" placeholder="Write your message" style="height:200px;"></textarea>
+							<textarea rows="5" id="message_contact" name="message" class="form-control" placeholder="Write your message" style="height:200px;"></textarea>
 						</div>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-12">
-						<input type="text" id="verify_contact" class=" form-control" placeholder="Are you human? 3 + 1 =">
-						<input type="submit" value="Submit" class=" button_medium" id="submit-contact"/>
+						<!-- <input type="text" id="verify_contact" class=" form-control" placeholder="Are you human? 3 + 1 ="> -->
+						<input type="submit" value="Submit" class=" button_medium" id=""/>
 					</div>
 				</div>
 			</form>
