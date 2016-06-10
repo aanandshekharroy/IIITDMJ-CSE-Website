@@ -4,7 +4,7 @@
   	<meta charset="utf-8">
     <title>Computer Science department IIITDM Jabalpur</title>
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no">
-    
+@yield('css')
     <!-- Favicons-->
     <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon"/>
     <link rel="apple-touch-icon" type="image/x-icon" href="/assets/img/apple-touch-icon-57x57-precomposed.png">
@@ -21,8 +21,6 @@
     <link href="/assets/css/dataTables.bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
     <link rel="stylesheet" href="/assets/js/fancybox/source/jquery.fancybox.css?v=2.1.4">
-	<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
-<link href="//cdn.shopify.com/s/files/1/0691/5403/t/121/assets/style.scss.css?3719080539427352740" rel="stylesheet" type="text/css"  media="all"  />
 
  </head>
   <body class="Body">

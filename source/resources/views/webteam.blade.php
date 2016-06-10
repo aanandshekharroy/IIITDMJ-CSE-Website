@@ -1,4 +1,10 @@
 @extends('layouts.header_footer')
+@section('css')
+<link href="//cdn.shopify.com/s/files/1/0691/5403/t/121/assets/style.scss.css?3719080539427352740" rel="stylesheet" type="text/css"  media="all"  />
+    
+	<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+
+@endsection
 @section('content')
 <section id="sub-header" style="height: 160px;">
 <div class="container">
