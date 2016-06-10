@@ -34,6 +34,6 @@ Route::post('/contact-us','ExtrasController@post_contact_us');
 Route::get("/gallery",'ExtrasController@gallery');
 Route::auth();
 Route::get('/home', 'HomeController@index');
-
+Route::get('/web-team','ExtrasController@webteam');
 Route::get('/staff', 'StaffController@index');
 

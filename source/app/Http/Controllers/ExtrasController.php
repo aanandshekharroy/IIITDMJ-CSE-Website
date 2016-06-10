@@ -23,7 +23,9 @@ class ExtrasController extends BaseController
         //
         return view('aboutus');
     }
-
+    public function webteam(){
+        return view('webteam');
+    }
     /**
      * Show the form for creating a new resource.
      *

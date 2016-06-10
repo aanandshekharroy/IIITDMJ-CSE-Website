@@ -21,6 +21,8 @@
     <link href="/assets/css/dataTables.bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
     <link rel="stylesheet" href="/assets/js/fancybox/source/jquery.fancybox.css?v=2.1.4">
+	<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<link href="//cdn.shopify.com/s/files/1/0691/5403/t/121/assets/style.scss.css?3719080539427352740" rel="stylesheet" type="text/css"  media="all"  />
 
  </head>
   <body class="Body">
@@ -196,9 +198,9 @@
 			<h4>About IIITDM</h4>
 			<ul>
 				<li><a href="/about-us">About Us</a></li>
-				<li><a href="#">Web Team</a></li>
+				<li><a href="/web-team">Web Team</a></li>
 				<li><a href="#">Terms and conditions</a></li>
-				<li><a href="#">Register</a></li>
+				<!-- <li><a href="#">Register</a></li> -->
 			</ul>
 		</div><!-- End col-md-4 -->
 		<div class="col-md-3 col-sm-3">
