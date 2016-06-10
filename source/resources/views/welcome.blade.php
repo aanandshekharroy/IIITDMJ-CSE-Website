@@ -350,7 +350,7 @@
     </section><!-- End main-features -->
     
     
-        <section class="Faculty"> 
+<section id="main_content"> 
 <div class="container">
 	<div class="row">
 		<div class="span12" >
@@ -663,12 +663,12 @@
 			
 		</div>
 	</div>
-</div>
-
+<!-- </div>
 </section>
+<hr>
+<section id="main_content">
+    <div class="container"> -->
 
-        <section id="main_content">
-        <div class="container">
         <!--<div class="row add_bottom_30">
         	<div class="col-md-12 text-center">
             <h2>NextCourses</h2>
