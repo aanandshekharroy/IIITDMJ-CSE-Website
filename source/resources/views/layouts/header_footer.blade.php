@@ -198,7 +198,7 @@
 				<li><a href="/about-us">About Us</a></li>
 				<li><a href="/web-team">Web Team</a></li>
 				<li><a href="#">Terms and conditions</a></li>
-				<!-- <li><a href="#">Register</a></li> -->
+				<li><a href="http://placement.iiitdmj.ac.in">Training and Placement</a></li>
 			</ul>
 		</div><!-- End col-md-4 -->
 		<div class="col-md-3 col-sm-3">
