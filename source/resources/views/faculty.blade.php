@@ -102,13 +102,13 @@
                                     <li><a href="#"><i class=" icon-google"></i></a></li>
 							</ul>    
                             <hr>
-                             <a href="/faculty/ruchir" class="button_medium_outline">Profile</a>                 
+                             <a href="/faculty/rgupta" class="button_medium_outline">Profile</a>                 
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-6">
                         	<div class=" box_style_3">
                             	<p><img src="/assets/img/faculty/ayan.jpg" alt="Teacher" class="img-circle styled"></p>
-                                <h4 class="p-title">Mr. Ayan Seal <small>Visiting Faculty </small></h4>
+                                <h4 class="p-title">Dr. Ayan Seal <small>Assistant Professor</small></h4>
              					<p> Image Processing and Pattern Recognition<br><br><br><br></p>
                                 <ul class="social_team">
                                     <li><a href="#"><i class="icon-facebook"></i></a></li>

@@ -575,7 +575,7 @@
 					<img class="img-circle img-thumbnail" src="/assets/img/faculty/ayan.jpg" style="margin-bottom: 20px;width:110px;height:120px;" align="right" data-src="..." alt="Card image cap">
 					<div class="card-block">
 						<h4 class="card-title">Ayan Seal</h4>
-						<p class="card-text">Visiting Faculty</p>
+						<p class="card-text">Assistant Professor</p>
 					</div>
 					<table class="table">
 						<tbody>
